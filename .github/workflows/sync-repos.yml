@@ -10,24 +10,24 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout dialog repository
+      - name: Checkout dialogue repository
         uses: actions/checkout@v4
         with:
-          repository: iamjoel/dialog
+          repository: iamjoel/dialogue
 
-      - name: Checkout repository dialog view service
+      - name: Checkout repository dialogue view service
         uses: actions/checkout@v4
         with:
-          repository: iamjoel/dialog-view-service
+          repository: iamjoel/dialogue-view-service
 
 
       - name: Sync contents
         run: |
-          rm -rf iamjoel/dialog-view-service/contents/*
-          cp -r iamjoel/dialog/contents/* iamjoel/dialog-view-service/contents/
-          cd iamjoel/dialog-view-service
+          rm -rf iamjoel/dialogue-view-service/contents/*
+          cp -r iamjoel/dialogue/contents/* iamjoel/dialogue-view-service/contents/
+          cd iamjoel/dialogue-view-service
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Sync content from repo dialog"
+          git commit -m "Sync content from repo dialogue"
           git push
