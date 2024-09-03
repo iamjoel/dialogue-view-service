@@ -18,14 +18,14 @@ jobs:
     - name: Fetch iamjoel/dialogue
       run: |
         git clone --depth 1 https://github.com/iamjoel/dialogue.git temp-dialogue
-        rm -rf contents/*
-        cp -r temp-dialogue/contents/* contents/
+        rm -rf content/*
+        cp -r temp-dialogue/content/* content/
         rm -rf temp-dialogue
 
     - name: Commit and Push Changes
       run: |
         git config --local user.name "GitHub Action"
         git config --local user.email "action@github.com"
-        git add contents/
+        git add content/
         git commit -m "Sync from iamjoel/dialogue"
         git push origin main
