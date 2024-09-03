@@ -1,0 +1,31 @@
+name: Sync iamjoel/dialogue to iamjoel/dialogue-view-service
+
+on:
+  workflow_dispatch:  # Allow manual triggering of the workflow
+  repository_dispatch:  # Allow external repositories to trigger this workflow
+    types: [sync_request]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout iamjoel/dialogue-view-service
+      uses: actions/checkout@v2
+      with:
+        ref: main
+
+    - name: Fetch iamjoel/dialogue
+      run: |
+        git clone --depth 1 https://github.com/iamjoel/dialogue.git temp-dialogue
+        rm -rf contents/*
+        cp -r temp-dialogue/contents/* contents/
+        rm -rf temp-dialogue
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.name "GitHub Action"
+        git config --local user.email "action@github.com"
+        git add contents/
+        git commit -m "Sync from iamjoel/dialogue"
+        git push origin main
