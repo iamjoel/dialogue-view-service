@@ -4,6 +4,13 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/14
+* the  benefits of the job 
+* put effort into sth  努力做
+
+## 09/13
+* put up with 忍受 xxx
+
 ## 09/12
 * apologize 
 * faint 晕倒
