@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Tue, 01 Oct 2024 03:18:28 GMT</pubDate>
+    <pubDate>Thu, 03 Oct 2024 08:21:56 GMT</pubDate>
+  </item><item>
+    <title>《囚徒健身》</title>
+    <link>https://iamjoel.github.io/dialogue/tech/health/sport/resource/convict-conditioning</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/health/sport/resource/convict-conditioning</guid>
+    <description>观点 依赖自身体重来健身，相对的是依赖健身器械。 健身房锻炼的人可以练出健美的力量和肌肉线条，但整体的协调性不行。.</description>
+    <pubDate>Thu, 03 Oct 2024 08:21:46 GMT</pubDate>
+  </item><item>
+    <title>保持活力的 5 种方法</title>
+    <link>https://iamjoel.github.io/dialogue/tech/health/sport/resource/enegy-managenent</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/health/sport/resource/enegy-managenent</guid>
+    <description>5 Ways To Have 10x More Energy Throughout The Day。 作者: Joey Schweitzer 如果你觉得睡眠充足却还是感觉累。问题出在哪里？ You’re getting enough sleep, but you’re still feeling tired.</description>
+    <pubDate>Thu, 03 Oct 2024 08:21:46 GMT</pubDate>
+  </item><item>
+    <title>痛风</title>
+    <link>https://iamjoel.github.io/dialogue/tech/health/treatment/disease/gout</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/health/treatment/disease/gout</guid>
+    <description>痛风：少吃海鲜，少喝啤酒，少吃豆类，蘑菇，少喝肉汤（嘌呤溶于水）。 动物肝脏、肉汤、火锅、豆类和菌类食物含嘌呤高，水果、蔬菜、蛋类、奶类含嘌呤相对较少。 尿酸是嘌呤的代谢物。 嘌呤实际上是核苷酸的重要组成部分，是细胞核中的一个组成成分。 嘌呤都在肝脏、小肠及肾脏中分解代谢成为尿酸，最终三分之一由肠道排出，三分之二从肾脏排出。 酸浓度增高到一定程度，形成局部结晶体，沉积于关节、软组织、软骨及肾脏等处，会导致关节炎、尿路结石及肾疾患，进而会引发痛风。 喝酒会导致痛风的原因 第一，酒中所含的乙醇会在肝脏中转化为乙醛，而乙醛过量形成的代谢产物会引起乳酸水平增加。乳酸属于酸性代谢产物，与尿酸在肾小管中竞争排泄，肾小管的排泄量是有限的，排了乳酸就排不出尿酸，由此导致尿酸增加。 第二，大量饮酒可以促进肝脏ATP的降解，嘌呤分解加速，尿酸产生增多。 啤酒不仅抑制尿酸排泄，而且还含有大量嘌呤成分，这样尿酸产生得多，排出又困难，自然会出现血尿酸值上涨的情况。 粮食里的豆类最好不要吃，蔬菜里的豆芽菜、扁豆、豇豆、豌豆停一停。 不过，有一种豆制品例外，这就是豆腐。人们在做豆腐的时候，已经把含嘌呤的豆汁基本隔离出去了，所以对于爱吃豆制品的患者来说，这种食物相对来说会好一些。.</description>
+    <pubDate>Thu, 03 Oct 2024 08:21:46 GMT</pubDate>
+  </item><item>
+    <title>肾</title>
+    <link>https://iamjoel.github.io/dialogue/tech/health/treatment/disease/shen</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/health/treatment/disease/shen</guid>
+    <description>大豆的植物蛋白含量高，对肾的压力比较大。 融水的物质走肾脏，脂肪代谢走肠道和肝脏。.</description>
+    <pubDate>Thu, 03 Oct 2024 08:21:46 GMT</pubDate>
+  </item><item>
+    <title>药物</title>
+    <link>https://iamjoel.github.io/dialogue/tech/health/treatment/medicine/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/health/treatment/medicine/readme</guid>
+    <description>药物、激素或补充剂。.</description>
+    <pubDate>Thu, 03 Oct 2024 08:21:46 GMT</pubDate>
+  </item><item>
+    <title>治疗</title>
+    <link>https://iamjoel.github.io/dialogue/tech/health/treatment/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/health/treatment/readme</guid>
+    <description>心血管指标 心脏CT扫描。冠状动脉是否存在钙化，冠状动脉钙化是晚期动脉粥样硬化的标志。 apoB检测。apoB比简单的LDL-C（标准的“坏胆固醇”指标）更能预测心血管疾病。 LDL-C(低密度胆固醇)。低密度脂蛋含量高，提升风险。 .</description>
+    <pubDate>Thu, 03 Oct 2024 08:21:46 GMT</pubDate>
   </item><item>
     <title>技术</title>
     <link>https://iamjoel.github.io/dialogue/tech/readme</link>
     <guid>https://iamjoel.github.io/dialogue/tech/readme</guid>
     <description>解决问题的方法论。所谓 “道”。这边主要放两种类型的内容： 学科。比如: 数学，经济学，艺术。 技能。比如: 数据分析，阅读，写作，管理，数据可视化。 这两种类型有时并没有明显的界限。 导航 如何延长健康寿命 内容作用身体是如何工作的身体的能量来源。抵抗熵增。饮食身体的能量来源。抵抗熵增。运动增强身体的活力。休息有利于身体恢复。情绪对影响到行为，对身体健康有只要意义治疗辅助身体恢复健康。 如何获取财富 内容作用产品洞察用户需求，开发出产品运营获取用户数据分析 如何找到人生的意义 内容作用 模板 主题概览 .</description>
-    <pubDate>Tue, 01 Oct 2024 03:18:16 GMT</pubDate>
+    <pubDate>Thu, 03 Oct 2024 08:21:46 GMT</pubDate>
   </item><item>
-    <title>《疯狂的尿酸》</title>
-    <link>https://iamjoel.github.io/dialogue/tech/health/base/resource/the-surprising-new-science-of-uric-cid</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/health/base/resource/the-surprising-new-science-of-uric-cid</guid>
-    <description>基础信息 作者：戴维·珀尔马特。医学博士，经过官方资格认证的美国执业医师，美国营养学会的成员。健康科普专家。还写过《谷物大脑》等书籍。 副标题：不止是痛风。 原作名：The Surprising New Science of Uric Acid—the Key to Losing Weight, Controlling Blood Sugar, and Achieving Extraordinary Health 主要内容 高尿酸对人体健康有很多负面影响 高尿酸的原因 如何降低尿酸 高尿酸对人体健康有很多负面影响 1 高尿酸和高血压 首先，高尿酸水平会引发一系列生化反应。这些反应被统称为氧化应激，从而导致血管收缩。在这种情况下，心脏必须更加努力以促进血液循环，血压因此而升高。 其次，体内尿酸持续过剩可能会导致肾脏出现持久性损伤和炎症，这样肾脏就无法正常工作并排出盐分。这些盐分滞留进一步导致血压升高，因为血液中的盐的增加，会将水吸入血管，这会增加血管中的血液总量，从而导致血压的增加。 2 高尿酸打开储存脂肪的开关 高尿酸打开储存脂肪的开关。该开关开时，果糖会转化为脂肪。 3 高尿酸提升全因死亡风险 2020年，日本的研究人员开展了一项研究，他们花了7年时间跟踪研究了50多万名年龄为40～74岁的人，观察了他们血液中尿酸含量与心血管病死亡以及全因死亡之间的关系。他们发现，​“男性血清尿酸浓度≥7mg/dL(416.</description>
-    <pubDate>Tue, 01 Oct 2024 03:18:16 GMT</pubDate>
+    <title>神经科学</title>
+    <link>https://iamjoel.github.io/dialogue/tech/health/base/neuroscience/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/health/base/neuroscience/readme</guid>
+    <description>关于大脑的科学 资源 大脑科普书 《重塑超级大脑》 .</description>
+    <pubDate>Thu, 03 Oct 2024 08:21:46 GMT</pubDate>
   </item><item>
-    <title>情绪</title>
-    <link>https://iamjoel.github.io/dialogue/tech/health/mood/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/health/mood/readme</guid>
-    <description>愉快与不愉快 如果说感到不愉快是被蛇咬的话，那么感到愉快就是一把抓住了这条蛇的尾巴。或早或晚，这条蛇总会咬你的。 泰国冥想大师阿姜·查 .</description>
-    <pubDate>Tue, 01 Oct 2024 03:18:16 GMT</pubDate>
-  </item><item>
-    <title>放松</title>
-    <link>https://iamjoel.github.io/dialogue/tech/health/mood/relax</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/health/mood/relax</guid>
-    <description>歌单 《回到那个夏天》 久石让 《往事随风》 齐秦 .</description>
-    <pubDate>Tue, 01 Oct 2024 03:18:16 GMT</pubDate>
-  </item><item>
-    <title>庐山 - 诺那塔院</title>
-    <link>https://iamjoel.github.io/dialogue/tech/health/mood/zen-meditation/nuoanta</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/health/mood/zen-meditation/nuoanta</guid>
-    <description>打坐，干活(出坡)，诵经。 报名：诺那塔寺公众号报名。 庐山禅修之行（下）诺那塔院禅修小结 .</description>
-    <pubDate>Tue, 01 Oct 2024 03:18:16 GMT</pubDate>
-  </item><item>
-    <title>禅修</title>
-    <link>https://iamjoel.github.io/dialogue/tech/health/mood/zen-meditation/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/health/mood/zen-meditation/readme</guid>
-    <description> 庐山 - 诺那塔院 .</description>
-    <pubDate>Tue, 01 Oct 2024 03:18:16 GMT</pubDate>
-  </item><item>
-    <title>营养学</title>
-    <link>https://iamjoel.github.io/dialogue/tech/health/nutrition/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/health/nutrition/readme</guid>
-    <description>本质 吃什么。 吃多少。 什么时候吃。 情况评估 1.你是营养不良还是营养过剩？ 2.你是肌肉不足还是肌肉充足？ 3.你的新陈代谢是否健康？ 《超越百岁》 评估营养情况 体重指数(BMI) 计算方法： 体重(kg) / 身高(m)的平方。比如，一个人 70kg，178cm，则 BMI 为 70 / (1.</description>
-    <pubDate>Tue, 01 Oct 2024 03:18:16 GMT</pubDate>
-  </item><item>
-    <title>花青素</title>
-    <link>https://iamjoel.github.io/dialogue/tech/health/nutrition/resource/anthocyanidin</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/health/nutrition/resource/anthocyanidin</guid>
-    <description>花青素是一种水溶性色素，是构成花瓣和果实的主要色素之一。 对人的益处 花青素为人体带来多种益处。 清除自由基。花青素是一种强有力的抗氧化剂，它能够保护人体中的自由基。自由基是造成老化及诸多疾病的重要原因之一 增进视力。医学临床报告显示花青素可促进视网膜细胞中视紫质的再生成，可预防重度近视及视网膜剥离，并可增进视力。 富含花青素的食物 蓝莓 桑葚 葡萄 .</description>
-    <pubDate>Tue, 01 Oct 2024 03:18:16 GMT</pubDate>
-  </item><item>
-    <title>《空腹的神奇治愈力》</title>
-    <link>https://iamjoel.github.io/dialogue/tech/health/nutrition/resource/eat-less</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/health/nutrition/resource/eat-less</guid>
-    <description>少吃。消化食物需要很多能量。消化一顿饭的所需能量，相当于跑一场马拉松。所以，生病以及很累的时候应该少吃。平时也应该少吃(轻断食)：不吃早饭，不吃晚饭，以及只吃一顿。 其他推荐： 积极的状态： 笑，感恩。 一些运动的姿势。 基础信息 作者: 船濑俊介。日本的知名的医疗，健康评论家。他65岁身体状态像30岁。 出版时间: 主要论据： 《马克加邦报告》 《中国健康调查报告》 书摘 “有意识地断食，意味着生物本能的觉醒。” 厄普顿·辛克莱说： 消费主义希望人多吃。 每天空腹才愉悦，满肚子食物就沮丧。 少吃恢复的更快 通过断食，能够把消化食物的能量转移并集中到免疫、排毒功能中去。 另外，饥饿感会打开生命力开关。饥饿对身体来说是一种危机状态。因此，警报一响，身体里的生命保障系统便一齐运作。于是，就打开了免疫力、自然治愈力、排毒能力的开关，白细胞等免疫细胞也不断增加。 其他 位列不良生活习惯首位的是饱食，第二是高热量饮食。 中老年人群中急剧变老的人，有的是因为每日都过度饮食。 最先发表实验数据的是前面介绍过的美国康奈尔大学的营养学家，克莱夫·M.</description>
-    <pubDate>Tue, 01 Oct 2024 03:18:16 GMT</pubDate>
+    <title>器官</title>
+    <link>https://iamjoel.github.io/dialogue/tech/health/base/organ</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/health/base/organ</guid>
+    <description>1. 大脑 中枢神经系统的核心 控制思维、记忆、情感和行为 调节身体功能和处理感官信息 2. 心脏 循环系统的泵 将血液输送到全身各处 为组织提供氧气和营养 3. 肺 负责呼吸 吸入氧气并排出二氧化碳 维持血液气体平衡 4. 肝脏 身体最大的内脏 解毒、产生胆汁 储存和处理营养物质 5. 肾脏 过滤血液，排出废物 调节体内水分、电解质平衡 产生某些激素 6.</description>
+    <pubDate>Thu, 03 Oct 2024 08:21:46 GMT</pubDate>
   </item>
     </channel>
   </rss>
