@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Tue, 08 Oct 2024 02:26:45 GMT</pubDate>
+    <pubDate>Tue, 08 Oct 2024 09:11:58 GMT</pubDate>
+  </item><item>
+    <title>运动的好处</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/benefits</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/benefits</guid>
+    <description>运动的好处很多。可以分成三类： 1 运动有利于身体健康 运动可以有效提升心肺功能，促进人体新陈代谢，增强肌肉韧带力量。同时，能改善睡眠。让人精力充沛。 运动能增加高密度脂蛋白胆固醇（“好”胆固醇），并减少不健康的甘油三酯类。如此双管齐下，可保持血液顺畅流动，降低罹患心脏和血管疾病（即心血管疾病）的风险。运动还能预防或控制以下疾病： 卒中。 代谢综合征。 高血压。 2 型糖尿病。 2 有利于心理健康 运动能降低抑郁的发病率。 奥地利的一项研究表明，完全没有运动习惯的人与每周运动1～2小时的人相比，抑郁症的发病风险高44%。不运动的人在1年后抑郁症的发病率是定期运动的人的1.</description>
+    <pubDate>Tue, 08 Oct 2024 09:11:47 GMT</pubDate>
+  </item><item>
+    <title>运动</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/readmd</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/readmd</guid>
+    <description> That which cost us energy given energy. 消耗我们能量的东西会带来能量。 运动有利于身心健康，并且还让大脑更聪明(运动的好处)。 该如何运动？《囚徒健身》 有详尽的循序渐进的健身动作和计划。.</description>
+    <pubDate>Tue, 08 Oct 2024 09:11:47 GMT</pubDate>
+  </item><item>
+    <title>《囚徒健身》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/convict-conditioning</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/convict-conditioning</guid>
+    <description>观点 依赖自身体重来健身，相对的是依赖健身器械。 健身房锻炼的人可以练出健美的力量和肌肉线条，但整体的协调性不行。.</description>
+    <pubDate>Tue, 08 Oct 2024 09:11:47 GMT</pubDate>
+  </item><item>
+    <title>保持活力的 5 种方法</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/enegy-managenent</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/enegy-managenent</guid>
+    <description>5 Ways To Have 10x More Energy Throughout The Day。 作者: Joey Schweitzer 如果你觉得睡眠充足却还是感觉累。问题出在哪里？ You’re getting enough sleep, but you’re still feeling tired.</description>
+    <pubDate>Tue, 08 Oct 2024 09:11:47 GMT</pubDate>
   </item><item>
     <title>痛风</title>
     <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/gout</link>
     <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/gout</guid>
     <description>痛风：少吃海鲜，少喝啤酒，少吃豆类，蘑菇，少喝肉汤（嘌呤溶于水）。 动物肝脏、肉汤、火锅、豆类和菌类食物含嘌呤高，水果、蔬菜、蛋类、奶类含嘌呤相对较少。 尿酸是嘌呤的代谢物。 嘌呤实际上是核苷酸的重要组成部分，是细胞核中的一个组成成分。 嘌呤都在肝脏、小肠及肾脏中分解代谢成为尿酸，最终三分之一由肠道排出，三分之二从肾脏排出。 酸浓度增高到一定程度，形成局部结晶体，沉积于关节、软组织、软骨及肾脏等处，会导致关节炎、尿路结石及肾疾患，进而会引发痛风。 喝酒会导致痛风的原因 第一，酒中所含的乙醇会在肝脏中转化为乙醛，而乙醛过量形成的代谢产物会引起乳酸水平增加。乳酸属于酸性代谢产物，与尿酸在肾小管中竞争排泄，肾小管的排泄量是有限的，排了乳酸就排不出尿酸，由此导致尿酸增加。 第二，大量饮酒可以促进肝脏ATP的降解，嘌呤分解加速，尿酸产生增多。 啤酒不仅抑制尿酸排泄，而且还含有大量嘌呤成分，这样尿酸产生得多，排出又困难，自然会出现血尿酸值上涨的情况。 粮食里的豆类最好不要吃，蔬菜里的豆芽菜、扁豆、豇豆、豌豆停一停。 不过，有一种豆制品例外，这就是豆腐。人们在做豆腐的时候，已经把含嘌呤的豆汁基本隔离出去了，所以对于爱吃豆制品的患者来说，这种食物相对来说会好一些。.</description>
-    <pubDate>Tue, 08 Oct 2024 02:26:34 GMT</pubDate>
+    <pubDate>Tue, 08 Oct 2024 09:11:47 GMT</pubDate>
   </item><item>
     <title>肾</title>
     <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/shen</link>
     <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/shen</guid>
     <description>大豆的植物蛋白含量高，对肾的压力比较大。 融水的物质走肾脏，脂肪代谢走肠道和肝脏。.</description>
-    <pubDate>Tue, 08 Oct 2024 02:26:34 GMT</pubDate>
+    <pubDate>Tue, 08 Oct 2024 09:11:47 GMT</pubDate>
   </item><item>
     <title>药物</title>
     <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/medicine/readme</link>
     <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/medicine/readme</guid>
     <description>药物、激素或补充剂。.</description>
-    <pubDate>Tue, 08 Oct 2024 02:26:34 GMT</pubDate>
+    <pubDate>Tue, 08 Oct 2024 09:11:47 GMT</pubDate>
   </item><item>
     <title>治疗</title>
     <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/readme</link>
     <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/readme</guid>
     <description>心血管指标 心脏CT扫描。冠状动脉是否存在钙化，冠状动脉钙化是晚期动脉粥样硬化的标志。 apoB检测。apoB比简单的LDL-C（标准的“坏胆固醇”指标）更能预测心血管疾病。 LDL-C(低密度胆固醇)。低密度脂蛋含量高，提升风险。 .</description>
-    <pubDate>Tue, 08 Oct 2024 02:26:34 GMT</pubDate>
+    <pubDate>Tue, 08 Oct 2024 09:11:47 GMT</pubDate>
   </item><item>
-    <title>问题</title>
-    <link>https://iamjoel.github.io/dialogue/problem/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/readme</guid>
-    <description>核心问题 生活中有 3 个核心的问题: 如何延长健康寿命？ 如何获取财富？ 如何找到人生的意义? 健康是基础，财富是工具，意义是指引。三者相互支持，共同构建了一个充实而平衡的人生。.</description>
-    <pubDate>Tue, 08 Oct 2024 02:26:34 GMT</pubDate>
-  </item><item>
-    <title>未整理</title>
-    <link>https://iamjoel.github.io/dialogue/problem/unsort</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/unsort</guid>
-    <description>关系 亲子关系 构建，愉悦，亲密的亲子关系。 让孩子成为一个独立，快乐的人。 正面管教 娱乐 通用的解决问题的方法 数据分析：AWESOME DATA SCIENCE 宗教是一种信仰的文化，科学是一种怀疑的文化。 ——理查德·费曼(Richard Feynman) .</description>
-    <pubDate>Tue, 08 Oct 2024 02:26:34 GMT</pubDate>
-  </item><item>
-    <title>所有标签</title>
-    <link>https://iamjoel.github.io/dialogue/tag</link>
-    <guid>https://iamjoel.github.io/dialogue/tag</guid>
-    <description> AI LLM .</description>
-    <pubDate>Tue, 08 Oct 2024 02:26:34 GMT</pubDate>
-  </item><item>
-    <title>《排毒吧，大脑》</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/brain-wash</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/brain-wash</guid>
-    <description> 剖析了现代科技和生活方式是如何通过种种“污染源”影响我们的思维、情绪和决策，并提供了如何远离抑郁、焦虑和成瘾等心理问题以及炎症、肥胖等身体不适的具体策略。 基础信息 作者: [美]戴维·珀尔马特 奥斯汀·珀尔马特。 他还些了《谷物大脑》，《疯狂的尿酸》，《菌群大脑》 现代社会的负面影响 患上失联综合征。它的 8 个特征： 长期应激。使杏仁体占据主导。 慢性炎症。会削弱杏仁核与前额叶皮质的连接，甚至会损害前额叶皮质本身，让杏仁核不受控制地发挥作用。导致 冲动，自恋，糟糕的人际关系。 即时满足。 盲目的活动。 冲动。 糟糕的人际关系。 自恋。 孤独。 导致的原因： 吃过量的 “垃圾食品”(工业食品)：高能量，低营养。导致身体的炎症，慢性病。 那些令人焦虑和恐惧的新闻是容易传播的。长期读这些新闻，会导致慢性应激状态长期存在。 睡眠不足。 奶头乐。当我们感到焦虑不安时，现代生活越来越多地用轻松的方式来诱惑我们。我们可以不断获得短暂的快乐和令人上瘾的奖赏。遗憾的是，这些快乐和奖赏使问题变得更糟糕了。我们已经被洗脑，相信获得持久快乐的方法就是加倍去做那些使我们痛苦的事情。 社交媒体让我们远离亲密关系。 应对策略 改变饮食。减少精致碳水，工业食品。 运动。 减少久坐。 正念和冥想。 深呼吸。 学会感恩。 社交。 数字戒赌。 户外活动。 数字戒赌 我们强烈建议将T.</description>
-    <pubDate>Tue, 08 Oct 2024 02:26:34 GMT</pubDate>
-  </item><item>
-    <title>《冥想5分钟，等于熟睡一小时》</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/buddha's-brain</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/buddha's-brain</guid>
-    <description>基础信息 作者: 里克•汉森：冥想教练，同时也是一位神经心理学家。理查德•蒙迪思：一位神经学家，从事内科医生近30年。 中文版的翻译比较奇葩： 原版书名：《Buddha´s Brain The Practical Neuroscience of Happiness, Love, and Wisdom》 台湾版: 《像佛陀一樣快樂：愛和智慧的大腦奧祕》 未处理 当你今天有了一个积极乐观的经历时，把它渗入过去的伤痛中去。 当悲观消极的情绪来袭的时候，回想那些积极乐观的情绪和看法，把消极悲观的情绪中和掉。 大脑皮层是在进化的晚期才出现的，要更复杂、更精巧一些，反应速度则较慢，对于各类神经信号都有缓解和抑制作用。 你的精神也一样，是靠你过往的经历构建起来的。你应该创造、呵护和增加那些积极乐观的内隐记忆，并阻挡、消灭和减少那些消极悲观的内隐记忆。 保持你当下的状态，不论你意识到发生了什么——不要过分反应，那你就可以身心安宁。 发脾气往往会把事情搞得更糟。 冥想 加强对情绪脑的控制，避免被奶头乐和无意义的焦虑绑架。 佛陀在他的四圣谛理论里，就确认了痛苦（苦谛），诊断出了痛苦的成因（集谛，对外物的拼命攫取），并指出了解决办法（灭谛，从“集”中解放出来），给出了具体的治疗方案（道谛，也就是八正道）。 一旦你理解了自己为什么感到紧张、厌烦、激愤、失落、忧郁或者不平，这些负面情绪对你就没有那么大的威胁了。 稳定状态被打破，机会消失，威胁靠近，痛苦就产生了。但避免这些（稳定状态，机会，威胁）本身都是妄想。 丘脑，压力荷尔蒙 丘脑——你头部正中的中继站——会向你的脑干发出一个信号：“快清醒过来吧！”脑干紧接着会释放去甲肾上腺素，激活整个大脑。 交感神经系统会向你身体里的主要器官和肌肉群发出信号，让它们做好或战或逃的准备。 下丘脑——大脑的首席荷尔蒙系统调节器官——会激活脑垂体，并向肾上腺发出信号，让它们释放“压力荷尔蒙”肾上腺素和皮质醇。 皮质醇会抑制你的免疫系统，减少伤口发炎的程度。它还会通过两种不同的神经回路反复强化你的紧张反应。 第一，它会通过脑干进一步提高杏仁核的活性，杏仁核又会提升交感神经/下丘脑-垂体-性腺轴(SNS/HPAA)系统的活性，从而分泌更多的皮质醇。 第二，皮质醇会抑制海马体的活性（海马体通常能够抑制杏仁核），这就相当于把杏仁核的刹车器给卸掉了，显然会导致更多的皮质醇分泌。 被唤起的交感神经/下丘脑-垂体-性腺轴系统会进一步激活杏仁核，让这个大脑硬件能够全力以赴，对消极悲观的信息做出快速反应。此时，你的情绪也会强化你的大脑，动员和协调整个大脑的各种资源，时刻准备行动。至此，紧张的感觉已经让你彻底做好准备，随时可以惊恐万状（马上逃跑），或者愤怒异常（立刻战斗）。 当你深呼吸时，会先激活交感神经，然后激活副交感神经。上述这些积极乐观的感觉，就是这对油门和刹车亲密合作的结果。 保持副交感神经处于激活状态，以确保安宁和平和。 温和地激活交感神经，拥有热情、活力和健康的激情。 偶尔让交感神经雄起一把，以应付要求比较高的局面，比如得到了新的工作机会，或者接到了孩子的电话，去一个乱了套的聚会上接他/她回家。 消极悲观经历形成的记忆就像尼龙搭扣一样方便，积极乐观的经历则像特氟龙不粘锅一样难搞。.</description>
-    <pubDate>Tue, 08 Oct 2024 02:26:34 GMT</pubDate>
+    <title>如何做好信息管理?</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-improve-working-efficiency/how-to-manage-info</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-improve-working-efficiency/how-to-manage-info</guid>
+    <description>信息的本质 实体的定义。 实体之间的关系（因果关系，位置）。 怎么做 突出重点。重点包括本质（第一性原理）。 信息管理应该是问题驱动的。 .</description>
+    <pubDate>Tue, 08 Oct 2024 09:11:47 GMT</pubDate>
   </item>
     </channel>
   </rss>
