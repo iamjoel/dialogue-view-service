@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Mon, 14 Oct 2024 05:45:38 GMT</pubDate>
-  </item><item>
-    <title>个人工作任务管理</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task-management</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task-management</guid>
-    <description>用飞书的多维表格来做个人的每周的任务管理。 表格视图 名称状态优先级链接备注截止日期xxx未开始高xxx进行中中xxx测试中低xxx已完成高xxx其他高 其中: 状态中的其他表示不需要完成的条目，比如：周会，公司迭代看板链接，创新日等。 对应中大型任务，链接一般指向任务文档。 看板视图 用状态做来分组。.</description>
-    <pubDate>Mon, 14 Oct 2024 05:45:28 GMT</pubDate>
-  </item><item>
-    <title>任务</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task</guid>
-    <description> 单个任务的管理。 资源 放这个任务相关的资源的链接。这个可以用飞书的多列来减少占用的垂直空间。类似： 需求设计后端前端其他需求文档设计稿接口文档分支任务分解原型图接口协助 背景 放该任务的背景信息。如存在 xx 问题。达成 xx 目标。 TODO 放一些测试过程中，零碎的要做的。 todo1 todo2 功能 名称模块状态内容模块1未开始模块2进行中模块3阻塞中模块3已完成 测试用例 测试用例模板 接口问题协助.</description>
-    <pubDate>Mon, 14 Oct 2024 05:45:28 GMT</pubDate>
-  </item><item>
-    <title>测试用例</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/test-case</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/test-case</guid>
-    <description>用飞书的多维表格来维护测试用例。 表格视图 名称功能模块状态步骤预期结果链接备注未开始等原型等设计等前端等后端已完成 其中: 链接放对应 APP 的地址。 备注可以放阻塞点之类的信息。 未通过视图 用一个新的表格视图，筛选未通过的用例。 看板视图 用功能模块来分组。.</description>
-    <pubDate>Mon, 14 Oct 2024 05:45:28 GMT</pubDate>
-  </item><item>
-    <title>SOP</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/readme</guid>
-    <description>我解决一些问题和做一些任务的最佳路径。 通用 精进: PDCA 生活 保持健康和好状态 每月生活记录模板 保持健康的日常计划 0.0.3 推荐 &amp; 避免 提升社交的效率 人模板 信息管理 主题概览 科学信息模版 拆书 选择产品 工作 提升工作效率 每周任务管理 任务模板 .</description>
-    <pubDate>Mon, 14 Oct 2024 05:45:28 GMT</pubDate>
-  </item><item>
-    <title>Chrome</title>
-    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/chrome</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/chrome</guid>
-    <description>核心功能 从网上找问题的答案。 信息搜索。 信息浏览。 信息操作。 信息采集。 Chrome 内的信息管理。 具体场景 信息搜索： 搜 Google。 站中搜索。也可以用 Google(site:)。 信息浏览： 打开新闻网站，浏览新闻。 查看邮件。 逛购物网站。 看视频。 玩游戏。 信息操作： 任务管理。查看，添加，删除任务等。 飞书文档。 信息采集： 把有价值的信息采集到自己的知识库。 Chrome 内的信息管理。比如： 暂时不读的加到阅读清单。 常用的加到书签。 当前的一堆标签页做分组管理。 信息浏览 减少信息干扰 干扰信息具体表现解决方法无关内容广告，相关推荐内容拦截，如广告拦截系统不必要的修饰抓人的标题，图片Chrome 阅读模式不喜欢的排版字体大小颜色注入 CSS， JavaScript 突出重点 缺少重点就是根据目标，找数据的最佳呈现方式。比如： 想了解新闻文章对当前的影响，重点是文字内容。 想选购安全可靠的商品，重点是商品的评价，新闻，销量，评价等。 想了解某个概念，重点是概念的定义，解释等。 对于批量看突出重点内容，可以把数据采集下拉，格式化后再展示。 拓展信息 信息不全比如： // table 信息不全具体表现解决方法不熟悉的名词不熟悉领域的名词，如 RAG文字搜索不熟悉的图片对图片上的内容感兴趣图片搜索(Search with Google Len)外语概念的搜索翻译。 沉浸式翻译 工具 油猴，暴力猴，篡改猴这种： 确定的 JS。 https://linux.</description>
-    <pubDate>Mon, 14 Oct 2024 05:45:28 GMT</pubDate>
-  </item><item>
-    <title>一加</title>
-    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</guid>
-    <description>核心功能 信息检索。 信息浏览。 信息操作。 具体场景 信息检索： 用 Google 搜索。 用 ChatGPT 搜索。 在已知 APP 力检索。 信息浏览： 打开新闻网站，看一篇新闻。 查看邮件。 信息操作： 应用捷径的实现(IOS 的捷径功能)。 自动化 AutoX.js 自动化的需求 自动打开微信收藏的某篇笔记。 打开某些应用前，先挂梯子。 .</description>
-    <pubDate>Mon, 14 Oct 2024 05:45:28 GMT</pubDate>
-  </item><item>
-    <title>从不同角度看问题</title>
-    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</guid>
-    <description>六顶思考帽 六顶思考帽（Six Thinking Hats）是由爱德华·德·博诺（Edward de Bono）提出的一种思考方法,旨在从不同角度审视问题。这六顶帽子分别代表: 白色思考帽:客观事实与数据。着重于收集与问题相关的客观事实和数据,不掺杂个人观点。 红色思考帽:情感和直觉。表达对问题的直观感受,不需要任何理由或依据。 黑色思考帽:谨慎和批判。对问题持怀疑和谨慎态度,找出方案中存在的危险和缺陷。 黄色思考帽:乐观和积极。从积极的角度看问题,寻找方案的优点和价值。 绿色思考帽:创意和变通。打破常规思维方式,提出创新的想法和解决方案。 蓝色思考帽:控制和管理。协调其他五种思考模式,把控讨论的方向和节奏。.</description>
-    <pubDate>Mon, 14 Oct 2024 05:45:28 GMT</pubDate>
+    <pubDate>Tue, 15 Oct 2024 03:35:14 GMT</pubDate>
   </item><item>
     <title>我的工具包</title>
     <link>https://iamjoel.github.io/dialogue/personal/toolbox/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/toolbox/readme</guid>
     <description>工具包理想状态 遇到问题时，快速的找到工具。 工具之上的工具。类似工具之上的插件。比如 Chrome 的插件。更进一步的是，针对页面级别的工具。 最小化依赖的工具 Mac，一加手机 Chrome VSCode 微信 微信读书 飞书 筛选标准 生活中，可靠的最小的依赖。 最小化。 可靠。不容易蹦。 生态。配置性强，可隐藏信息。支持自动化。可拓展。减少干扰，突出重点。 信息的检索，筛选。 Chrome。 自动化。 .</description>
-    <pubDate>Mon, 14 Oct 2024 05:45:28 GMT</pubDate>
+    <pubDate>Tue, 15 Oct 2024 03:35:04 GMT</pubDate>
   </item><item>
     <title>前端深入</title>
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/dive-into-frontend</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/dive-into-frontend</guid>
     <description>一些高频的，有深度的内容(会遇到什么问题，目前是怎么解决的): 底层 高频的数据操作方法。边界及难的地方。 应用层 框架 API 。 React 的 hooks 。 状态管理 接口调用 SSR .</description>
-    <pubDate>Mon, 14 Oct 2024 05:45:28 GMT</pubDate>
+    <pubDate>Tue, 15 Oct 2024 03:35:04 GMT</pubDate>
+  </item><item>
+    <title>生命的本质</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/readme</guid>
+    <description>生命能长期存在的本质是 生存和繁殖。 生存 生存是前提。不生存，也没有机会去繁殖。 生存的本质就是保持一种秩序。这种秩序也就是熵。生命的熵高于周围的环境，因此，根据第二热力学定律，要维持生命，需要从外界吸收能量，比如依靠饮食，晒太阳。通过亿万年的演化，生命发展出一系列机制生存。 生存的过程中，会做一个个决策，决策的本质都是趋利避害。 繁殖 没有繁殖就没有后代。再强的生命总有消亡的一天。.</description>
+    <pubDate>Tue, 15 Oct 2024 03:35:04 GMT</pubDate>
+  </item><item>
+    <title>趋利避害 - 生存最本质的策略</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/survival-strategy-seeking-benefits-and-avoiding-harm</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/survival-strategy-seeking-benefits-and-avoiding-harm</guid>
+    <description>Draft 版。 生存最本质的策略就是趋利避害。要生存的好，就是多做利的，少做害的。有的利，其实是害。有的害，其实是利。 利 利就是自认为的好处。有利于生存的就是利。利是： 拉回生命平衡的秩序。例如：恢复体力，健康 推向对环境适应性更强的秩序。身体，例如：心灵变得健壮这种。 具体的比如： 肚子饿时吃东西。 平常吃太多时控制饮食。 害 害就是利的反面。也就是迫害生命平衡秩序的。 如何判断利和害 人是从过去的经验来判断利害的。 博弈。 大棒是害。机会是利，风险是害。 衡量：利 投入产出比。 贪是趋利，痴是弊害。人生的苦也是趋利避害。 多巴胺的分泌是趋利，保持专注。催产素的分泌也是趋利。痛是弊害。 趋利避害是一种生存策略。 趋利避害的例子 好逸恶劳。奖励和惩罚。胡萝卜加大棒。 我认为利和害 人生意义的基础，人的寿命是有限的 人的目标.</description>
+    <pubDate>Tue, 15 Oct 2024 03:35:04 GMT</pubDate>
+  </item><item>
+    <title>世界观</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/world-view</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/world-view</guid>
+    <description> 经验是知识的唯一来源。 - 经验主义 相对的，有的哲学学派认为有的知识是先验的。 实证主义 [逻辑实证主义](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E5%AE%9E%E8%AF%81%E 4%B8%BB%E4%B9%89) 维也纳学派 形而上学 对世界的理解 世界是由一些定律支配的。 定律是人类的定义。定律是一些因果。有些定律人类能掌握，有些不能掌握。 对人类的理解 对自己的理解.</description>
+    <pubDate>Tue, 15 Oct 2024 03:35:04 GMT</pubDate>
+  </item><item>
+    <title>观点</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/readme</guid>
+    <description> 生命的本质 世界观 .</description>
+    <pubDate>Tue, 15 Oct 2024 03:35:04 GMT</pubDate>
+  </item><item>
+    <title>如何找到人生的意义</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-find-the-meaning-of-life/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-find-the-meaning-of-life/readme</guid>
+    <description>人生意义的本质 人生并没有绝对的意义。不同的人对人生意义有不同的理解和看法。 在我看来，人生的意义在于给人目标，让人更好的活下去。具体是什么目标并不重要。 生命最在乎的 生命最在乎两件事：生存和繁殖。生存能力再强（除非能永生），如果不繁殖，总有消亡的一天。 悲观 保持悲观（在乎危险信息）在以前险恶的生存环境中是有利于生存的。因为不重视危险信息容易丧命。但保持悲观的副作用让人处于压力环境中，让人容易产生炎症，让人疲劳。 现代社会，但保持乐观更有利。 走出悲观 走出悲观的方式：运动，晒太阳，想最坏的情况会怎样（比如工作压力，最坏的情况就是辞职会被开除，并不会怎么样）。.</description>
+    <pubDate>Tue, 15 Oct 2024 03:35:04 GMT</pubDate>
+  </item><item>
+    <title>如何获取财富？</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-get-wealth/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-get-wealth/readme</guid>
+    <description>财富的本质 我认为，财富的本质是满足他人需求的回报。回报的方式可能金钱，物品，欠的人情等。 问题和财富的关系 帮别人解决问题可以获得财富。可以通过财富来让别人来解决自己的问题。.</description>
+    <pubDate>Tue, 15 Oct 2024 03:35:04 GMT</pubDate>
+  </item><item>
+    <title>食物转能量</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/food-to-energy</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/food-to-energy</guid>
+    <description>口腔 —&gt; 食道 → 胃: 消毒和初步消化 → 小肠(胆，肝和胰腺): 主要消化和吸收 营养物质进入血液。→ 肝脏 食物进入小肠，胆囊收缩，将胆汁释放到十二指肠。胰液一起在小肠中与食物混合。大部分胆汁在小肠末端被重新吸收，返回肝脏再利用。 其他物质进入大肠 → 吸收水分和电解质 → 排出体外。 因此便秘的粑粑很干。 胆、肝脏和胰腺的协同 胆汁的产生和储存： 肝脏持续产生胆汁 胆汁通过肝管流入胆囊 胆囊储存并浓缩胆汁 消化信号的触发： 当食物（尤其是脂肪）进入小肠时，会刺激分泌缩胆素-胰酶分泌素（CCK） CCK是一种激素，同时作用于胆囊和胰腺 胰腺的反应： CCK同时刺激胰腺分泌胰液 胰液含有多种消化酶，通过胰管进入十二指肠 在十二指肠的协同作用： 胆汁和胰液在十二指肠中与食物混合 胆汁乳化脂肪，为胰脂肪酶的作用创造条件 胰液中的碳酸氢盐中和胃酸，为消化酶创造适宜的pH环境 脂肪的消化和吸收： 胆汁乳化脂肪，形成微小脂肪滴 胰脂肪酶分解这些脂肪滴 胆汁还协助脂肪和脂溶性维生素的吸收 肝脏的解毒作用： 肝脏过滤来自肠道的血液，处理可能有害的物质 一些废物通过胆汁排出体外 胆汁的循环利用： 大部分胆汁在回肠末端被重新吸收 通过门静脉系统返回肝脏，再次利用 反馈调节： 这三个器官的活动受到多种激素和神经信号的精密调控 例如，当足够的胆汁和胰液释放后，CCK的分泌会减少 敲胆经 敲胆经促进胆汁分泌来促进消化。是中医的说法。被未经过临场实验来证实。.</description>
+    <pubDate>Tue, 15 Oct 2024 03:35:04 GMT</pubDate>
   </item>
     </channel>
   </rss>
