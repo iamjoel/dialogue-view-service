@@ -4,6 +4,47 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 25
+* extraordinary mean not ordinary (extra + ordinary)
+* best actor of all time
+* autograph 亲笔签名
+* biography 传记
+* gossip 八卦信息
+
+## 24
+* run out 耗尽
+* mop  the floor 
+* in good health 身体很好
+* washing machine 洗衣机
+
+## 23
+* resort 度假村
+* work out 锻炼 work out at a gym 
+
+## 22
+* departure  飞机起飞
+* hot tub 泡澡的浴缸
+* massage 马杨鸡
+* cave 洞穴
+* life jacket 救生衣
+* work out means do exercises to be fit 
+
+## 21
+* gallery 美术馆
+* an interesting tour 
+* a large crowd 一大群人
+
+## 20
+* make 200 dollars an hour 
+
+## 19
+* employment 就业 many employment opportunities 
+* meet face to face 
+* CV means resume 
+* hourly wage 时薪
+* vet 兽医
+* hairdresser 理发师
+
 ## 10/18
 * if  I  were sb  I'd do sth 
 
