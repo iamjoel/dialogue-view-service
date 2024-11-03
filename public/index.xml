@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Sat, 02 Nov 2024 15:10:25 GMT</pubDate>
+    <pubDate>Sun, 03 Nov 2024 08:05:52 GMT</pubDate>
   </item><item>
-    <title>药物</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/medicine/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/medicine/readme</guid>
-    <description>药物、激素或补充剂。.</description>
-    <pubDate>Sat, 02 Nov 2024 15:10:15 GMT</pubDate>
+    <title>花青素</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/anthocyanidin</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/anthocyanidin</guid>
+    <description>花青素是一种水溶性色素，是构成花瓣和果实的主要色素之一。 对人的益处 花青素为人体带来多种益处。 清除自由基。花青素是一种强有力的抗氧化剂，它能够保护人体中的自由基。自由基是造成老化及诸多疾病的重要原因之一 增进视力。医学临床报告显示花青素可促进视网膜细胞中视紫质的再生成，可预防重度近视及视网膜剥离，并可增进视力。 富含花青素的食物 蓝莓 桑葚 葡萄 .</description>
+    <pubDate>Sun, 03 Nov 2024 08:05:41 GMT</pubDate>
   </item><item>
-    <title>治疗</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/readme</guid>
-    <description>心血管指标 心脏CT扫描。冠状动脉是否存在钙化，冠状动脉钙化是晚期动脉粥样硬化的标志。 apoB检测。apoB比简单的LDL-C（标准的“坏胆固醇”指标）更能预测心血管疾病。 LDL-C(低密度胆固醇)。低密度脂蛋含量高，提升风险。 .</description>
-    <pubDate>Sat, 02 Nov 2024 15:10:15 GMT</pubDate>
+    <title>《空腹的神奇治愈力》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/eat-less</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/eat-less</guid>
+    <description>少吃。消化食物需要很多能量。消化一顿饭的所需能量，相当于跑一场马拉松。所以，生病以及很累的时候应该少吃。平时也应该少吃(轻断食)：不吃早饭，不吃晚饭，以及只吃一顿。 其他推荐： 积极的状态： 笑，感恩。 一些运动的姿势。 基础信息 作者: 船濑俊介。日本的知名的医疗，健康评论家。他65岁身体状态像30岁。 出版时间: 主要论据： 《马克加邦报告》 《中国健康调查报告》 书摘 “有意识地断食，意味着生物本能的觉醒。” 厄普顿·辛克莱说： 消费主义希望人多吃。 每天空腹才愉悦，满肚子食物就沮丧。 少吃恢复的更快 通过断食，能够把消化食物的能量转移并集中到免疫、排毒功能中去。 另外，饥饿感会打开生命力开关。饥饿对身体来说是一种危机状态。因此，警报一响，身体里的生命保障系统便一齐运作。于是，就打开了免疫力、自然治愈力、排毒能力的开关，白细胞等免疫细胞也不断增加。 其他 位列不良生活习惯首位的是饱食，第二是高热量饮食。 中老年人群中急剧变老的人，有的是因为每日都过度饮食。 最先发表实验数据的是前面介绍过的美国康奈尔大学的营养学家，克莱夫·M.</description>
+    <pubDate>Sun, 03 Nov 2024 08:05:41 GMT</pubDate>
   </item><item>
-    <title>如何做好信息管理?</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-improve-working-efficiency/how-to-manage-info</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-improve-working-efficiency/how-to-manage-info</guid>
-    <description>信息的本质 实体的定义。 实体之间的关系（因果关系，位置）。 基于上一条，应用到实际场景来。 怎么做 控制欲望。如果要解决的问题无穷多，对应的信息无穷多，那注定是管理不过来的。 突出重点。重点包括本质（第一性原理）。 信息管理应该是问题驱动的。 一定有因果/规律吗 万事背后都有因果吗？比如: 量化交易的本质是觉得股市涨跌是符合某个规则的，但如果并没有规则呢？.</description>
-    <pubDate>Sat, 02 Nov 2024 15:10:15 GMT</pubDate>
+    <title>《你是你吃出来的2》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/you-are-what-you-eat-2</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/you-are-what-you-eat-2</guid>
+    <description>基本信息 作者：夏萌。 曾就职于北京天坛医院神经内科、北京安贞医院神经内科和营养科，曾任北京安贞医院营养科主任。 有丰富的临床经验。 慢性病康复的饮食密码 主要内容 介绍了一些慢性病的成因，影响，以及如何通过改变饮食和生活方式来治疗。 高血压 血压四怕：盐多、肉少、宅、情绪差。 建议： 适量的盐。少吃面条，少喝汤，别吃咸菜 优质蛋白 戒烟戒酒 多运动 少熬夜 保持心情愉快。 基本概念 收缩压： 心脏收缩时，把血液推入大血管时，会对动脉壁产生侧壁压力叫做收缩压。也叫上压。 舒张压： 心脏舒张时，大血管中的血液回流，会再次对血管壁产生压力叫做舒张压，也叫下压。 脉压：收缩压和舒张压的差值。 什么算高血压 收缩压 和 舒张压 血压类型收缩压舒张压一级高血压140 - 16090 - 100二级高血压160 - 180100 - 110三级高血压&gt; 180&gt; 110 脉压 中国正常人的脉压标准一般是30～40毫米汞柱，欧洲的标准是不超过65毫米汞柱，美国的标准是不超过70毫米汞柱——脉压65～70毫米汞柱是极限。 影响血压值的因素 最常见的影响血压值的有五大因素： 血容量 血管壁弹性 周围血管阻力 神经内分泌调节系统 心脏搏动。 血容量 血容量增加，血压上升。 人吃得过咸，会导致血容量增加。人吃得过咸时，血中的钠含量升高，就会激活人体的饥渴中枢，人感觉口渴就会喝水，目的是让血液中的钠浓度恢复正常。血容量随之增加。血容量不可能无限增加，血容量增加的同时，肾脏也会努力工作——排钠，排水，这样又加重了肾脏的负担。 按照《中国居民膳食指南（2016）》中的规定，成年人每天摄入盐的总量不要超过6克。 血管壁弹性 摄入优质蛋白有利于提升血管壁弹性。此外，维生素C、钙、镁、钾的摄入量对血管壁弹性也有重要影响。 血管弹性越好，侧压力被血管壁吸收得越多，测出来的收缩压就会偏低。血管壁弹性差的体现是脉压大：脉压大于40毫米汞柱。 血管壁的弹性与蛋白质密切相关。血管壁的弹性主要取决于血管壁中层弹性组织。大动脉的中层有40～70层弹性膜。弹性膜呈波浪状，主要成分是弹性蛋白。不仅如此，弹性膜之间还有平滑肌和一些胶原蛋白。 周围血管阻力 周围血管阻力与血管半径、血液黏度和血管长度有关。影响血管半径的因素很多，比如，神经内分泌系统是否稳定，动脉是否有粥样硬化，血液黏稠度问题，周围组织缺氧程度，等等。 有一种情况非常常见——不爱运动。不爱运动会造成组织细胞对氧的需求量减少，毛细血管前小动脉关闭，导致周围血管阻力加大。 周围血管阻力的体现是：高压正常，低压高。 情绪 当情绪紧张时，肾上腺素分泌会增多，交感神经会兴奋，这样会提高心脏的收缩力，并使外周血管收缩，导致血压高。 高血压的危害 严重后，容易引起并发症：冠心病、脑卒中、肾功能衰竭等。 高血压的处理 一级高血压暂时不用吃降压药，开始严格地管理自己，同时监测自己的血压变化。 二级和三级高血压需要马上吃药，让血压降下来，同时在生活方式上努力改变，做到标本兼治。 降压药 降压药有好几类，有扩张周围血管的钙离子阻断剂、有利尿剂、有抑制肾素-血管紧张素系统的，还有抑制心肌收缩及周围血管平滑肌收缩的。现在比较讲究的用药是几类药物各取一点，增强药物的协同性，减少药物的不良反应。.</description>
+    <pubDate>Sun, 03 Nov 2024 08:05:41 GMT</pubDate>
   </item><item>
-    <title>如何提升做事的效率？</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-improve-working-efficiency/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-improve-working-efficiency/readme</guid>
-    <description>高效的理想情况是，遇到一件事时，能快速的找到对应的 SOP。 怎么做 明确目标。设置合理的目标达成标准。 专注。减少干扰。过多的欲望是干扰。 将现实检验过的做事流程形成 SOP。SOP 要有触发条件/环境情况。当触发情况发生变化时，SOP 就不不一定适用了。包括：做好信息管理。 .</description>
-    <pubDate>Sat, 02 Nov 2024 15:10:15 GMT</pubDate>
+    <title>如何延长健康寿命？</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/readme</guid>
+    <description>健康的本质 健康的本质是保持生命的墒。 影响健康寿命的主要因素 影响健康寿命的主要因素是慢性病。主要的慢性病有： 代谢相关的慢性病： 2 型糖尿病，高血压，高血脂，脂肪肝，痛风等。 心血管疾病。包括动脉粥样硬化，心脏病，中风等。 癌症。 神经退行性疾病。如阿尔茨海默病，老年痴呆。 产生慢性病的主要原因是： 吃的多。 运动少。 情绪差。 吃的多，运动少，时间久了，容易得 2 型糖尿病，高血压等代谢相关的慢性病。同时，这些慢性病会使身体处于炎症的状态中。长期的炎症： 让身体不舒服，影响情绪 加重慢性病。 减少大脑营养的供给，导致阿尔茨海默病，老年痴呆等神经退行性疾病。 加大得癌症的概率。 具体内容 内容作用身体是如何工作的顺应身体才能健康饮食身体的能量来源。抵抗熵增。运动增强身体的活力。休息有利于身体恢复。情绪对影响到行为，对身体健康有只要意义治疗辅助身体恢复健康。 资源 用18本书搞定健康，超全超实用！ .</description>
+    <pubDate>Sun, 03 Nov 2024 08:05:41 GMT</pubDate>
   </item><item>
-    <title>问题</title>
-    <link>https://iamjoel.github.io/dialogue/problem/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/readme</guid>
-    <description>核心问题 生活中有 3 个核心的问题: 如何延长健康寿命？ 如何获取财富？ 2.1 生产 2.2 销售 如何找到人生的意义? 健康是基础，财富是工具，意义是指引。三者相互支持，共同构建了一个充实而平衡的人生。 基础问题 如何从现实中识别出问题 如何提升做事的效率？ 如何做好信息管理 通用结构 xx 的能力边界。在 xx 场景中，能 xxx。如：llm 的能力边界。在 xx 场景 中，能 xxx。 .</description>
-    <pubDate>Sat, 02 Nov 2024 15:10:15 GMT</pubDate>
+    <title>避免熬夜</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/rest/avoid-staying-up</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/rest/avoid-staying-up</guid>
+    <description>熬夜的坏处 如何避免.</description>
+    <pubDate>Sun, 03 Nov 2024 08:05:41 GMT</pubDate>
   </item><item>
-    <title>未整理</title>
-    <link>https://iamjoel.github.io/dialogue/problem/unsort</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/unsort</guid>
-    <description>关系 亲子关系 构建，愉悦，亲密的亲子关系。 让孩子成为一个独立，快乐的人。 正面管教 娱乐 通用的解决问题的方法 数据分析：AWESOME DATA SCIENCE 宗教是一种信仰的文化，科学是一种怀疑的文化。 ——理查德·费曼(Richard Feynman) .</description>
-    <pubDate>Sat, 02 Nov 2024 15:10:15 GMT</pubDate>
+    <title>休息</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/rest/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/rest/readme</guid>
+    <description>休息时，不仅身体在恢复，大脑也在恢复。 如何不晚睡?.</description>
+    <pubDate>Sun, 03 Nov 2024 08:05:41 GMT</pubDate>
   </item><item>
-    <title>所有标签</title>
-    <link>https://iamjoel.github.io/dialogue/tag</link>
-    <guid>https://iamjoel.github.io/dialogue/tag</guid>
-    <description> AI LLM .</description>
-    <pubDate>Sat, 02 Nov 2024 15:10:15 GMT</pubDate>
+    <title>运动的好处</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/benefits</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/benefits</guid>
+    <description>运动的好处很多。可以分成三类： 1 运动有利于身体健康 运动可以有效提升心肺功能，促进人体新陈代谢，增强肌肉韧带力量。同时，能改善睡眠。让人精力充沛。 运动能增加高密度脂蛋白胆固醇（“好”胆固醇），并减少不健康的甘油三酯类。如此双管齐下，可保持血液顺畅流动，降低罹患心脏和血管疾病（即心血管疾病）的风险。运动还能预防或控制以下疾病： 卒中。 代谢综合征。 高血压。 2 型糖尿病。 2 有利于心理健康 运动能降低抑郁的发病率。 奥地利的一项研究表明，完全没有运动习惯的人与每周运动1～2小时的人相比，抑郁症的发病风险高44%。不运动的人在1年后抑郁症的发病率是定期运动的人的1.</description>
+    <pubDate>Sun, 03 Nov 2024 08:05:41 GMT</pubDate>
   </item><item>
-    <title>个人工作任务管理</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task-management</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task-management</guid>
-    <description>用飞书的多维表格来做个人的每周的任务管理。 表格视图 名称状态优先级链接备注截止日期xxx未开始高xxx进行中中xxx测试中低xxx已完成高xxx其他高 其中: 状态中的其他表示不需要完成的条目，比如：周会，公司迭代看板链接，创新日等。 对应中大型任务，链接一般指向任务文档。 看板视图 用状态做来分组。.</description>
-    <pubDate>Sat, 02 Nov 2024 15:10:15 GMT</pubDate>
+    <title>运动装备</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/equipment/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/equipment/readme</guid>
+    <description>运动装备主要用来提升运动效果和运动安全。方式是通过监测，分析运动数据，提供建议等。 提升运动效果: 赋值制定运动计划。 监测数据 心率 =&gt; 运动强度。 设备：运动手表/手环，心率带。 血氧饱和度。设备：运动手表/手环。 测心率 通过心率来评估运动强度。 基于心率，衍生算出 HRV(心率异变率)，用来评估压力情况。 睡眠监测。跑步 App(咕咚，悦跑圈)。 光电心率测量技术(PPG) 用光照射皮肤，根据心脏跳动时，测量光(一般是绿光)的反射值的强弱来测量心率。当心脏收缩时，血流量增加，血液对于光的吸收增强，检测到的光强度变小。反之，光强度变大。 运动手表，手环都是用的这种技术。 心率带测量技术 心率带本质测量的是心电信号。心脏跳动时，心电信号不同。心率带通过两片胶皮电极绑在胸口来测量心电信号。心率带一般绑在胸口是因为胸口离心脏近，心电信号最强，效果最好。 心率带测量技术测量的精度比光电心率测量技术的高。但佩戴不方便。 测血氧饱和度 监测血氧饱和度的场景 实时评估身体状况。从事登山等户外运动时。我们知道，海拔越高，空气越稀薄，人体血氧饱和度也就越低。血氧太低时，要降低高度。 醉酒时，血氧饱和度会变低。 大脑高强度工作。 测量血糖，尿酸等 用智能手表依靠光谱吸收法测血糖。光谱吸收法，就是研究人员利用计量分析方法进行建模，建立血糖浓度和红外光谱之间的数据联系，通过激光发射器，捕捉皮下血液中的葡萄糖酶吸收近红外光的情况，进而测定出血糖的数值。 目前(2024年)用光谱吸收法测血糖技术还不成熟，精度低。测尿酸也是如此。 高驰 Pace3.</description>
+    <pubDate>Sun, 03 Nov 2024 08:05:41 GMT</pubDate>
   </item><item>
-    <title>任务</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task</guid>
-    <description> 单个任务的管理。 资源 放这个任务相关的资源的链接。这个可以用飞书的多列来减少占用的垂直空间。类似： 需求设计后端前端其他需求文档设计稿接口文档分支任务分解原型图接口协助 背景 放该任务的背景信息。如存在 xx 问题。达成 xx 目标。 TODO 放一些测试过程中，零碎的要做的。 todo1 todo2 功能 名称模块状态内容模块1未开始模块2进行中模块3阻塞中模块3已完成 测试用例 测试用例模板 接口问题协助.</description>
-    <pubDate>Sat, 02 Nov 2024 15:10:15 GMT</pubDate>
+    <title>运动</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/readmd</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/readmd</guid>
+    <description> That which cost us energy given energy. 消耗我们能量的东西会带来能量。 运动有利于身心健康，并且还让大脑更聪明(运动的好处)。 该如何运动？《囚徒健身》 有详尽的循序渐进的健身动作和计划。 内容 运动装备 .</description>
+    <pubDate>Sun, 03 Nov 2024 08:05:41 GMT</pubDate>
   </item>
     </channel>
   </rss>
