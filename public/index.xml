@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Thu, 07 Nov 2024 10:34:12 GMT</pubDate>
+    <pubDate>Fri, 08 Nov 2024 03:09:45 GMT</pubDate>
   </item><item>
-    <title>解决问题的方法</title>
-    <link>https://iamjoel.github.io/dialogue/problem/base/what's-the-way-to-solve-problem/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/base/what's-the-way-to-solve-problem/readme</guid>
-    <description> 科学方法 .</description>
-    <pubDate>Thu, 07 Nov 2024 10:34:01 GMT</pubDate>
+    <title>运动装备</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/equipment/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/equipment/readme</guid>
+    <description>运动装备主要用来提升运动效果和运动安全。方式是通过监测，分析运动数据，提供建议等。 提升运动效果: 赋值制定运动计划。 监测数据 心率 =&gt; 运动强度。 设备：运动手表/手环，心率带。 血氧饱和度。设备：运动手表/手环。 测心率 通过心率来评估运动强度。 基于心率，衍生算出 HRV(心率异变率)，用来评估压力情况。 睡眠监测。跑步 App(咕咚，悦跑圈)。 光电心率测量技术(PPG) 用光照射皮肤，根据心脏跳动时，测量光(一般是绿光)的反射值的强弱来测量心率。当心脏收缩时，血流量增加，血液对于光的吸收增强，检测到的光强度变小。反之，光强度变大。 运动手表，手环都是用的这种技术。 心率带测量技术 心率带本质测量的是心电信号。心脏跳动时，心电信号不同。心率带通过两片胶皮电极绑在胸口来测量心电信号。心率带一般绑在胸口是因为胸口离心脏近，心电信号最强，效果最好。 心率带测量技术测量的精度比光电心率测量技术的高。但佩戴不方便。 测血氧饱和度 监测血氧饱和度的场景 实时评估身体状况。从事登山等户外运动时。我们知道，海拔越高，空气越稀薄，人体血氧饱和度也就越低。血氧太低时，要降低高度。 醉酒时，血氧饱和度会变低。 大脑高强度工作。 测量血糖，尿酸等 用智能手表依靠光谱吸收法测血糖。光谱吸收法，就是研究人员利用计量分析方法进行建模，建立血糖浓度和红外光谱之间的数据联系，通过激光发射器，捕捉皮下血液中的葡萄糖酶吸收近红外光的情况，进而测定出血糖的数值。 目前(2024年)用光谱吸收法测血糖技术还不成熟，精度低。测尿酸也是如此。 高驰 Pace3.</description>
+    <pubDate>Fri, 08 Nov 2024 03:09:30 GMT</pubDate>
   </item><item>
-    <title>科学方法</title>
-    <link>https://iamjoel.github.io/dialogue/problem/base/what's-the-way-to-solve-problem/science</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/base/what's-the-way-to-solve-problem/science</guid>
-    <description> 实事求是 承认无知 批判主义精神 科学的目的是为了解释，而不是预测。解释指的是为什么，而不仅仅是什么。工具主义：注重预测，不在乎是什么。 - 戴维·多伊奇 物理学家， 《真实世界的脉络》 和 《无穷的开始 - 世界进步的本源》 的作者 归纳法 从具体推一般，产生了新知识，但并不能保证对，当发现新的现实与理论违背时，违背就被推翻了。 了解现实本身的感觉有时是靠不住的我们是否能真实的观察到现实。 当然，归纳法也有一些局限性。 演绎法 一般推具体。不产生新知识。 科学革命 科学革命是一次更广泛的思想革命的一部分，这次思想革命就是启蒙运动，它带动了其他领域里的进展，特别是在道德、政治哲学和社会体制的进展方面。这是一场反叛，是专门针对知识权威的反叛。要实现知识的持续快速增长，需要的是批评的传统。 可检验性 可检验性作为科学方法的决定性特征，现已被普遍接受。波普尔将其称为科学与非科学之间的“分界标准”。 科学来说，真正的关键是我们的解释性理论（其中包含上述解释）可以通过推测、批评和测试来改进。.</description>
-    <pubDate>Thu, 07 Nov 2024 10:34:01 GMT</pubDate>
+    <title>运动</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/readmd</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/readmd</guid>
+    <description> That which cost us energy given energy. 消耗我们能量的东西会带来能量。 运动有利于身心健康，并且还让大脑更聪明(运动的好处)。 该如何运动？《囚徒健身》 有详尽的循序渐进的健身动作和计划。 内容 运动装备 .</description>
+    <pubDate>Fri, 08 Nov 2024 03:09:30 GMT</pubDate>
   </item><item>
-    <title>如何找到人生的意义</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-find-the-meaning-of-life/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-find-the-meaning-of-life/readme</guid>
-    <description>人生意义的本质 人生并没有绝对的意义。不同的人对人生意义有不同的理解和看法。 在我看来，人生的意义在于给人目标，让人更好的活下去。具体是什么目标并不重要。 生命最在乎的 生命最在乎两件事：生存和繁殖。生存能力再强（除非能永生），如果不繁殖，总有消亡的一天。 悲观 我们是一颗微粒上的一颗微粒上的一颗微粒。 - 天文学家尼尔·德格拉斯·泰森 保持悲观（在乎危险信息）在以前险恶的生存环境中是有利于生存的。因为不重视危险信息容易丧命。但保持悲观的副作用让人处于压力环境中，让人容易产生炎症，让人疲劳。 现代社会，但保持乐观更有利。 走出悲观 走出悲观的方式：运动，晒太阳，想最坏的情况会怎样（比如工作压力，最坏的情况就是辞职会被开除，并不会怎么样）。 资源 《鱼不存在》 如何在一个混乱永远盛行的世界里坚持下去。 .</description>
-    <pubDate>Thu, 07 Nov 2024 10:34:01 GMT</pubDate>
+    <title>《囚徒健身》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/convict-conditioning</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/convict-conditioning</guid>
+    <description>观点 依赖自身体重来健身，相对的是依赖健身器械。 健身房锻炼的人可以练出健美的力量和肌肉线条，但整体的协调性不行。.</description>
+    <pubDate>Fri, 08 Nov 2024 03:09:30 GMT</pubDate>
   </item><item>
-    <title>鱼不存在</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-find-the-meaning-of-life/resource/why-fish-don't-exixt</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-find-the-meaning-of-life/resource/why-fish-don't-exixt</guid>
-    <description> “放弃鱼类之后， 我看到了世界的本质，一个拥有无限可能的地方。” 混乱才是世界的主宰。 每当能量转移或转化时，熵或系统中无序的数量就会增加。- 热力学第二定律 我们是一颗微粒上的一颗微粒上的一颗微粒。 - 天文学家尼尔·德格拉斯·泰森 “由此观之，生命何等壮丽恢宏” - 达尔文 《鱼不存在》 是传记、回忆录和科学冒险的奇妙结合，也是一则温暖人心的寓言，讲述了如何在一个混乱永远盛行的世界里坚持下去。 乐观之盾 正面 如果撒谎能够战胜恐惧，并且不会导致后续的不良行为，我不觉得这么做有什么问题。 许多研究结果显示，极端的否认和妄想是不良行为。而那些无伤大雅的谎言，没有恶意的谎言，宛如玫瑰花蕾般的谎言呢？它们能带来很多好处。面对一个正在痛苦挣扎的人，如果我们能引导她用更乐观的方式描述自己，让她相信真实的自己更为强壮、更为善良，而分手可能不完全是她自己的错，那么她的生活将会发生深刻的变化。 什么样的认知偏差能让你获得坚毅的特质呢？积极错觉。其他研究显示，如果你拥有积极错觉，那么你在遭遇挫折后就不太容易感到沮丧。 负面 一个过分自信、自吹自擂的人最终只会被他人疏远。这些过分自信的人可能没有意识到，他们失去了在社区里树立良好口碑所能获得的便利。可能没几个人愿意借给他们自家的耙地工具，没什么人愿意邀请他们带菜到自己家来聚会，也很少有人愿意为他们介绍工作。 总之 控制好度。 感想 跳出规则 人总是去试图定义强弱，好坏。特别是强者，他们在制定规则，规定等级。追随者们在等级的阶梯上攀登。 有些人不擅长那些规则，比如上好的学校，找赚钱的工作。然后他们会抑郁，不自信。 有些人擅长那些规则。但是攀登到山顶之后呢？而且攀登往往没有止境。 谁制定的规则，最终总是对了规则制定者有利的。 跳出规则。在保证能生存的情况下，选择性很多。 接受混乱/变化 混乱/变化是常态，接受它，而不是总是试图改变它。.</description>
-    <pubDate>Thu, 07 Nov 2024 10:34:01 GMT</pubDate>
+    <title>保持活力的 5 种方法</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/enegy-managenent</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/enegy-managenent</guid>
+    <description>5 Ways To Have 10x More Energy Throughout The Day。 作者: Joey Schweitzer 如果你觉得睡眠充足却还是感觉累。问题出在哪里？ You’re getting enough sleep, but you’re still feeling tired.</description>
+    <pubDate>Fri, 08 Nov 2024 03:09:30 GMT</pubDate>
   </item><item>
-    <title>如何获取财富？</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-get-wealth/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-get-wealth/readme</guid>
-    <description>财富的本质 我认为，财富的本质是满足他人需求的回报。回报的方式可能金钱，物品，欠的人情等。 问题和财富的关系 帮别人解决问题可以获得财富。可以通过财富来让别人来解决自己的问题。.</description>
-    <pubDate>Thu, 07 Nov 2024 10:34:01 GMT</pubDate>
+    <title>痛风</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/gout</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/gout</guid>
+    <description>痛风：少吃海鲜，少喝啤酒，少吃豆类，蘑菇，少喝肉汤（嘌呤溶于水）。 动物肝脏、肉汤、火锅、豆类和菌类食物含嘌呤高，水果、蔬菜、蛋类、奶类含嘌呤相对较少。 尿酸是嘌呤的代谢物。 嘌呤实际上是核苷酸的重要组成部分，是细胞核中的一个组成成分。 嘌呤都在肝脏、小肠及肾脏中分解代谢成为尿酸，最终三分之一由肠道排出，三分之二从肾脏排出。 酸浓度增高到一定程度，形成局部结晶体，沉积于关节、软组织、软骨及肾脏等处，会导致关节炎、尿路结石及肾疾患，进而会引发痛风。 喝酒会导致痛风的原因 第一，酒中所含的乙醇会在肝脏中转化为乙醛，而乙醛过量形成的代谢产物会引起乳酸水平增加。乳酸属于酸性代谢产物，与尿酸在肾小管中竞争排泄，肾小管的排泄量是有限的，排了乳酸就排不出尿酸，由此导致尿酸增加。 第二，大量饮酒可以促进肝脏ATP的降解，嘌呤分解加速，尿酸产生增多。 啤酒不仅抑制尿酸排泄，而且还含有大量嘌呤成分，这样尿酸产生得多，排出又困难，自然会出现血尿酸值上涨的情况。 粮食里的豆类最好不要吃，蔬菜里的豆芽菜、扁豆、豇豆、豌豆停一停。 不过，有一种豆制品例外，这就是豆腐。人们在做豆腐的时候，已经把含嘌呤的豆汁基本隔离出去了，所以对于爱吃豆制品的患者来说，这种食物相对来说会好一些。.</description>
+    <pubDate>Fri, 08 Nov 2024 03:09:30 GMT</pubDate>
   </item><item>
-    <title>食物转能量</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/food-to-energy</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/food-to-energy</guid>
-    <description>口腔 —&gt; 食道 → 胃: 消毒和初步消化 → 小肠(胆，肝和胰腺): 主要消化和吸收 营养物质进入血液。→ 肝脏 食物进入小肠，胆囊收缩，将胆汁释放到十二指肠。胰液一起在小肠中与食物混合。大部分胆汁在小肠末端被重新吸收，返回肝脏再利用。 其他物质进入大肠 → 吸收水分和电解质 → 排出体外。 因此便秘的粑粑很干。 胆、肝脏和胰腺的协同 胆汁的产生和储存： 肝脏持续产生胆汁 胆汁通过肝管流入胆囊 胆囊储存并浓缩胆汁 消化信号的触发： 当食物（尤其是脂肪）进入小肠时，会刺激分泌缩胆素-胰酶分泌素（CCK） CCK是一种激素，同时作用于胆囊和胰腺 胰腺的反应： CCK同时刺激胰腺分泌胰液 胰液含有多种消化酶，通过胰管进入十二指肠 在十二指肠的协同作用： 胆汁和胰液在十二指肠中与食物混合 胆汁乳化脂肪，为胰脂肪酶的作用创造条件 胰液中的碳酸氢盐中和胃酸，为消化酶创造适宜的pH环境 脂肪的消化和吸收： 胆汁乳化脂肪，形成微小脂肪滴 胰脂肪酶分解这些脂肪滴 胆汁还协助脂肪和脂溶性维生素的吸收 肝脏的解毒作用： 肝脏过滤来自肠道的血液，处理可能有害的物质 一些废物通过胆汁排出体外 胆汁的循环利用： 大部分胆汁在回肠末端被重新吸收 通过门静脉系统返回肝脏，再次利用 反馈调节： 这三个器官的活动受到多种激素和神经信号的精密调控 例如，当足够的胆汁和胰液释放后，CCK的分泌会减少 敲胆经 敲胆经促进胆汁分泌来促进消化。是中医的说法。被未经过临场实验来证实。.</description>
-    <pubDate>Thu, 07 Nov 2024 10:34:01 GMT</pubDate>
+    <title>肾</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/shen</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/shen</guid>
+    <description>大豆的植物蛋白含量高，对肾的压力比较大。 融水的物质走肾脏，脂肪代谢走肠道和肝脏。.</description>
+    <pubDate>Fri, 08 Nov 2024 03:09:30 GMT</pubDate>
   </item><item>
-    <title>代谢</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/readme</guid>
-    <description> 代谢，亦称新陈代谢，是生物体维持生命的化学反应总称。这些反应使得生物体能够生长、繁殖、保持它们的结构以及对环境作出反应。代谢通常被分为两类：分解代谢可以对大的分子进行分解以获得能量（如细胞呼吸）；合成代谢则可以利用能量来合成细胞中的各个组成分子，如蛋白质和核酸等。代谢是生物体不断进行物质和能量的交换过程，一旦物质和能量交换停止，则生物体的生命就会结束。 维基百科 当代谢出现问题后，会导致一系列连锁反应：糖尿病，尿酸高，慢性炎症，脂肪肝，动脉粥样硬化，阿兹海默等。 代谢问题指标 有下面中的三个或三个以上的标准，那么你就患有代谢综合征： 高血压(&gt;130/85) 高甘油三酯(&gt;150mg/dL) 低高密度脂蛋白胆固醇（男性&lt;40mg/dL，女性&lt;50mg/dL） 向心性肥胖(central adiposity)（男性腰围&gt;40英寸，女性腰围&gt;35英寸） 空腹血糖升高(&gt;110mg/dL) .</description>
-    <pubDate>Thu, 07 Nov 2024 10:34:01 GMT</pubDate>
+    <title>药物</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/medicine/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/medicine/readme</guid>
+    <description>药物、激素或补充剂。.</description>
+    <pubDate>Fri, 08 Nov 2024 03:09:30 GMT</pubDate>
   </item><item>
-    <title>让人上瘾的多巴胺</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/addictive-dopamine</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/addictive-dopamine</guid>
-    <description> 多巴胺是一种渴望。 令人上瘾的会激活奖赏系统。奖赏给我们带来兴奋和愉悦。奖赏机制能促进维持生命的活动，如寻找食物和水、为繁衍后代而发生性行为、照料新生婴儿等。 多巴胺是奖赏系统的一个关键组成部分。多巴胺的升高，会产生强烈的渴求感。当你感受到一个触发奖赏回路的刺激时，多巴胺得到释放，引起一连串的化学信号传递，然后大脑告诉身体要继续获得奖赏，并记住再做一次。 具体来说：杏仁核将某种刺激识别为需要奖赏的体验时，海马体就会将该体验存储到记忆中，以便这种体验能够重复获得。同时，随着多巴胺水平的上升，伏隔核就会活跃起来，并促使你继续做你正在做的事情。举个例子，比如你吃了一大勺冰激凌，好吃极了。你的杏仁核注意到吃冰激凌让你感觉很快乐，而你的海马记录了你为获得冰激凌所做的事情，这样一来，你就会记住如何再次获得冰激凌，而你的伏隔核会促使你再吃一口。同时，你的前额叶皮质会帮助你专注于吃完冰激凌。这样，奖赏回路会一直运转下去。 甜味，赌博，刷抖音等极大的激活了大脑中多巴胺的奖赏回路。 多巴胺与专注 快乐情绪持续时间的延长，能够增大神经传递介质多巴胺（多巴胺是大脑分泌的一种神经传导物质，用来帮助神经细胞传递信号。多巴胺主要负责大脑的情欲、感觉、兴奋以及开心程度，可以影响一个人的情绪）的浓度，而多巴胺则可以有效帮助你保持注意力的集中。.</description>
-    <pubDate>Thu, 07 Nov 2024 10:34:01 GMT</pubDate>
+    <title>治疗</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/readme</guid>
+    <description>心血管指标 心脏CT扫描。冠状动脉是否存在钙化，冠状动脉钙化是晚期动脉粥样硬化的标志。 apoB检测。apoB比简单的LDL-C（标准的“坏胆固醇”指标）更能预测心血管疾病。 LDL-C(低密度胆固醇)。低密度脂蛋含量高，提升风险。 .</description>
+    <pubDate>Fri, 08 Nov 2024 03:09:30 GMT</pubDate>
   </item><item>
-    <title>杏仁核</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/amygdala</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/amygdala</guid>
-    <description>杏仁核又名杏仁体，有产生情绪和调节内脏活动的功能。 杏仁核位于侧脑室下角前端的上方，海马体旁回沟的外侧，顶部与尾状核的末端相连。它是边缘系统的一部分。 产生情绪 杏仁核判断所看见的物体在情绪上的重要性：猎物、天敌、还是配偶、无关紧要。如果杏仁核变得兴奋，那么说明眼前的东西很重要，神经信号就会向下发送到自主神经系统，心跳开始加速，手掌开始出汗（导致皮肤电阻改变），肌肉开始收缩。如果杏仁核判断看到的是无关紧要的东西，身体就没有上述反应。 杏仁核对恐惧情绪至关重要。杏仁核受损的人，不会感到恐惧。 杏仁核将某种刺激识别为危险时：它能让动物逃跑或者战斗。同时，它能产生情绪激励海马体，从而增强记忆。 杏仁核上也有多巴胺的受体。杏仁核将某种刺激识别为需要奖赏的体验时，海马体就会将该体验存储到记忆中，以便这种体验能够重复获得。 调节内脏活动 见 压力对身体的影响。 杏仁核与精神疾病 焦虑症，PTSD 对应的是杏仁核的过度激活。 前额叶和杏仁核是互相抑制的作用。前额叶可以控制杏仁核所发生的情绪反应。如果前额叶受损，导致对杏仁核的抑制能力下降，导致出现容易兴奋，狂躁。通过 正念冥想 可以加强对杏仁核的控制。.</description>
-    <pubDate>Thu, 07 Nov 2024 10:34:01 GMT</pubDate>
+    <title>问题</title>
+    <link>https://iamjoel.github.io/dialogue/problem/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/readme</guid>
+    <description>核心问题 生活中有 3 个核心的问题: 如何延长健康寿命？ 如何获取财富？ 2.1 生产 2.2 销售 如何找到人生的意义? 健康是基础，财富是工具，意义是指引。三者相互支持，共同构建了一个充实而平衡的人生。 基础问题 如何从现实中识别出问题 怎么算是掌握了知识 解决问题的方法 如何提升做事的效率？ 如何做好信息管理 通用结构 xx 的能力边界。在 xx 场景中，能 xxx。如：llm 的能力边界。在 xx 场景 中，能 xxx。 .</description>
+    <pubDate>Fri, 08 Nov 2024 03:09:30 GMT</pubDate>
   </item>
     </channel>
   </rss>
