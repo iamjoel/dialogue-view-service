@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Tue, 26 Nov 2024 03:07:02 GMT</pubDate>
+    <pubDate>Wed, 27 Nov 2024 05:57:08 GMT</pubDate>
   </item><item>
-    <title>情绪</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/readme</guid>
-    <description>愉快与不愉快 如果说感到不愉快是被蛇咬的话，那么感到愉快就是一把抓住了这条蛇的尾巴。或早或晚，这条蛇总会咬你的。 泰国冥想大师阿姜·查 .</description>
-    <pubDate>Tue, 26 Nov 2024 03:06:51 GMT</pubDate>
+    <title>《囚徒健身》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/convict-conditioning</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/convict-conditioning</guid>
+    <description>观点 依赖自身体重来健身，相对的是依赖健身器械。 健身房锻炼的人可以练出健美的力量和肌肉线条，但整体的协调性不行。.</description>
+    <pubDate>Wed, 27 Nov 2024 05:56:56 GMT</pubDate>
   </item><item>
-    <title>放松</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/relax</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/relax</guid>
-    <description>歌单 《回到那个夏天》 久石让 《往事随风》 齐秦 .</description>
-    <pubDate>Tue, 26 Nov 2024 03:06:51 GMT</pubDate>
+    <title>保持活力的 5 种方法</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/enegy-managenent</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/sport/resource/enegy-managenent</guid>
+    <description>5 Ways To Have 10x More Energy Throughout The Day。 作者: Joey Schweitzer 如果你觉得睡眠充足却还是感觉累。问题出在哪里？ You’re getting enough sleep, but you’re still feeling tired.</description>
+    <pubDate>Wed, 27 Nov 2024 05:56:56 GMT</pubDate>
   </item><item>
-    <title>庐山 - 诺那塔院</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/zen-meditation/nuoanta</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/zen-meditation/nuoanta</guid>
-    <description>打坐，干活(出坡)，诵经。 报名：诺那塔寺公众号报名。 庐山禅修之行（下）诺那塔院禅修小结 .</description>
-    <pubDate>Tue, 26 Nov 2024 03:06:51 GMT</pubDate>
+    <title>痛风</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/gout</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/gout</guid>
+    <description>痛风：少吃海鲜，少喝啤酒，少吃豆类，蘑菇，少喝肉汤（嘌呤溶于水）。 动物肝脏、肉汤、火锅、豆类和菌类食物含嘌呤高，水果、蔬菜、蛋类、奶类含嘌呤相对较少。 尿酸是嘌呤的代谢物。 嘌呤实际上是核苷酸的重要组成部分，是细胞核中的一个组成成分。 嘌呤都在肝脏、小肠及肾脏中分解代谢成为尿酸，最终三分之一由肠道排出，三分之二从肾脏排出。 酸浓度增高到一定程度，形成局部结晶体，沉积于关节、软组织、软骨及肾脏等处，会导致关节炎、尿路结石及肾疾患，进而会引发痛风。 喝酒会导致痛风的原因 第一，酒中所含的乙醇会在肝脏中转化为乙醛，而乙醛过量形成的代谢产物会引起乳酸水平增加。乳酸属于酸性代谢产物，与尿酸在肾小管中竞争排泄，肾小管的排泄量是有限的，排了乳酸就排不出尿酸，由此导致尿酸增加。 第二，大量饮酒可以促进肝脏ATP的降解，嘌呤分解加速，尿酸产生增多。 啤酒不仅抑制尿酸排泄，而且还含有大量嘌呤成分，这样尿酸产生得多，排出又困难，自然会出现血尿酸值上涨的情况。 粮食里的豆类最好不要吃，蔬菜里的豆芽菜、扁豆、豇豆、豌豆停一停。 不过，有一种豆制品例外，这就是豆腐。人们在做豆腐的时候，已经把含嘌呤的豆汁基本隔离出去了，所以对于爱吃豆制品的患者来说，这种食物相对来说会好一些。.</description>
+    <pubDate>Wed, 27 Nov 2024 05:56:56 GMT</pubDate>
   </item><item>
-    <title>禅修</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/zen-meditation/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/zen-meditation/readme</guid>
-    <description> 庐山 - 诺那塔院 .</description>
-    <pubDate>Tue, 26 Nov 2024 03:06:51 GMT</pubDate>
+    <title>肾</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/shen</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/disease/shen</guid>
+    <description>大豆的植物蛋白含量高，对肾的压力比较大。 融水的物质走肾脏，脂肪代谢走肠道和肝脏。.</description>
+    <pubDate>Wed, 27 Nov 2024 05:56:56 GMT</pubDate>
   </item><item>
-    <title>营养学</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/readme</guid>
-    <description>本质 吃什么。 吃多少。 什么时候吃。 情况评估 1.你是营养不良还是营养过剩？ 2.你是肌肉不足还是肌肉充足？ 3.你的新陈代谢是否健康？ 《超越百岁》 评估营养情况 体重指数(BMI) 计算方法： 体重(kg) / 身高(m)的平方。比如，一个人 70kg，178cm，则 BMI 为 70 / (1.</description>
-    <pubDate>Tue, 26 Nov 2024 03:06:51 GMT</pubDate>
+    <title>药物</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/medicine/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/medicine/readme</guid>
+    <description>药物、激素或补充剂。.</description>
+    <pubDate>Wed, 27 Nov 2024 05:56:56 GMT</pubDate>
   </item><item>
-    <title>花青素</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/anthocyanidin</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/anthocyanidin</guid>
-    <description>花青素是一种水溶性色素，是构成花瓣和果实的主要色素之一。 对人的益处 花青素为人体带来多种益处。 清除自由基。花青素是一种强有力的抗氧化剂，它能够保护人体中的自由基。自由基是造成老化及诸多疾病的重要原因之一 增进视力。医学临床报告显示花青素可促进视网膜细胞中视紫质的再生成，可预防重度近视及视网膜剥离，并可增进视力。 富含花青素的食物 蓝莓 桑葚 葡萄 .</description>
-    <pubDate>Tue, 26 Nov 2024 03:06:51 GMT</pubDate>
+    <title>治疗</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/treatment/readme</guid>
+    <description>心血管指标 心脏CT扫描。冠状动脉是否存在钙化，冠状动脉钙化是晚期动脉粥样硬化的标志。 apoB检测。apoB比简单的LDL-C（标准的“坏胆固醇”指标）更能预测心血管疾病。 LDL-C(低密度胆固醇)。低密度脂蛋含量高，提升风险。 .</description>
+    <pubDate>Wed, 27 Nov 2024 05:56:56 GMT</pubDate>
   </item><item>
-    <title>《空腹的神奇治愈力》</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/eat-less</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/eat-less</guid>
-    <description>少吃。消化食物需要很多能量。消化一顿饭的所需能量，相当于跑一场马拉松。所以，生病以及很累的时候应该少吃。平时也应该少吃(轻断食)：不吃早饭，不吃晚饭，以及只吃一顿。 其他推荐： 积极的状态： 笑，感恩。 一些运动的姿势。 基础信息 作者: 船濑俊介。日本的知名的医疗，健康评论家。他65岁身体状态像30岁。 出版时间: 主要论据： 《马克加邦报告》 《中国健康调查报告》 书摘 “有意识地断食，意味着生物本能的觉醒。” 厄普顿·辛克莱说： 消费主义希望人多吃。 每天空腹才愉悦，满肚子食物就沮丧。 少吃恢复的更快 通过断食，能够把消化食物的能量转移并集中到免疫、排毒功能中去。 另外，饥饿感会打开生命力开关。饥饿对身体来说是一种危机状态。因此，警报一响，身体里的生命保障系统便一齐运作。于是，就打开了免疫力、自然治愈力、排毒能力的开关，白细胞等免疫细胞也不断增加。 其他 位列不良生活习惯首位的是饱食，第二是高热量饮食。 中老年人群中急剧变老的人，有的是因为每日都过度饮食。 最先发表实验数据的是前面介绍过的美国康奈尔大学的营养学家，克莱夫·M.</description>
-    <pubDate>Tue, 26 Nov 2024 03:06:51 GMT</pubDate>
+    <title>问题</title>
+    <link>https://iamjoel.github.io/dialogue/problem/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/readme</guid>
+    <description>核心问题 生活中有 3 个核心的问题: 如何延长健康寿命？ 如何获取财富？ 2.1 生产 2.2 销售 如何找到人生的意义? 健康是基础，财富是工具，意义是指引。三者相互支持，共同构建了一个充实而平衡的人生。 基础问题 如何从现实中识别出问题 怎么算是掌握了知识 解决问题的方法 如何提升做事的效率？ 如何做好信息管理 通用结构 xx 的能力边界。在 xx 场景中，能 xxx。如：llm 的能力边界。在 xx 场景 中，能 xxx。 .</description>
+    <pubDate>Wed, 27 Nov 2024 05:56:56 GMT</pubDate>
   </item><item>
-    <title>《你是你吃出来的2》</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/you-are-what-you-eat-2</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/you-are-what-you-eat-2</guid>
-    <description>基本信息 作者：夏萌。 曾就职于北京天坛医院神经内科、北京安贞医院神经内科和营养科，曾任北京安贞医院营养科主任。 有丰富的临床经验。 慢性病康复的饮食密码 主要内容 介绍了一些慢性病的成因，影响，以及如何通过改变饮食和生活方式来治疗。 高血压 血压四怕：盐多、肉少、宅、情绪差。 建议： 适量的盐。少吃面条，少喝汤，别吃咸菜 优质蛋白 戒烟戒酒 多运动 少熬夜 保持心情愉快。 基本概念 收缩压： 心脏收缩时，把血液推入大血管时，会对动脉壁产生侧壁压力叫做收缩压。也叫上压。 舒张压： 心脏舒张时，大血管中的血液回流，会再次对血管壁产生压力叫做舒张压，也叫下压。 脉压：收缩压和舒张压的差值。 什么算高血压 收缩压 和 舒张压 血压类型收缩压舒张压一级高血压140 - 16090 - 100二级高血压160 - 180100 - 110三级高血压&gt; 180&gt; 110 脉压 中国正常人的脉压标准一般是30～40毫米汞柱，欧洲的标准是不超过65毫米汞柱，美国的标准是不超过70毫米汞柱——脉压65～70毫米汞柱是极限。 影响血压值的因素 最常见的影响血压值的有五大因素： 血容量 血管壁弹性 周围血管阻力 神经内分泌调节系统 心脏搏动。 血容量 血容量增加，血压上升。 人吃得过咸，会导致血容量增加。人吃得过咸时，血中的钠含量升高，就会激活人体的饥渴中枢，人感觉口渴就会喝水，目的是让血液中的钠浓度恢复正常。血容量随之增加。血容量不可能无限增加，血容量增加的同时，肾脏也会努力工作——排钠，排水，这样又加重了肾脏的负担。 按照《中国居民膳食指南（2016）》中的规定，成年人每天摄入盐的总量不要超过6克。 血管壁弹性 摄入优质蛋白有利于提升血管壁弹性。此外，维生素C、钙、镁、钾的摄入量对血管壁弹性也有重要影响。 血管弹性越好，侧压力被血管壁吸收得越多，测出来的收缩压就会偏低。血管壁弹性差的体现是脉压大：脉压大于40毫米汞柱。 血管壁的弹性与蛋白质密切相关。血管壁的弹性主要取决于血管壁中层弹性组织。大动脉的中层有40～70层弹性膜。弹性膜呈波浪状，主要成分是弹性蛋白。不仅如此，弹性膜之间还有平滑肌和一些胶原蛋白。 周围血管阻力 周围血管阻力与血管半径、血液黏度和血管长度有关。影响血管半径的因素很多，比如，神经内分泌系统是否稳定，动脉是否有粥样硬化，血液黏稠度问题，周围组织缺氧程度，等等。 有一种情况非常常见——不爱运动。不爱运动会造成组织细胞对氧的需求量减少，毛细血管前小动脉关闭，导致周围血管阻力加大。 周围血管阻力的体现是：高压正常，低压高。 情绪 当情绪紧张时，肾上腺素分泌会增多，交感神经会兴奋，这样会提高心脏的收缩力，并使外周血管收缩，导致血压高。 高血压的危害 严重后，容易引起并发症：冠心病、脑卒中、肾功能衰竭等。 高血压的处理 一级高血压暂时不用吃降压药，开始严格地管理自己，同时监测自己的血压变化。 二级和三级高血压需要马上吃药，让血压降下来，同时在生活方式上努力改变，做到标本兼治。 降压药 降压药有好几类，有扩张周围血管的钙离子阻断剂、有利尿剂、有抑制肾素-血管紧张素系统的，还有抑制心肌收缩及周围血管平滑肌收缩的。现在比较讲究的用药是几类药物各取一点，增强药物的协同性，减少药物的不良反应。.</description>
-    <pubDate>Tue, 26 Nov 2024 03:06:51 GMT</pubDate>
+    <title>未整理</title>
+    <link>https://iamjoel.github.io/dialogue/problem/unsort</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/unsort</guid>
+    <description>关系 亲子关系 构建，愉悦，亲密的亲子关系。 让孩子成为一个独立，快乐的人。 正面管教 娱乐 通用的解决问题的方法 数据分析：AWESOME DATA SCIENCE 宗教是一种信仰的文化，科学是一种怀疑的文化。 ——理查德·费曼(Richard Feynman) .</description>
+    <pubDate>Wed, 27 Nov 2024 05:56:56 GMT</pubDate>
   </item><item>
-    <title>如何延长健康寿命？</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/readme</guid>
-    <description> 人体的许多特征适应于进化所经历的环境，但不适应于我们创造的现代环境，这种观点被称为失配假说，是新兴的进化医学领域的核心观点，而进化医学是将进化生物学应用于健康和疾病的学科。 《人体的故事 - 进化，健康和疾病》 健康的本质 健康的本质是保持生命的墒。 影响健康寿命的主要因素 影响健康寿命的主要因素是慢性病。主要的慢性病有： 代谢相关的慢性病： 2 型糖尿病，高血压，高血脂，脂肪肝，痛风等。 心血管疾病。包括动脉粥样硬化，心脏病，中风等。 癌症。 神经退行性疾病。如阿尔茨海默病，老年痴呆。 产生慢性病的主要原因是： 吃的多。 运动少。 情绪差。 吃的多，运动少，时间久了，容易得 2 型糖尿病，高血压等代谢相关的慢性病。同时，这些慢性病会使身体处于炎症的状态中。长期的炎症： 让身体不舒服，影响情绪 加重慢性病。 减少大脑营养的供给，导致阿尔茨海默病，老年痴呆等神经退行性疾病。 加大得癌症的概率。 具体内容 内容作用身体是如何工作的顺应身体才能健康饮食身体的能量来源。抵抗熵增。运动增强身体的活力。休息有利于身体恢复。情绪对影响到行为，对身体健康有只要意义治疗辅助身体恢复健康。 资源 用18本书搞定健康，超全超实用！ .</description>
-    <pubDate>Tue, 26 Nov 2024 03:06:51 GMT</pubDate>
+    <title>所有标签</title>
+    <link>https://iamjoel.github.io/dialogue/tag</link>
+    <guid>https://iamjoel.github.io/dialogue/tag</guid>
+    <description> AI LLM .</description>
+    <pubDate>Wed, 27 Nov 2024 05:56:56 GMT</pubDate>
   </item>
     </channel>
   </rss>
