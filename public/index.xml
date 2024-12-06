@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Thu, 05 Dec 2024 02:25:39 GMT</pubDate>
+    <pubDate>Fri, 06 Dec 2024 02:38:26 GMT</pubDate>
   </item><item>
-    <title>解决问题的方法</title>
-    <link>https://iamjoel.github.io/dialogue/problem/base/what's-the-way-to-solve-problem/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/base/what's-the-way-to-solve-problem/readme</guid>
-    <description> 科学方法 .</description>
-    <pubDate>Thu, 05 Dec 2024 02:25:28 GMT</pubDate>
+    <title>一加</title>
+    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</guid>
+    <description>核心功能 信息检索。 信息浏览。 信息操作。 具体场景 信息检索： 用 Google 搜索。 用 ChatGPT 搜索。 在已知 APP 力检索。 信息浏览： 打开新闻网站，看一篇新闻。 查看邮件。 信息操作： 应用捷径的实现(IOS 的捷径功能)。 自动化 AutoX.js 自动化的需求 自动打开微信收藏的某篇笔记。 打开某些应用前，先挂梯子。 .</description>
+    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
   </item><item>
-    <title>科学方法</title>
-    <link>https://iamjoel.github.io/dialogue/problem/base/what's-the-way-to-solve-problem/science</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/base/what's-the-way-to-solve-problem/science</guid>
-    <description> 实事求是 承认无知 批判主义精神 科学的目的是为了解释，而不是预测。解释指的是为什么，而不仅仅是什么。工具主义：注重预测，不在乎是什么。 - 戴维·多伊奇 物理学家， 《真实世界的脉络》 和 《无穷的开始 - 世界进步的本源》 的作者 科学进步是通过猜想和反驳而取得的，理论被接受是因为它的所有竞争理论都被驳倒了，而不是因为有大量支持它的实例。 优势 科学是有利于协作的，也有利于发现问题。因为在科学面前大家都是平等的，都可以提出质疑。 相对的：独裁政体是一种集中式的信息网络，而且缺乏强大的自我修正机制。相较之下，民主政体则是一个分布式的信息网络，并且拥有强大的自我修正机制。 归纳法 从具体推一般，产生了新知识，但并不能保证对，当发现新的现实与理论违背时，违背就被推翻了。 了解现实本身的感觉有时是靠不住的我们是否能真实的观察到现实。 当然，归纳法也有一些局限性。归纳主义的问题：如何证明从过去的证据中得出的关于未来的结论是正确的。 演绎法 一般推具体。不产生新知识。 还原论 把研究对象拆分成若干小的部分，再分别研究小的部分。 局限性： 不适合复杂系统。复杂系统中，部分之间的关系也很重要重要。一个系统等于部分和部分之间的关系，不仅仅是部分本身。 科学革命 科学革命是一次更广泛的思想革命的一部分，这次思想革命就是启蒙运动，它带动了其他领域里的进展，特别是在道德、政治哲学和社会体制的进展方面。这是一场反叛，是专门针对知识权威的反叛。要实现知识的持续快速增长，需要的是批评的传统。 可检验性 可检验性作为科学方法的决定性特征，现已被普遍接受。波普尔将其称为科学与非科学之间的“分界标准”。 科学来说，真正的关键是我们的解释性理论（其中包含上述解释）可以通过推测、批评和测试来改进。.</description>
-    <pubDate>Thu, 05 Dec 2024 02:25:28 GMT</pubDate>
+    <title>从不同角度看问题</title>
+    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</guid>
+    <description>六顶思考帽 六顶思考帽（Six Thinking Hats）是由爱德华·德·博诺（Edward de Bono）提出的一种思考方法,旨在从不同角度审视问题。这六顶帽子分别代表: 白色思考帽:客观事实与数据。着重于收集与问题相关的客观事实和数据,不掺杂个人观点。 红色思考帽:情感和直觉。表达对问题的直观感受,不需要任何理由或依据。 黑色思考帽:谨慎和批判。对问题持怀疑和谨慎态度,找出方案中存在的危险和缺陷。 黄色思考帽:乐观和积极。从积极的角度看问题,寻找方案的优点和价值。 绿色思考帽:创意和变通。打破常规思维方式,提出创新的想法和解决方案。 蓝色思考帽:控制和管理。协调其他五种思考模式,把控讨论的方向和节奏。.</description>
+    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
   </item><item>
-    <title>哥哥</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-do-get-education/elder</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-do-get-education/elder</guid>
-    <description> 多点耐心 要提醒的 坐姿端正 橡皮用完都放到笔筒 不需要提醒 本子放歪 练习 练习翻衣服袖子，正反面。 其他 英语老师成见很大，心思不在学习上。破除成见，考个高分看看。 .</description>
-    <pubDate>Thu, 05 Dec 2024 02:25:28 GMT</pubDate>
+    <title>我的工具包</title>
+    <link>https://iamjoel.github.io/dialogue/personal/toolbox/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/readme</guid>
+    <description>工具包理想状态 遇到问题时，快速的找到工具。 工具之上的工具。类似工具之上的插件。比如 Chrome 的插件。更进一步的是，针对页面级别的工具。 最小化依赖的工具 Mac，一加手机 Chrome VSCode 微信 微信读书 飞书 筛选标准 生活中，可靠的最小的依赖。 最小化。 可靠。不容易蹦。 生态。配置性强，可隐藏信息。支持自动化。可拓展。减少干扰，突出重点。 信息的检索，筛选。 Chrome。 自动化。 .</description>
+    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
   </item><item>
-    <title>如何做好子女的教育</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-do-get-education/read</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-do-get-education/read</guid>
-    <description>教育的目的 我认为的是： 学习生存技能。特别是软技能：沟通，情绪控制。 找寻生命的意义。 简而有之，学习如何能幸福的活着。人的一生很长，当自己想学时，基本都能学。 对应的普鲁士教育的目的： 让社会运转所需的技能。也就是能当一个螺丝钉的技能。不需要创造力。 爱国。 核心理念 信任 给孩子尽可能多的自由和自主性。放手让他们自己去做。 好处：子女更有动力(自驱力)，容易独立。 爱 关注和陪伴。 支持。当子女需要帮助时，能适量的帮助。 引导性的问题 对子女的关注: 你今天过的怎么样? 看起来状态不错/不太好？发生了什么。 你觉得 xx 有不够好的地方吗？ 对意义的思考: 你长大想做什么？ .</description>
-    <pubDate>Thu, 05 Dec 2024 02:25:28 GMT</pubDate>
+    <title>从本质看前端</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/dive-into-frontend</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/dive-into-frontend</guid>
+    <description>前端的本质是数据。 复杂度 程序的功能边界是人的欲望边界。欲望的增长得很快。程序员理解力增长有限。因此，程序最后往往是难以维护的。 功能都可以分解为：数据，数据的呈现，数据的操作。 用户期望的是，快速的达成目标。这目标总是和数据相关的，一般是 查看数据 或 操作数据。 操作数据相对比较容易，就是改数据值。对应的无非是一个表单，或者鼠标键盘之类输入设备的输入(玩游戏场景)。 查看数据做的体验好，往往很复杂。体验好指的是：用户能不费力的看到期望的数据。复杂原因: 获取数据的复杂度。期望的数据可能来自不同实体，会调用若干次接口。 展示方式的复杂度。为了突出数据的某些方面，要设计合适的展示方式。 减少响应时间(性能)的复杂度。需要做接口缓存，预渲染，渲染的缓存，滚动加载，虚拟列表等。 降低复杂度 减少程序的功能。 数据层面的复杂度: 数据数量多，对象属性多，对象的层次深。 逻辑的复杂度: 涉及的数据多，圈复杂度高，调用链长。 修改的复杂度：被多处复用，改动时， 不同目标之间的平衡： 代码的可维护性， 性能。 深度深。 更有深度的思考前端。数据视角看。 呈现列表数据: 表格，看板， 筛选 分组，聚类 高亮/突出展示内容 维度：时间维度，从属关系，并列关系 一些高频的，有深度的内容(会遇到什么问题，目前是怎么解决的): 底层 高频的数据操作方法。边界及难的地方。 应用层 框架 API 。 React 的 hooks 。 状态管理 接口调用 SSR .</description>
+    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
   </item><item>
-    <title>如何找到人生的意义</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-find-the-meaning-of-life/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-find-the-meaning-of-life/readme</guid>
-    <description>人生意义的本质 人生并没有绝对的意义。不同的人对人生意义有不同的理解和看法。 在我看来，人生的意义在于给人目标，让人更好的活下去。具体是什么目标并不重要。 生命最在乎的 生命最在乎两件事：生存和繁殖。生存能力再强（除非能永生），如果不繁殖，总有消亡的一天。 悲观 我们是一颗微粒上的一颗微粒上的一颗微粒。 - 天文学家尼尔·德格拉斯·泰森 保持悲观（在乎危险信息）在以前险恶的生存环境中是有利于生存的。因为不重视危险信息容易丧命。但保持悲观的副作用让人处于压力环境中，让人容易产生炎症，让人疲劳。 现代社会，但保持乐观更有利。 走出悲观 走出悲观的方式：运动，晒太阳，想最坏的情况会怎样（比如工作压力，最坏的情况就是辞职会被开除，并不会怎么样）。 资源 《鱼不存在》 如何在一个混乱永远盛行的世界里坚持下去。 .</description>
-    <pubDate>Thu, 05 Dec 2024 02:25:28 GMT</pubDate>
+    <title>通过 AI 来自动化提升代码质量</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/impove-code-quality-by-ai</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/impove-code-quality-by-ai</guid>
+    <description>AI 的优势： 思路广。能找到一些有创意的解决问题的新方案。很像人的无意思。 运算速度快。 缺点: 生成的内容的质量不稳定。 实现思路 在 AI 的辅助下：罗列高代码质量的原则和原则的高优先级。 基于上面的原则，生成: Prompt。 =&gt; 提升生成质量。 示例。 将示例 Embedding 。 =&gt; 提升生成质量。 应用在需要重构的代码上。 .</description>
+    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
   </item><item>
-    <title>鱼不存在</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-find-the-meaning-of-life/resource/why-fish-don't-exixt</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-find-the-meaning-of-life/resource/why-fish-don't-exixt</guid>
-    <description> “放弃鱼类之后， 我看到了世界的本质，一个拥有无限可能的地方。” 混乱才是世界的主宰。 每当能量转移或转化时，熵或系统中无序的数量就会增加。- 热力学第二定律 我们是一颗微粒上的一颗微粒上的一颗微粒。 - 天文学家尼尔·德格拉斯·泰森 “由此观之，生命何等壮丽恢宏” - 达尔文 《鱼不存在》 是传记、回忆录和科学冒险的奇妙结合，也是一则温暖人心的寓言，讲述了如何在一个混乱永远盛行的世界里坚持下去。 乐观之盾 正面 如果撒谎能够战胜恐惧，并且不会导致后续的不良行为，我不觉得这么做有什么问题。 许多研究结果显示，极端的否认和妄想是不良行为。而那些无伤大雅的谎言，没有恶意的谎言，宛如玫瑰花蕾般的谎言呢？它们能带来很多好处。面对一个正在痛苦挣扎的人，如果我们能引导她用更乐观的方式描述自己，让她相信真实的自己更为强壮、更为善良，而分手可能不完全是她自己的错，那么她的生活将会发生深刻的变化。 什么样的认知偏差能让你获得坚毅的特质呢？积极错觉。其他研究显示，如果你拥有积极错觉，那么你在遭遇挫折后就不太容易感到沮丧。 负面 一个过分自信、自吹自擂的人最终只会被他人疏远。这些过分自信的人可能没有意识到，他们失去了在社区里树立良好口碑所能获得的便利。可能没几个人愿意借给他们自家的耙地工具，没什么人愿意邀请他们带菜到自己家来聚会，也很少有人愿意为他们介绍工作。 总之 控制好度。 感想 跳出规则 人总是去试图定义强弱，好坏。特别是强者，他们在制定规则，规定等级。追随者们在等级的阶梯上攀登。 有些人不擅长那些规则，比如上好的学校，找赚钱的工作。然后他们会抑郁，不自信。 有些人擅长那些规则。但是攀登到山顶之后呢？而且攀登往往没有止境。 谁制定的规则，最终总是对了规则制定者有利的。 跳出规则。在保证能生存的情况下，选择性很多。 接受混乱/变化 混乱/变化是常态，接受它，而不是总是试图改变它。.</description>
-    <pubDate>Thu, 05 Dec 2024 02:25:28 GMT</pubDate>
+    <title>生命的本质</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/readme</guid>
+    <description>生命能长期存在的本质是 生存和繁殖。 生存 生存是前提。不生存，也没有机会去繁殖。 生存的本质就是保持一种秩序。这种秩序也就是熵。生命的熵高于周围的环境，因此，根据第二热力学定律，要维持生命，需要从外界吸收能量，比如依靠饮食，晒太阳。通过亿万年的演化，生命发展出一系列机制生存。 生存的过程中，会做一个个决策，决策的本质都是趋利避害。 生存能力 生存能力，本质是适应环境变化的能力。 繁殖 没有繁殖就没有后代。再强的生命总有消亡的一天。.</description>
+    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
   </item><item>
-    <title>如何获取财富？</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-get-wealth/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-get-wealth/readme</guid>
-    <description>财富的本质 我认为，财富的本质是满足他人需求的回报。回报的方式可能金钱，物品，欠的人情等。 问题和财富的关系 帮别人解决问题可以获得财富。可以通过财富来让别人来解决自己的问题。.</description>
-    <pubDate>Thu, 05 Dec 2024 02:25:28 GMT</pubDate>
+    <title>趋利避害 - 生存最本质的策略</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/survival-strategy-seeking-benefits-and-avoiding-harm</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/survival-strategy-seeking-benefits-and-avoiding-harm</guid>
+    <description>Draft 版。 生存最本质的策略就是趋利避害。要生存的好，就是多做利的，少做害的。有的利，其实是害。有的害，其实是利。 利 利就是自认为的好处。有利于生存的就是利。利是： 拉回生命平衡的秩序。例如：恢复体力，健康 推向对环境适应性更强的秩序。身体，例如：心灵变得健壮这种。 具体的比如： 肚子饿时吃东西。 平常吃太多时控制饮食。 害 害就是利的反面。也就是迫害生命平衡秩序的。 如何判断利和害 人是从过去的经验来判断利害的。 博弈。 大棒是害。机会是利，风险是害。 衡量：利 投入产出比。 贪是趋利，痴是弊害。人生的苦也是趋利避害。 多巴胺的分泌是趋利，保持专注。催产素的分泌也是趋利。痛是弊害。 趋利避害是一种生存策略。 趋利避害的例子 好逸恶劳。奖励和惩罚。胡萝卜加大棒。 我认为利和害 人生意义的基础，人的寿命是有限的 人的目标.</description>
+    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
   </item><item>
-    <title>基因</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/gene</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/gene</guid>
-    <description> “不以进化论，无以理解生物学。” - 遗传学家西奥多修斯·杜布赞斯基(Theodosius Dobzhansky)。生命本质上是由生命有机体利用能量来产生更多生命有机体的过程。 《真实世界的脉络》 中关于基因的介绍 基因能够指令它的细胞计算机所做的一切就是：生产一定的化学物质。 有生命的分子——基因——仅仅是分子，和无生命分子一样遵从同样的物理和化学定律。它们不含有特殊物质，也没有任何特殊的物理属性。它们只不过在一定环境下恰好成为了复制子。 复制子这一性质是与环境高度相关的，即取决于复制子环境的复杂细节：在一个环境下是复制子，而在另一个环境下就不是。而且复制子对生态位的适应性也不取决于该复制子当时所具有的任何简单、内在的物理属性，而是取决于它在未来以及在假想的环境（即环境的变种）下可能引起什么效应。 我们可以推断基因的“意向”是想要营造一个能复制自己的环境。如果基因不能像其他竞争基因那样高效地、果断地将这一“意向”付诸行动，它就会灭绝。 .</description>
-    <pubDate>Thu, 05 Dec 2024 02:25:28 GMT</pubDate>
+    <title>世界观</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/world-view</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/world-view</guid>
+    <description> 经验是知识的唯一来源。 - 经验主义 相对的，有的哲学学派认为有的知识是先验的。 实证主义 [逻辑实证主义](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E5%AE%9E%E8%AF%81%E 4%B8%BB%E4%B9%89) 维也纳学派 形而上学 对世界的理解 世界是由一些定律支配的。 定律是人类的定义。定律是一些因果。有些定律人类能掌握，有些不能掌握。 对人类的理解 对自己的理解 没有压力就没有成长。 食物不需要咬，导致对颌骨的刺激不够，导致空间小：阻生（横长的智齿），牙齿不齐。 骨质疏松，年轻时运动少，对骨头的刺激不够，骨头不够粗壮，同时年龄的增长。 智力也是如此。老年痴呆啥的。 易过敏：环境太过干净。探讨过度清洁为什么以及如何导致了牛奶或花粉这些原本无害的物质触发潜在的致命过度反应，让我们先简单回顾一下你的免疫系统是如何保护你的。由于与微生物接触太少导致了失衡，从而矛盾性地导致对原本无害的外来物质产生过度反应。 -《人体的故事 - 进化，健康和疾病》 SB 定律 SB定律1，从没觉得自己傻逼过的，一定是不可救药的大傻逼。扪心自问，谁还没有傻逼的时候呢，再过些年看现在，会不会继续这样的感慨呢 SB定律2，觉得身边所有人都是傻逼的，往往自己才是最傻逼的那个。心理没点逼数，也是一种人生常态。 SB定律3，收割傻逼的终将被傻逼们封神，试图唤醒傻逼的是傻逼眼中的傻逼。尊重他人命运，放弃助人情节。 SB定律4，试图证明傻逼是傻逼的，自己也是傻逼。 在傻逼身上浪费任何时间都是傻逼的行为。 SB定律5，永远不要指望事实会教育傻逼，因为傻逼对事实有不一样的解读。 SB定律6，傻逼们会以为，他们所熟悉的规则是这个世界上唯一的规则。 CaoZ .</description>
+    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
   </item><item>
-    <title>食物转能量</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/food-to-energy</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/food-to-energy</guid>
-    <description>口腔 —&gt; 食道 → 胃: 消毒和初步消化 → 小肠(胆，肝和胰腺): 主要消化和吸收 营养物质进入血液。→ 肝脏 食物进入小肠，胆囊收缩，将胆汁释放到十二指肠。胰液一起在小肠中与食物混合。大部分胆汁在小肠末端被重新吸收，返回肝脏再利用。 其他物质进入大肠 → 吸收水分和电解质 → 排出体外。 因此便秘的粑粑很干。 胆、肝脏和胰腺的协同 胆汁的产生和储存： 肝脏持续产生胆汁 胆汁通过肝管流入胆囊 胆囊储存并浓缩胆汁 消化信号的触发： 当食物（尤其是脂肪）进入小肠时，会刺激分泌缩胆素-胰酶分泌素（CCK） CCK是一种激素，同时作用于胆囊和胰腺 胰腺的反应： CCK同时刺激胰腺分泌胰液 胰液含有多种消化酶，通过胰管进入十二指肠 在十二指肠的协同作用： 胆汁和胰液在十二指肠中与食物混合 胆汁乳化脂肪，为胰脂肪酶的作用创造条件 胰液中的碳酸氢盐中和胃酸，为消化酶创造适宜的pH环境 脂肪的消化和吸收： 胆汁乳化脂肪，形成微小脂肪滴 胰脂肪酶分解这些脂肪滴 胆汁还协助脂肪和脂溶性维生素的吸收 肝脏的解毒作用： 肝脏过滤来自肠道的血液，处理可能有害的物质 一些废物通过胆汁排出体外 胆汁的循环利用： 大部分胆汁在回肠末端被重新吸收 通过门静脉系统返回肝脏，再次利用 反馈调节： 这三个器官的活动受到多种激素和神经信号的精密调控 例如，当足够的胆汁和胰液释放后，CCK的分泌会减少 敲胆经 敲胆经促进胆汁分泌来促进消化。是中医的说法。被未经过临场实验来证实。.</description>
-    <pubDate>Thu, 05 Dec 2024 02:25:28 GMT</pubDate>
+    <title>观点</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/readme</guid>
+    <description> 生命的本质 世界观 .</description>
+    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
   </item>
     </channel>
   </rss>
