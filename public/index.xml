@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Fri, 06 Dec 2024 02:38:26 GMT</pubDate>
+    <pubDate>Mon, 09 Dec 2024 02:36:27 GMT</pubDate>
   </item><item>
-    <title>一加</title>
-    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</guid>
-    <description>核心功能 信息检索。 信息浏览。 信息操作。 具体场景 信息检索： 用 Google 搜索。 用 ChatGPT 搜索。 在已知 APP 力检索。 信息浏览： 打开新闻网站，看一篇新闻。 查看邮件。 信息操作： 应用捷径的实现(IOS 的捷径功能)。 自动化 AutoX.js 自动化的需求 自动打开微信收藏的某篇笔记。 打开某些应用前，先挂梯子。 .</description>
-    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
+    <title>《排毒吧，大脑》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/brain-wash</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/brain-wash</guid>
+    <description> 剖析了现代科技和生活方式是如何通过种种“污染源”影响我们的思维、情绪和决策，并提供了如何远离抑郁、焦虑和成瘾等心理问题以及炎症、肥胖等身体不适的具体策略。 基础信息 作者: [美]戴维·珀尔马特 奥斯汀·珀尔马特。 他还些了《谷物大脑》，《疯狂的尿酸》，《菌群大脑》 现代社会的负面影响 患上失联综合征。它的 8 个特征： 长期应激。使杏仁体占据主导。 慢性炎症。会削弱杏仁核与前额叶皮质的连接，甚至会损害前额叶皮质本身，让杏仁核不受控制地发挥作用。导致 冲动，自恋，糟糕的人际关系。 即时满足。 盲目的活动。 冲动。 糟糕的人际关系。 自恋。 孤独。 导致的原因： 吃过量的 “垃圾食品”(工业食品)：高能量，低营养。导致身体的炎症，慢性病。 那些令人焦虑和恐惧的新闻是容易传播的。长期读这些新闻，会导致慢性应激状态长期存在。 睡眠不足。 奶头乐。当我们感到焦虑不安时，现代生活越来越多地用轻松的方式来诱惑我们。我们可以不断获得短暂的快乐和令人上瘾的奖赏。遗憾的是，这些快乐和奖赏使问题变得更糟糕了。我们已经被洗脑，相信获得持久快乐的方法就是加倍去做那些使我们痛苦的事情。 社交媒体让我们远离亲密关系。 应对策略 改变饮食。减少精致碳水，工业食品。 运动。 减少久坐。 正念和冥想。 深呼吸。 学会感恩。 社交。 数字戒赌。 户外活动。 数字戒赌 我们强烈建议将T.</description>
+    <pubDate>Mon, 09 Dec 2024 02:36:15 GMT</pubDate>
   </item><item>
-    <title>从不同角度看问题</title>
-    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</guid>
-    <description>六顶思考帽 六顶思考帽（Six Thinking Hats）是由爱德华·德·博诺（Edward de Bono）提出的一种思考方法,旨在从不同角度审视问题。这六顶帽子分别代表: 白色思考帽:客观事实与数据。着重于收集与问题相关的客观事实和数据,不掺杂个人观点。 红色思考帽:情感和直觉。表达对问题的直观感受,不需要任何理由或依据。 黑色思考帽:谨慎和批判。对问题持怀疑和谨慎态度,找出方案中存在的危险和缺陷。 黄色思考帽:乐观和积极。从积极的角度看问题,寻找方案的优点和价值。 绿色思考帽:创意和变通。打破常规思维方式,提出创新的想法和解决方案。 蓝色思考帽:控制和管理。协调其他五种思考模式,把控讨论的方向和节奏。.</description>
-    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
+    <title>《冥想5分钟，等于熟睡一小时》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/buddha's-brain</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/buddha's-brain</guid>
+    <description>基础信息 作者: 里克•汉森：冥想教练，同时也是一位神经心理学家。理查德•蒙迪思：一位神经学家，从事内科医生近30年。 中文版的翻译比较奇葩： 原版书名：《Buddha´s Brain The Practical Neuroscience of Happiness, Love, and Wisdom》 台湾版: 《像佛陀一樣快樂：愛和智慧的大腦奧祕》 未处理 当你今天有了一个积极乐观的经历时，把它渗入过去的伤痛中去。 当悲观消极的情绪来袭的时候，回想那些积极乐观的情绪和看法，把消极悲观的情绪中和掉。 大脑皮层是在进化的晚期才出现的，要更复杂、更精巧一些，反应速度则较慢，对于各类神经信号都有缓解和抑制作用。 你的精神也一样，是靠你过往的经历构建起来的。你应该创造、呵护和增加那些积极乐观的内隐记忆，并阻挡、消灭和减少那些消极悲观的内隐记忆。 保持你当下的状态，不论你意识到发生了什么——不要过分反应，那你就可以身心安宁。 发脾气往往会把事情搞得更糟。 冥想 加强对情绪脑的控制，避免被奶头乐和无意义的焦虑绑架。 佛陀在他的四圣谛理论里，就确认了痛苦（苦谛），诊断出了痛苦的成因（集谛，对外物的拼命攫取），并指出了解决办法（灭谛，从“集”中解放出来），给出了具体的治疗方案（道谛，也就是八正道）。 一旦你理解了自己为什么感到紧张、厌烦、激愤、失落、忧郁或者不平，这些负面情绪对你就没有那么大的威胁了。 稳定状态被打破，机会消失，威胁靠近，痛苦就产生了。但避免这些（稳定状态，机会，威胁）本身都是妄想。 丘脑，压力荷尔蒙 丘脑——你头部正中的中继站——会向你的脑干发出一个信号：“快清醒过来吧！”脑干紧接着会释放去甲肾上腺素，激活整个大脑。 交感神经系统会向你身体里的主要器官和肌肉群发出信号，让它们做好或战或逃的准备。 下丘脑——大脑的首席荷尔蒙系统调节器官——会激活脑垂体，并向肾上腺发出信号，让它们释放“压力荷尔蒙”肾上腺素和皮质醇。 皮质醇会抑制你的免疫系统，减少伤口发炎的程度。它还会通过两种不同的神经回路反复强化你的紧张反应。 第一，它会通过脑干进一步提高杏仁核的活性，杏仁核又会提升交感神经/下丘脑-垂体-性腺轴(SNS/HPAA)系统的活性，从而分泌更多的皮质醇。 第二，皮质醇会抑制海马体的活性（海马体通常能够抑制杏仁核），这就相当于把杏仁核的刹车器给卸掉了，显然会导致更多的皮质醇分泌。 被唤起的交感神经/下丘脑-垂体-性腺轴系统会进一步激活杏仁核，让这个大脑硬件能够全力以赴，对消极悲观的信息做出快速反应。此时，你的情绪也会强化你的大脑，动员和协调整个大脑的各种资源，时刻准备行动。至此，紧张的感觉已经让你彻底做好准备，随时可以惊恐万状（马上逃跑），或者愤怒异常（立刻战斗）。 当你深呼吸时，会先激活交感神经，然后激活副交感神经。上述这些积极乐观的感觉，就是这对油门和刹车亲密合作的结果。 保持副交感神经处于激活状态，以确保安宁和平和。 温和地激活交感神经，拥有热情、活力和健康的激情。 偶尔让交感神经雄起一把，以应付要求比较高的局面，比如得到了新的工作机会，或者接到了孩子的电话，去一个乱了套的聚会上接他/她回家。 消极悲观经历形成的记忆就像尼龙搭扣一样方便，积极乐观的经历则像特氟龙不粘锅一样难搞。.</description>
+    <pubDate>Mon, 09 Dec 2024 02:36:15 GMT</pubDate>
   </item><item>
-    <title>我的工具包</title>
-    <link>https://iamjoel.github.io/dialogue/personal/toolbox/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/readme</guid>
-    <description>工具包理想状态 遇到问题时，快速的找到工具。 工具之上的工具。类似工具之上的插件。比如 Chrome 的插件。更进一步的是，针对页面级别的工具。 最小化依赖的工具 Mac，一加手机 Chrome VSCode 微信 微信读书 飞书 筛选标准 生活中，可靠的最小的依赖。 最小化。 可靠。不容易蹦。 生态。配置性强，可隐藏信息。支持自动化。可拓展。减少干扰，突出重点。 信息的检索，筛选。 Chrome。 自动化。 .</description>
-    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
+    <title>《控糖革命》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/glucose-revolution</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/glucose-revolution</guid>
+    <description>作者信息 作者杰西·安佐斯佩（Jessie Inchauspé）是 控糖女神社区 的创始人。是法国年轻生物化学家、营养研究员和健康科普推广人，擅长将尖端科学转化为帮助人们改善身心健康的简单技巧。 我的推荐语 每隔几小时就想吃东西？整天都觉得很累，需要咖啡提神才能过一整天?有睡眠障碍，或醒来时觉得心慌?2期糖尿病?非酒精性脂肪肝？情绪低落，抑郁? 我们会有这个那个的身心问题。通过控糖可以在很大程度上改善身心状况。 《控糖革命》 这本书介绍了血糖峰值会对人造成不利影响的原因，会造成哪些不利影响，以及如何控糖（减少出现血糖峰值）的方法。 本书的作者是法国“葡萄糖女神”、生物化学家杰西·安佐斯佩。书中给出的建议都是有科学依据的。书中的每张血糖曲线图都是为了阐明作者参考和引用的科学发现。她不会从针对一个人的葡萄糖实验或者她个人的实验中得出普遍的结论。 作者创建的线上的控糖女神社区，已经有超过20万会员。该社区帮助很多会员改善身心状况，并重新获得了自信。 希望这本书对大家有帮助～ 核心内容 血糖峰值的出现高峰对人体有很多不利影响。因此要让血糖处于比较稳定的状态。 控制血糖的技巧。 吃饭的顺序。先吃 纤维(蔬菜)，然后吃蛋白质和脂肪，最后吃糖（饭，甜点） 吃完饭适量运动 10 - 20 分钟。 当你特别想吃糖的时候，告诉自己吃糖的危害，并做几次深呼吸。根据我的经验，通常坚持20分钟，这种感觉就会消失。 建议 少吃甜食(含大量果糖)。吃甜食（含有果糖）比吃淀粉类食物（不含果糖）对身体造成的伤害更大。 详细内容 本书给出的建议都是有科学依据的。本书中的每张血糖曲线图都是为了阐明我参考和引用的科学发现。我不会从针对一个人的葡萄糖实验或者我个人的实验中得出普遍的结论。 葡糖糖 葡萄糖的影响 葡萄糖可以瞬间影响我们的感觉，包括饥饿感和心情。一旦我们控制了它，许多问题就会迎刃而解。 葡萄糖以不同的形式存在——淀粉、纤维、果糖和蔗糖。 植物中葡萄糖的作用 植物既可以靠分解葡萄糖来产生能量，也可以原封不动地将葡萄糖作为生长所需的原料。它可以用来构建植物坚硬的树干、柔软的叶子、细长的根和多汁的果实。 淀粉 淀粉由葡萄糖组成，是一条长长的葡萄糖分子链。淀粉是用来储存葡萄糖的。葡萄糖容易溶于身边的任何物质。淀粉不会。淀粉在α-淀粉酶的作用下，会转化葡萄糖。 植物的根茎往往储存大量的葡萄糖。如马铃薯，胡萝卜，山药。种子也含有淀粉，如玉米，水稻，小麦，豆类。 果糖 果糖的甜度大约是葡萄糖的2.</description>
+    <pubDate>Mon, 09 Dec 2024 02:36:15 GMT</pubDate>
   </item><item>
-    <title>从本质看前端</title>
-    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/dive-into-frontend</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/dive-into-frontend</guid>
-    <description>前端的本质是数据。 复杂度 程序的功能边界是人的欲望边界。欲望的增长得很快。程序员理解力增长有限。因此，程序最后往往是难以维护的。 功能都可以分解为：数据，数据的呈现，数据的操作。 用户期望的是，快速的达成目标。这目标总是和数据相关的，一般是 查看数据 或 操作数据。 操作数据相对比较容易，就是改数据值。对应的无非是一个表单，或者鼠标键盘之类输入设备的输入(玩游戏场景)。 查看数据做的体验好，往往很复杂。体验好指的是：用户能不费力的看到期望的数据。复杂原因: 获取数据的复杂度。期望的数据可能来自不同实体，会调用若干次接口。 展示方式的复杂度。为了突出数据的某些方面，要设计合适的展示方式。 减少响应时间(性能)的复杂度。需要做接口缓存，预渲染，渲染的缓存，滚动加载，虚拟列表等。 降低复杂度 减少程序的功能。 数据层面的复杂度: 数据数量多，对象属性多，对象的层次深。 逻辑的复杂度: 涉及的数据多，圈复杂度高，调用链长。 修改的复杂度：被多处复用，改动时， 不同目标之间的平衡： 代码的可维护性， 性能。 深度深。 更有深度的思考前端。数据视角看。 呈现列表数据: 表格，看板， 筛选 分组，聚类 高亮/突出展示内容 维度：时间维度，从属关系，并列关系 一些高频的，有深度的内容(会遇到什么问题，目前是怎么解决的): 底层 高频的数据操作方法。边界及难的地方。 应用层 框架 API 。 React 的 hooks 。 状态管理 接口调用 SSR .</description>
-    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
+    <title>《身体的问题，肠知道》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/gut-renovation</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/gut-renovation</guid>
+    <description></description>
+    <pubDate>Mon, 09 Dec 2024 02:36:15 GMT</pubDate>
   </item><item>
-    <title>通过 AI 来自动化提升代码质量</title>
-    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/impove-code-quality-by-ai</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/impove-code-quality-by-ai</guid>
-    <description>AI 的优势： 思路广。能找到一些有创意的解决问题的新方案。很像人的无意思。 运算速度快。 缺点: 生成的内容的质量不稳定。 实现思路 在 AI 的辅助下：罗列高代码质量的原则和原则的高优先级。 基于上面的原则，生成: Prompt。 =&gt; 提升生成质量。 示例。 将示例 Embedding 。 =&gt; 提升生成质量。 应用在需要重构的代码上。 .</description>
-    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
+    <title>《超越百岁》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/outlive</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/outlive</guid>
+    <description> 我们的目标是在没有疾病的情况下活得更久。也就是，活得更久和活得更好。 基础信息 作者: 彼得 · 阿提亚（Peter Attia） / 比尔 · 吉福德（Bill Gifford） 副标题: 长寿的科学与艺术 原作名: Outlive:The Science and Art of Longevity 著名的长寿专家彼得·阿提亚博士也是一名马拉松游泳运动员，他曾在三十多岁的时候横渡卡特琳娜海峡。但他的健康状况居然也出现了异常，有早逝于心脏病的风险。这一发现促使他开始探索长寿之道：我们如何以及为何会死亡，我们如何才能延缓甚至预防那些导致大多数人死亡的慢性病，例如心脏病、癌症、阿尔茨海默病与2型糖尿病。 影响现代人寿命的主因 在1900年，人类的预期寿命为50岁以下，大多数人都可能因“急性”原因死去，如事故、受伤和各种传染病。但从那时起，慢性死亡便逐渐取代了急性死亡。大多数读这本书的人预计都会在七八十岁离世，而且几乎都是死于“慢性”原因。 现代人大多死于“慢性病”。主要包含 4 种慢性疾病： 心脏病。 癌症。 神经退行性疾病。如阿尔茨海默病。 2型糖尿病及相关代谢功能障碍 慢性病影响生活质量，也减少寿命。 解决方案 尽早采取行动，预防慢性病的发生。而非被动应对。对应的方案在 5 大领域： 运动 营养 睡眠 情绪健康 外源性分子(exogenous molecules)。 即药物、激素或补充剂。 在医学3.</description>
+    <pubDate>Mon, 09 Dec 2024 02:36:15 GMT</pubDate>
   </item><item>
-    <title>生命的本质</title>
-    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/readme</guid>
-    <description>生命能长期存在的本质是 生存和繁殖。 生存 生存是前提。不生存，也没有机会去繁殖。 生存的本质就是保持一种秩序。这种秩序也就是熵。生命的熵高于周围的环境，因此，根据第二热力学定律，要维持生命，需要从外界吸收能量，比如依靠饮食，晒太阳。通过亿万年的演化，生命发展出一系列机制生存。 生存的过程中，会做一个个决策，决策的本质都是趋利避害。 生存能力 生存能力，本质是适应环境变化的能力。 繁殖 没有繁殖就没有后代。再强的生命总有消亡的一天。.</description>
-    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
+    <title>资源</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/readme</guid>
+    <description>综合 《超越百岁》 程序员延寿指南 代谢 《控糖革命》 《身体的问题，肠知道》 《疯狂的尿酸》 大脑 《谷物大脑》 《排毒吧，大脑》 .</description>
+    <pubDate>Mon, 09 Dec 2024 02:36:15 GMT</pubDate>
   </item><item>
-    <title>趋利避害 - 生存最本质的策略</title>
-    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/survival-strategy-seeking-benefits-and-avoiding-harm</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/survival-strategy-seeking-benefits-and-avoiding-harm</guid>
-    <description>Draft 版。 生存最本质的策略就是趋利避害。要生存的好，就是多做利的，少做害的。有的利，其实是害。有的害，其实是利。 利 利就是自认为的好处。有利于生存的就是利。利是： 拉回生命平衡的秩序。例如：恢复体力，健康 推向对环境适应性更强的秩序。身体，例如：心灵变得健壮这种。 具体的比如： 肚子饿时吃东西。 平常吃太多时控制饮食。 害 害就是利的反面。也就是迫害生命平衡秩序的。 如何判断利和害 人是从过去的经验来判断利害的。 博弈。 大棒是害。机会是利，风险是害。 衡量：利 投入产出比。 贪是趋利，痴是弊害。人生的苦也是趋利避害。 多巴胺的分泌是趋利，保持专注。催产素的分泌也是趋利。痛是弊害。 趋利避害是一种生存策略。 趋利避害的例子 好逸恶劳。奖励和惩罚。胡萝卜加大棒。 我认为利和害 人生意义的基础，人的寿命是有限的 人的目标.</description>
-    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
+    <title>《重塑超级大脑》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/reshaping-the-super-brain</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/reshaping-the-super-brain</guid>
+    <description>大脑构成 大脑模型：脑干，边缘系统(感性脑)，大脑皮层(理性脑)。脑干负责生存，边缘系统负责感性思考，大脑皮层负责理性思考。 可以用大脑手模型来呈现大脑模型。一只手，掌心握拳。大拇指下端：对应脑干。大拇指对应理性脑。其他弯曲的手指对应大脑皮层。 大脑的特点： 神经可塑性 “坐在桌子对面跟我开玩笑的女人天生只有半个大脑，当她在母亲肚子里时，一个没有人知道原因的大灾难发生了……米歇尔的左脑根本没有发育出来，医生怀疑是她左边的大动脉被阻塞了，无法提供血液到左半球，使她的左脑无法发育……然而米歇尔却可以只用半个脑而生活得很好，我想不出还有哪一个例子比她的更适合来说明大脑可塑性或验证大脑的神经可塑理论。”（Doidge，2007） 这是美国医生诺曼·道伊奇（Norman Doidge）在他的这本神经可塑性领域的经典科普书《重塑大脑 重塑人生》（The Brain That Changes Itself）中的一段话。在这本书中除了米歇尔的故事，他还讲了很多让人觉得不可思议的医学案例，描绘了大脑如何拥有惊人的、可重塑的力量。 迈克尔·梅策尼希（Michael Merzenich）了。他把神经可塑性定义为“大脑终生改变其解剖结构、神经化学状态，以及功能表现的一种能力”。 翻译成大白话，就是你的大脑终生都能改变，长出新细胞，建立新回路，提升脑功能。大脑因为你的所思所行，时时刻刻都在改变它的结构、功能、神经回路和化学反应。 对大脑好的食物 大脑怕氧化， 炎症(高糖存进炎症)。 抗氧化物质： 类黄酮。含有大量类黄酮的食物：梅类(特别是蓝莓)，黑巧克力。 姜黄素。含有姜黄素的食物：咖喱。 白藜芦醇。含有白藜芦醇的食物：红葡萄。 茶氨酸。含有茶氨酸的食物：绿茶和其他茶类。 维生素 E。含有维生素 E的食物：杏仁，葵花籽，牛油果。 提升大脑可塑性的： omega-3 不饱和脂肪酸。食物：深海鱼类，亚麻籽和奇亚籽。 少吃(降低炎症): 迟到七分饱。 视觉化训练法 让两组人进行四个星期的手指肌肉力量训练。一组人呢，天天真的就是弯手指卖力练。另外一组人，手指不能动，但是要在大脑里想象着弯曲手指练习。研究结束的时候，发现第一组人的手指肌肉力量增加了30%，而另外一组从始至终根本没动过手指头的人，竟然通过想象也把手指的肌肉力量增加了22%。 通过该方法来： 增加肌肉。 减肥。 想象自己吃了，来减少热量摄入。想象自己是一个棒棒糖，被在舔。 对应方法轮的书：《心想事成：创意视觉化》.</description>
+    <pubDate>Mon, 09 Dec 2024 02:36:15 GMT</pubDate>
   </item><item>
-    <title>世界观</title>
-    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/world-view</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/world-view</guid>
-    <description> 经验是知识的唯一来源。 - 经验主义 相对的，有的哲学学派认为有的知识是先验的。 实证主义 [逻辑实证主义](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E5%AE%9E%E8%AF%81%E 4%B8%BB%E4%B9%89) 维也纳学派 形而上学 对世界的理解 世界是由一些定律支配的。 定律是人类的定义。定律是一些因果。有些定律人类能掌握，有些不能掌握。 对人类的理解 对自己的理解 没有压力就没有成长。 食物不需要咬，导致对颌骨的刺激不够，导致空间小：阻生（横长的智齿），牙齿不齐。 骨质疏松，年轻时运动少，对骨头的刺激不够，骨头不够粗壮，同时年龄的增长。 智力也是如此。老年痴呆啥的。 易过敏：环境太过干净。探讨过度清洁为什么以及如何导致了牛奶或花粉这些原本无害的物质触发潜在的致命过度反应，让我们先简单回顾一下你的免疫系统是如何保护你的。由于与微生物接触太少导致了失衡，从而矛盾性地导致对原本无害的外来物质产生过度反应。 -《人体的故事 - 进化，健康和疾病》 SB 定律 SB定律1，从没觉得自己傻逼过的，一定是不可救药的大傻逼。扪心自问，谁还没有傻逼的时候呢，再过些年看现在，会不会继续这样的感慨呢 SB定律2，觉得身边所有人都是傻逼的，往往自己才是最傻逼的那个。心理没点逼数，也是一种人生常态。 SB定律3，收割傻逼的终将被傻逼们封神，试图唤醒傻逼的是傻逼眼中的傻逼。尊重他人命运，放弃助人情节。 SB定律4，试图证明傻逼是傻逼的，自己也是傻逼。 在傻逼身上浪费任何时间都是傻逼的行为。 SB定律5，永远不要指望事实会教育傻逼，因为傻逼对事实有不一样的解读。 SB定律6，傻逼们会以为，他们所熟悉的规则是这个世界上唯一的规则。 CaoZ .</description>
-    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
+    <title>《疯狂的尿酸》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/the-surprising-new-science-of-uric-cid</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/resource/the-surprising-new-science-of-uric-cid</guid>
+    <description>基础信息 作者：戴维·珀尔马特。医学博士，经过官方资格认证的美国执业医师，美国营养学会的成员。健康科普专家。还写过《谷物大脑》等书籍。 副标题：不止是痛风。 原作名：The Surprising New Science of Uric Acid—the Key to Losing Weight, Controlling Blood Sugar, and Achieving Extraordinary Health 主要内容 高尿酸对人体健康有很多负面影响 高尿酸的原因 如何降低尿酸 高尿酸对人体健康有很多负面影响 1 高尿酸和高血压 首先，高尿酸水平会引发一系列生化反应。这些反应被统称为氧化应激，从而导致血管收缩。在这种情况下，心脏必须更加努力以促进血液循环，血压因此而升高。 其次，体内尿酸持续过剩可能会导致肾脏出现持久性损伤和炎症，这样肾脏就无法正常工作并排出盐分。这些盐分滞留进一步导致血压升高，因为血液中的盐的增加，会将水吸入血管，这会增加血管中的血液总量，从而导致血压的增加。 2 高尿酸打开储存脂肪的开关 高尿酸打开储存脂肪的开关。该开关开时，果糖会转化为脂肪。 3 高尿酸提升全因死亡风险 2020年，日本的研究人员开展了一项研究，他们花了7年时间跟踪研究了50多万名年龄为40～74岁的人，观察了他们血液中尿酸含量与心血管病死亡以及全因死亡之间的关系。他们发现，​“男性血清尿酸浓度≥7mg/dL(416.</description>
+    <pubDate>Mon, 09 Dec 2024 02:36:15 GMT</pubDate>
   </item><item>
-    <title>观点</title>
-    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/readme</guid>
-    <description> 生命的本质 世界观 .</description>
-    <pubDate>Fri, 06 Dec 2024 02:38:14 GMT</pubDate>
+    <title>情绪</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/readme</guid>
+    <description>愉快与不愉快 如果说感到不愉快是被蛇咬的话，那么感到愉快就是一把抓住了这条蛇的尾巴。或早或晚，这条蛇总会咬你的。 泰国冥想大师阿姜·查 .</description>
+    <pubDate>Mon, 09 Dec 2024 02:36:15 GMT</pubDate>
   </item>
     </channel>
   </rss>
