@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Wed, 11 Dec 2024 05:02:30 GMT</pubDate>
+    <pubDate>Tue, 17 Dec 2024 02:39:43 GMT</pubDate>
   </item><item>
-    <title>食物转能量</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/food-to-energy</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/food-to-energy</guid>
-    <description>口腔 —&gt; 食道 → 胃: 消毒和初步消化 → 小肠(胆，肝和胰腺): 主要消化和吸收 营养物质进入血液。→ 肝脏 食物进入小肠，胆囊收缩，将胆汁释放到十二指肠。胰液一起在小肠中与食物混合。大部分胆汁在小肠末端被重新吸收，返回肝脏再利用。 其他物质进入大肠 → 吸收水分和电解质 → 排出体外。 因此便秘的粑粑很干。 胆、肝脏和胰腺的协同 胆汁的产生和储存： 肝脏持续产生胆汁 胆汁通过肝管流入胆囊 胆囊储存并浓缩胆汁 消化信号的触发： 当食物（尤其是脂肪）进入小肠时，会刺激分泌缩胆素-胰酶分泌素（CCK） CCK是一种激素，同时作用于胆囊和胰腺 胰腺的反应： CCK同时刺激胰腺分泌胰液 胰液含有多种消化酶，通过胰管进入十二指肠 在十二指肠的协同作用： 胆汁和胰液在十二指肠中与食物混合 胆汁乳化脂肪，为胰脂肪酶的作用创造条件 胰液中的碳酸氢盐中和胃酸，为消化酶创造适宜的pH环境 脂肪的消化和吸收： 胆汁乳化脂肪，形成微小脂肪滴 胰脂肪酶分解这些脂肪滴 胆汁还协助脂肪和脂溶性维生素的吸收 肝脏的解毒作用： 肝脏过滤来自肠道的血液，处理可能有害的物质 一些废物通过胆汁排出体外 胆汁的循环利用： 大部分胆汁在回肠末端被重新吸收 通过门静脉系统返回肝脏，再次利用 反馈调节： 这三个器官的活动受到多种激素和神经信号的精密调控 例如，当足够的胆汁和胰液释放后，CCK的分泌会减少 敲胆经 敲胆经促进胆汁分泌来促进消化。是中医的说法。被未经过临场实验来证实。.</description>
-    <pubDate>Wed, 11 Dec 2024 05:02:15 GMT</pubDate>
+    <title>情绪</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/readme</guid>
+    <description>愉快与不愉快 如果说感到不愉快是被蛇咬的话，那么感到愉快就是一把抓住了这条蛇的尾巴。或早或晚，这条蛇总会咬你的。 泰国冥想大师阿姜·查 .</description>
+    <pubDate>Tue, 17 Dec 2024 02:39:32 GMT</pubDate>
   </item><item>
-    <title>代谢</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/metabolism/readme</guid>
-    <description> 代谢，亦称新陈代谢，是生物体维持生命的化学反应总称。这些反应使得生物体能够生长、繁殖、保持它们的结构以及对环境作出反应。代谢通常被分为两类：分解代谢可以对大的分子进行分解以获得能量（如细胞呼吸）；合成代谢则可以利用能量来合成细胞中的各个组成分子，如蛋白质和核酸等。代谢是生物体不断进行物质和能量的交换过程，一旦物质和能量交换停止，则生物体的生命就会结束。 维基百科 当代谢出现问题后，会导致一系列连锁反应：糖尿病，尿酸高，慢性炎症，脂肪肝，动脉粥样硬化，阿兹海默等。 代谢问题指标 有下面中的三个或三个以上的标准，那么你就患有代谢综合征： 高血压(&gt;130/85) 高甘油三酯(&gt;150mg/dL) 低高密度脂蛋白胆固醇（男性&lt;40mg/dL，女性&lt;50mg/dL） 向心性肥胖(central adiposity)（男性腰围&gt;40英寸，女性腰围&gt;35英寸） 空腹血糖升高(&gt;110mg/dL) .</description>
-    <pubDate>Wed, 11 Dec 2024 05:02:15 GMT</pubDate>
+    <title>放松</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/relax</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/relax</guid>
+    <description>歌单 《回到那个夏天》 久石让 《往事随风》 齐秦 .</description>
+    <pubDate>Tue, 17 Dec 2024 02:39:32 GMT</pubDate>
   </item><item>
-    <title>让人上瘾的多巴胺</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/addictive-dopamine</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/addictive-dopamine</guid>
-    <description> 多巴胺是一种渴望。 令人上瘾的会激活奖赏系统。奖赏给我们带来兴奋和愉悦。奖赏机制能促进维持生命的活动，如寻找食物和水、为繁衍后代而发生性行为、照料新生婴儿等。 多巴胺是奖赏系统的一个关键组成部分。多巴胺的升高，会产生强烈的渴求感。当你感受到一个触发奖赏回路的刺激时，多巴胺得到释放，引起一连串的化学信号传递，然后大脑告诉身体要继续获得奖赏，并记住再做一次。 具体来说：杏仁核将某种刺激识别为需要奖赏的体验时，海马体就会将该体验存储到记忆中，以便这种体验能够重复获得。同时，随着多巴胺水平的上升，伏隔核就会活跃起来，并促使你继续做你正在做的事情。举个例子，比如你吃了一大勺冰激凌，好吃极了。你的杏仁核注意到吃冰激凌让你感觉很快乐，而你的海马记录了你为获得冰激凌所做的事情，这样一来，你就会记住如何再次获得冰激凌，而你的伏隔核会促使你再吃一口。同时，你的前额叶皮质会帮助你专注于吃完冰激凌。这样，奖赏回路会一直运转下去。 甜味，赌博，刷抖音等极大的激活了大脑中多巴胺的奖赏回路。 多巴胺与专注 快乐情绪持续时间的延长，能够增大神经传递介质多巴胺（多巴胺是大脑分泌的一种神经传导物质，用来帮助神经细胞传递信号。多巴胺主要负责大脑的情欲、感觉、兴奋以及开心程度，可以影响一个人的情绪）的浓度，而多巴胺则可以有效帮助你保持注意力的集中。.</description>
-    <pubDate>Wed, 11 Dec 2024 05:02:15 GMT</pubDate>
+    <title>庐山 - 诺那塔院</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/zen-meditation/nuoanta</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/zen-meditation/nuoanta</guid>
+    <description>打坐，干活(出坡)，诵经。 报名：诺那塔寺公众号报名。 庐山禅修之行（下）诺那塔院禅修小结 .</description>
+    <pubDate>Tue, 17 Dec 2024 02:39:32 GMT</pubDate>
   </item><item>
-    <title>杏仁核</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/amygdala</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/amygdala</guid>
-    <description>杏仁核又名杏仁体，有产生情绪和调节内脏活动的功能。 杏仁核位于侧脑室下角前端的上方，海马体旁回沟的外侧，顶部与尾状核的末端相连。它是边缘系统的一部分。 产生情绪 杏仁核判断所看见的物体在情绪上的重要性：猎物、天敌、还是配偶、无关紧要。如果杏仁核变得兴奋，那么说明眼前的东西很重要，神经信号就会向下发送到自主神经系统，心跳开始加速，手掌开始出汗（导致皮肤电阻改变），肌肉开始收缩。如果杏仁核判断看到的是无关紧要的东西，身体就没有上述反应。 杏仁核对恐惧情绪至关重要。杏仁核受损的人，不会感到恐惧。 杏仁核将某种刺激识别为危险时：它能让动物逃跑或者战斗。同时，它能产生情绪激励海马体，从而增强记忆。 杏仁核上也有多巴胺的受体。杏仁核将某种刺激识别为需要奖赏的体验时，海马体就会将该体验存储到记忆中，以便这种体验能够重复获得。 调节内脏活动 见 压力对身体的影响。 杏仁核与精神疾病 焦虑症，PTSD 对应的是杏仁核的过度激活。 前额叶和杏仁核是互相抑制的作用。前额叶可以控制杏仁核所发生的情绪反应。如果前额叶受损，导致对杏仁核的抑制能力下降，导致出现容易兴奋，狂躁。通过 正念冥想 可以加强对杏仁核的控制。.</description>
-    <pubDate>Wed, 11 Dec 2024 05:02:15 GMT</pubDate>
+    <title>禅修</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/zen-meditation/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/mood/zen-meditation/readme</guid>
+    <description> 庐山 - 诺那塔院 .</description>
+    <pubDate>Tue, 17 Dec 2024 02:39:32 GMT</pubDate>
   </item><item>
-    <title>内啡肽</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/endorphins</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/endorphins</guid>
-    <description>内啡肽 又叫脑内啡、脑内吗啡，是可于动物体内自行生成的类阿片生物化学合成物。 它可以和吗啡受体结合，产生和吗啡、鸦片一样的止痛效果和快感。 分泌内啡肽的条件 长时间、连续、中等至高强度的运动、深呼吸是分泌内啡肽的条件。长时间运动把肌肉内的糖原用尽，脑内啡便会分泌。 吃辣也与此类似，辣椒给舌头制造的痛感刺激人体分泌内啡肽。.</description>
-    <pubDate>Wed, 11 Dec 2024 05:02:15 GMT</pubDate>
+    <title>营养学</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/readme</guid>
+    <description>本质 吃什么。 吃多少。 什么时候吃。 情况评估 1.你是营养不良还是营养过剩？ 2.你是肌肉不足还是肌肉充足？ 3.你的新陈代谢是否健康？ 《超越百岁》 评估营养情况 体重指数(BMI) 计算方法： 体重(kg) / 身高(m)的平方。比如，一个人 70kg，178cm，则 BMI 为 70 / (1.</description>
+    <pubDate>Tue, 17 Dec 2024 02:39:32 GMT</pubDate>
   </item><item>
-    <title>有压力时，身体会发生些了什么</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/feel-stressed-what-happened</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/feel-stressed-what-happened</guid>
-    <description> 压力从促进能量补给，也能拖垮大脑 -《运动改造大脑》 适当的压力能够激活我们的大脑，使我们增强注意力，提升记忆力。 压力过大不仅会影响身体健康，还可能导致抑郁症等精神疾病。 - 《人生烦恼咨询室》 压力对身体的影响 短期压力 战，逃，僵。 遇到短期压力(注1)时，交感神经系统就会启动。身体会释放应激激素皮质醇，肾上腺素和去甲肾上腺素。这些激素使心率和血压上升，典型的战斗或逃跑反应就会出现。同时，也会抑制我们的食欲。 此时，主导大脑的是控制情绪的杏仁体，用此来做出一些快速的情绪反应：战或逃。理智的前额叶皮质被压抑。 要让身体切换回放松状态，深呼吸是一种很好的方式。在放松状态时，副交感神经会启动。前额叶皮质拿回控制权。 注1: 即感受到应激时。应激或应激反应是指机体在受到各种强烈因素(应激原)刺激时所出现的非特异性全身反应。恐惧，紧张等也会触发应激。 长期压力 长期且持续的压力会促进皮质醇分泌，这会让我们在很多方面都变得兴奋，包括我们的胃口（很可能是通过促进食欲刺激素分泌造成的）。我们会有强烈的进食欲望，也就是压力性进食。 如何排解压力 1 运动 运动可以阻断大脑压力反馈回路。 -《运动改造大脑》 2 转变对待压力的态度 思考该压力的来源，有的压力是可以避免的。比如，和别人比较导致的压力，人外有人，天外有天。把和别人比较改成和自己的过去较就没有压力。 3 倾诉 倾诉与交流的行为，能够极大地减轻不安和压力。.</description>
-    <pubDate>Wed, 11 Dec 2024 05:02:15 GMT</pubDate>
+    <title>花青素</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/anthocyanidin</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/anthocyanidin</guid>
+    <description>花青素是一种水溶性色素，是构成花瓣和果实的主要色素之一。 对人的益处 花青素为人体带来多种益处。 清除自由基。花青素是一种强有力的抗氧化剂，它能够保护人体中的自由基。自由基是造成老化及诸多疾病的重要原因之一 增进视力。医学临床报告显示花青素可促进视网膜细胞中视紫质的再生成，可预防重度近视及视网膜剥离，并可增进视力。 富含花青素的食物 蓝莓 桑葚 葡萄 .</description>
+    <pubDate>Tue, 17 Dec 2024 02:39:32 GMT</pubDate>
   </item><item>
-    <title>控制情绪的前额叶皮质</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/prefrontal-cortex</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/prefrontal-cortex</guid>
-    <description> 我们拥有异常复杂且特别大的前额叶皮质，因此，我们有能力同情、爱进行有意识的、深思熟虑的创造。 《排毒吧，大脑》 前额叶皮质（prefrontal cortex, PFC）位于大脑额叶的前部。前额叶皮质涉及与计划相关的高层次认知活动、人格表现、作出决定的过程。 控制情绪 边缘系统”负责产生情绪，而“前额叶”负责控制情绪。不通过前额叶的情绪走的是“快”通道，是本能的战斗或逃跑，往往会失控、冲动、负面情绪较多，容易伤人。通过前额叶调节控制的情绪，走的是“慢”通道，前额叶皮层可以抑制冲动的爆发，有理性。事件发生后，等待6秒，前额叶就可接管。从与情绪博弈的角度来看，当情绪（边缘系统）战胜理智与自控（前额叶），很可能拖延行为就产生了。反之，则实现了“自律”。 前额叶皮层属于控制和注意中心，“控制”是主要职责，把你的注意力转移到某个目标上，并进行详细、理性的思考。边缘系统位于脑干的顶部，包括海马、下丘脑、杏仁核等部分，负责情绪和记忆的产生。人类的快乐、悲伤、愤怒、惊讶、恐惧和厌恶等基本情绪，均来自于边缘系统。 发育时间 “前额叶”的成熟时间相对较晚，一般要到25岁以后，才能完全成熟。因此，在儿童时期，由于“前额叶”发育不成熟，在“边缘系统”与“前额叶”的博弈中，负责理智、自控的“前额叶”常常失败。尽管，“控制”对于儿童来讲十分不易，但是，一旦他们体会过“控制”后的快乐，这种场景同样会存储在“边缘系统”中，为下一次情绪与理智的博弈提供助力。 前额叶的发育依赖于亲身经历与体验，他人的说教、经验、讲道理对前额叶的发育无益。人所处的环境越复杂、所在的社群越庞大、经历的事情越多，越能促进前额叶的发育成熟。 前额叶的故事---控制为核心，与情绪博弈 .</description>
-    <pubDate>Wed, 11 Dec 2024 05:02:15 GMT</pubDate>
+    <title>《空腹的神奇治愈力》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/eat-less</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/eat-less</guid>
+    <description>少吃。消化食物需要很多能量。消化一顿饭的所需能量，相当于跑一场马拉松。所以，生病以及很累的时候应该少吃。平时也应该少吃(轻断食)：不吃早饭，不吃晚饭，以及只吃一顿。 其他推荐： 积极的状态： 笑，感恩。 一些运动的姿势。 基础信息 作者: 船濑俊介。日本的知名的医疗，健康评论家。他65岁身体状态像30岁。 出版时间: 主要论据： 《马克加邦报告》 《中国健康调查报告》 书摘 “有意识地断食，意味着生物本能的觉醒。” 厄普顿·辛克莱说： 消费主义希望人多吃。 每天空腹才愉悦，满肚子食物就沮丧。 少吃恢复的更快 通过断食，能够把消化食物的能量转移并集中到免疫、排毒功能中去。 另外，饥饿感会打开生命力开关。饥饿对身体来说是一种危机状态。因此，警报一响，身体里的生命保障系统便一齐运作。于是，就打开了免疫力、自然治愈力、排毒能力的开关，白细胞等免疫细胞也不断增加。 其他 位列不良生活习惯首位的是饱食，第二是高热量饮食。 中老年人群中急剧变老的人，有的是因为每日都过度饮食。 最先发表实验数据的是前面介绍过的美国康奈尔大学的营养学家，克莱夫·M.</description>
+    <pubDate>Tue, 17 Dec 2024 02:39:32 GMT</pubDate>
   </item><item>
-    <title>调节情绪的血清素</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/serotonin-for-mood-regulation</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/serotonin-for-mood-regulation</guid>
-    <description>血清素(5-羟色胺) 有调节情绪的作用，许多抗抑郁药被认为在一定程度上通过提高大脑中的血清素水平来发挥作用。 血清素在人体中有许多作用： 可能对其他大脑精神疾病有影响，包括焦虑症、强迫症(OCD)、创伤后应激障碍(PTSD)、恐惧症，甚至癫痫。 它关系到食欲和消化、骨骼健康、性、睡眠，甚至迷幻体验。 血清素对健康的认知功能极为重要。 血清素是哪里产生的 肠道细菌帮助我们产生血清素，人体中大部分血清素——差不多90%来自胃壁和肠壁中。 血清素的产生 血清素是由色氨酸制造的。色氨酸是一种人体必不可少的氨基酸。但人体不能自行制造它。这意味着我们体内的所有色氨酸必须来自食物。 高色氨酸饮食已被证明可以改善情绪，并减少急性应激时皮质醇的释放。 高色氨酸的食物包括：芝麻、火鸡、葵花籽、菠菜、亚麻籽、鸡肉、开心果、金枪鱼、腰果、螃蟹、马苏里拉奶酪、燕麦、羊肉、扁豆、牛肉、蛋类。.</description>
-    <pubDate>Wed, 11 Dec 2024 05:02:15 GMT</pubDate>
+    <title>《你是你吃出来的2》</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/you-are-what-you-eat-2</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/nutrition/resource/you-are-what-you-eat-2</guid>
+    <description>基本信息 作者：夏萌。 曾就职于北京天坛医院神经内科、北京安贞医院神经内科和营养科，曾任北京安贞医院营养科主任。 有丰富的临床经验。 慢性病康复的饮食密码 主要内容 介绍了一些慢性病的成因，影响，以及如何通过改变饮食和生活方式来治疗。 高血压 血压四怕：盐多、肉少、宅、情绪差。 建议： 适量的盐。少吃面条，少喝汤，别吃咸菜 优质蛋白 戒烟戒酒 多运动 少熬夜 保持心情愉快。 基本概念 收缩压： 心脏收缩时，把血液推入大血管时，会对动脉壁产生侧壁压力叫做收缩压。也叫上压。 舒张压： 心脏舒张时，大血管中的血液回流，会再次对血管壁产生压力叫做舒张压，也叫下压。 脉压：收缩压和舒张压的差值。 什么算高血压 收缩压 和 舒张压 血压类型收缩压舒张压一级高血压140 - 16090 - 100二级高血压160 - 180100 - 110三级高血压&gt; 180&gt; 110 脉压 中国正常人的脉压标准一般是30～40毫米汞柱，欧洲的标准是不超过65毫米汞柱，美国的标准是不超过70毫米汞柱——脉压65～70毫米汞柱是极限。 影响血压值的因素 最常见的影响血压值的有五大因素： 血容量 血管壁弹性 周围血管阻力 神经内分泌调节系统 心脏搏动。 血容量 血容量增加，血压上升。 人吃得过咸，会导致血容量增加。人吃得过咸时，血中的钠含量升高，就会激活人体的饥渴中枢，人感觉口渴就会喝水，目的是让血液中的钠浓度恢复正常。血容量随之增加。血容量不可能无限增加，血容量增加的同时，肾脏也会努力工作——排钠，排水，这样又加重了肾脏的负担。 按照《中国居民膳食指南（2016）》中的规定，成年人每天摄入盐的总量不要超过6克。 血管壁弹性 摄入优质蛋白有利于提升血管壁弹性。此外，维生素C、钙、镁、钾的摄入量对血管壁弹性也有重要影响。 血管弹性越好，侧压力被血管壁吸收得越多，测出来的收缩压就会偏低。血管壁弹性差的体现是脉压大：脉压大于40毫米汞柱。 血管壁的弹性与蛋白质密切相关。血管壁的弹性主要取决于血管壁中层弹性组织。大动脉的中层有40～70层弹性膜。弹性膜呈波浪状，主要成分是弹性蛋白。不仅如此，弹性膜之间还有平滑肌和一些胶原蛋白。 周围血管阻力 周围血管阻力与血管半径、血液黏度和血管长度有关。影响血管半径的因素很多，比如，神经内分泌系统是否稳定，动脉是否有粥样硬化，血液黏稠度问题，周围组织缺氧程度，等等。 有一种情况非常常见——不爱运动。不爱运动会造成组织细胞对氧的需求量减少，毛细血管前小动脉关闭，导致周围血管阻力加大。 周围血管阻力的体现是：高压正常，低压高。 情绪 当情绪紧张时，肾上腺素分泌会增多，交感神经会兴奋，这样会提高心脏的收缩力，并使外周血管收缩，导致血压高。 高血压的危害 严重后，容易引起并发症：冠心病、脑卒中、肾功能衰竭等。 高血压的处理 一级高血压暂时不用吃降压药，开始严格地管理自己，同时监测自己的血压变化。 二级和三级高血压需要马上吃药，让血压降下来，同时在生活方式上努力改变，做到标本兼治。 降压药 降压药有好几类，有扩张周围血管的钙离子阻断剂、有利尿剂、有抑制肾素-血管紧张素系统的，还有抑制心肌收缩及周围血管平滑肌收缩的。现在比较讲究的用药是几类药物各取一点，增强药物的协同性，减少药物的不良反应。.</description>
+    <pubDate>Tue, 17 Dec 2024 02:39:32 GMT</pubDate>
   </item><item>
-    <title>三脑模型</title>
-    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/triune-brain</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/base/mood/triune-brain</guid>
-    <description>三重脑假说(Triune brain)是一个由美国医生、神经科学家保罗·D·麦克莱恩所提出，用以描述脊椎动物前脑与行为的演化过程的模型。 本能脑(爬虫脑复合区) 本能脑负责物种的典型本能行为。例如，调节心跳、呼吸、血压、血液循环、消化以及战斗或逃跑反应。 现代爬行动物和鸟类也具有这部分脑。人类的这部分脑位于脑干中。 它对我们的生存至关重要，不需要我们思考或感知就能运作。 情绪脑(古哺乳动物脑) 情绪脑产生觅食、生殖与育幼行为的动机与情绪。能产生饥饿、疼痛、困倦、愤怒、恐惧与快乐等。情绪脑的反应也是自动的，而且经常是本能反应。 情绪脑由中膈、杏仁核、下丘脑与海马回组成。这部分也被称为边缘系统。 杏仁核是威胁—响应和威胁—解释系统的控制中心。当动物的杏仁核被故意破坏时，这些动物就丧失了攻击行为，同时也丧失了对恐惧做出正常反应的能力，它们变得无所畏惧。杏仁核功能异常可能与抑郁症、创伤后应激障碍、恐惧症、焦虑症和冲动行为等有关。 海马体是主要的记忆中枢：这些大脑结构在情绪事件发生后被激活，并在记忆巩固的过程中相互“交谈”​。由海马体决定短期记忆会被变成长期记忆(存在大脑中)。 情绪脑与多巴胺和内啡肽的释放有关。它影响着习惯的养成和成瘾。 新皮质(新哺乳动物脑) 新皮质的这部分赋予了我们高度的推理能力——进行分析性和逻辑性思考、解决问题、规划未来以及抽象思考的能力。这是大脑中进化程度最高的部分，它调节并努力控制更古老、更原始大脑的冲动。 新皮质组成，这种结构只在高等哺乳类动物，特别是人类身上出现。 前额叶皮质是新皮质的关键组成部分，其复杂性是人类所独有的。它约占大脑总体积的10%，而且正如我们前面提到的，它约占据整个新皮质的1/3。就像首席执行官指挥着众多员工进行业务操作一样，在他的监督下，前额叶皮质努力为传入的信息寻找最佳的可能反应。它使我们能够深思熟虑，而不是立即对情况做出反应，与易做出反应的杏仁核的功能正好相反。 杏仁核和前额叶皮质一直处于交流之中​。这两个区域之间的连接影响着我们的行为以及我们调节冲动和情绪的能力。当交流活动过于失衡，杏仁核的原始反应不受控制地占据主导地位时，麻烦就会出现。例如，科学家们发现焦虑跟杏仁核和前额叶皮质之间的连接微弱有关。没有前额叶皮质的监督，就像房间里没有大人，情绪不成熟的孩子会恣意妄为，无视规则、纪律和边界。.</description>
-    <pubDate>Wed, 11 Dec 2024 05:02:15 GMT</pubDate>
+    <title>如何延长健康寿命？</title>
+    <link>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/how-to-have-a-longer-healthy-life/readme</guid>
+    <description> 人体的许多特征适应于进化所经历的环境，但不适应于我们创造的现代环境，这种观点被称为失配假说，是新兴的进化医学领域的核心观点，而进化医学是将进化生物学应用于健康和疾病的学科。 《人体的故事 - 进化，健康和疾病》 健康的本质 健康的本质是保持生命的墒。 影响健康寿命的主要因素 影响健康寿命的主要因素是慢性病。主要的慢性病有： 代谢相关的慢性病： 2 型糖尿病，高血压，高血脂，脂肪肝，痛风等。 心血管疾病。包括动脉粥样硬化，心脏病，中风等。 癌症。 神经退行性疾病。如阿尔茨海默病，老年痴呆。 产生慢性病的主要原因是： 吃的多。 运动少。 情绪差。 吃的多，运动少，时间久了，容易得 2 型糖尿病，高血压等代谢相关的慢性病。同时，这些慢性病会使身体处于炎症的状态中。长期的炎症： 让身体不舒服，影响情绪 加重慢性病。 减少大脑营养的供给，导致阿尔茨海默病，老年痴呆等神经退行性疾病。 加大得癌症的概率。 具体内容 内容作用身体是如何工作的顺应身体才能健康饮食身体的能量来源。抵抗熵增。运动增强身体的活力。休息有利于身体恢复。情绪对影响到行为，对身体健康有只要意义治疗辅助身体恢复健康。 资源 用18本书搞定健康，超全超实用！ .</description>
+    <pubDate>Tue, 17 Dec 2024 02:39:32 GMT</pubDate>
   </item>
     </channel>
   </rss>
