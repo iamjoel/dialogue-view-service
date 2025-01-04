@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Fri, 03 Jan 2025 13:11:48 GMT</pubDate>
-  </item><item>
-    <title>个人工作任务管理</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task-management</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task-management</guid>
-    <description>用飞书的多维表格来做个人的每周的任务管理。 表格视图 名称状态优先级链接备注截止日期xxx未开始高xxx进行中中xxx测试中低xxx已完成高xxx其他高 其中: 状态中的其他表示不需要完成的条目，比如：周会，公司迭代看板链接，创新日等。 对应中大型任务，链接一般指向任务文档。 看板视图 用状态做来分组。.</description>
-    <pubDate>Fri, 03 Jan 2025 13:11:30 GMT</pubDate>
-  </item><item>
-    <title>任务</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task</guid>
-    <description> 单个任务的管理。 资源 放这个任务相关的资源的链接。这个可以用飞书的多列来减少占用的垂直空间。类似： 需求设计后端前端其他需求文档设计稿接口文档分支任务分解原型图接口协助 背景 放该任务的背景信息。如存在 xx 问题。达成 xx 目标。 TODO 放一些测试过程中，零碎的要做的。 todo1 todo2 功能 名称模块状态内容模块1未开始模块2进行中模块3阻塞中模块3已完成 测试用例 测试用例模板 接口问题协助.</description>
-    <pubDate>Fri, 03 Jan 2025 13:11:30 GMT</pubDate>
-  </item><item>
-    <title>测试用例</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/test-case</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/test-case</guid>
-    <description>用飞书的多维表格来维护测试用例。 表格视图 名称功能模块状态步骤预期结果链接备注未开始等原型等设计等前端等后端已完成 其中: 链接放对应 APP 的地址。 备注可以放阻塞点之类的信息。 未通过视图 用一个新的表格视图，筛选未通过的用例。 看板视图 用功能模块来分组。.</description>
-    <pubDate>Fri, 03 Jan 2025 13:11:30 GMT</pubDate>
-  </item><item>
-    <title>SOP</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/readme</guid>
-    <description>我解决一些问题和做一些任务的最佳路径。 通用 精进: PDCA 生活 保持健康和好状态 每月生活记录模板 保持健康的日常计划 0.0.3 推荐 &amp; 避免 提升社交的效率 人模板 信息管理 主题概览 科学信息模版 拆书 选择产品 工作 提升工作效率 每周任务管理 任务模板 .</description>
-    <pubDate>Fri, 03 Jan 2025 13:11:30 GMT</pubDate>
-  </item><item>
-    <title>科普推荐</title>
-    <link>https://iamjoel.github.io/dialogue/personal/suggestion/popular-science</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/suggestion/popular-science</guid>
-    <description>一些尝试做科普的内容的选题 行星介绍。 某种动物/植物。 Super suggest 星球研究所: 中国地理。《这里是中国》系列，《少年中国地理》系列。 科学声音 汪诘搞的。一些科普作家的矩阵。 《寻秘自然》(球形闪电等)， 未来科技体验馆 果壳网 范科普。 [NASA Science] 科学 哲学 《哲学家们干做了些什么》 有趣的哲学史。 生命科学 历史类 《人体的故事 - 进化，健康和疾病》 生命博弈 《植物的战斗》 植物为了生存的各种做的花活。博弈。汪诘。 《它们的性》 繁殖的博弈。 《生命：非常的世界》 生命运行 《进击的病毒》 《细胞简史》 《凯的解剖学》 《贪婪的多巴胺》 《疯狂的尿酸》 宇宙 地理 地图: Google Earth Pro。 《这里是中国》 到 2024 年，有 3 部。星球研究所 出品。 专注于探索极致宇宙。 《这里是中国 2 》 中国的一些大工程。 铁路，桥梁，隧道，高速，电力，南水北调，西气东输。 BBC科普三部曲 《地球：行星的力量》: 探索地球如何运转，生命如何孕育，逐一介绍塑造地球的四种力量：火山、大气层、海洋与冰川。 《海洋：深水探秘》 《生命：非常的世界》:探索世界每个大陆上的动物和植物为了生存而使用的各种策略，展现了自然界缤纷物种的多样性，以及它们为适应环境而进化出的各种神奇生存本领。 《航拍中国》系列 中央电视台 。视频，书。 《侣行》 系列。 科普优秀作者 汪诘 史钧 《哲学家们干做了些什么》 那作者 《疯狂的多巴胺》，《躁动的无意识》 那作者 《人类简史》那作者 待筛选 《万物简史》现代科学发展史。从宇宙爆炸到人类文明发展。 《科学的历程》 《生命是什么》 薛定谔的。 《生命进化的跃升》 地球最重要的时间事 《摸着自己学人体》 《寄生虫星球》 微信读书科普榜 【获奖名单】第七届“中国科普作家协会优秀科普作品奖”获奖作品名单公布 未来时空的科技前沿 《无用且恶心的人体趣味冷知识》弗朗西斯 古德。写的都是很搞笑的。《鼻屎为什么不能吃》，《狗为什么改不了吃💩》 《奇怪的生物图鉴》里面的图画的很用心。 .</description>
-    <pubDate>Fri, 03 Jan 2025 13:11:30 GMT</pubDate>
-  </item><item>
-    <title>Chrome</title>
-    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/chrome</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/chrome</guid>
-    <description>核心功能 从网上找问题的答案。 信息搜索。 信息浏览。 信息操作。 信息采集。 Chrome 内的信息管理。 具体场景 信息搜索： 搜 Google。 站中搜索。也可以用 Google(site:)。 信息浏览： 打开新闻网站，浏览新闻。 查看邮件。 逛购物网站。 看视频。 玩游戏。 信息操作： 任务管理。查看，添加，删除任务等。 飞书文档。 信息采集： 把有价值的信息采集到自己的知识库。 Chrome 内的信息管理。比如： 暂时不读的加到阅读清单。 常用的加到书签。 当前的一堆标签页做分组管理。 信息浏览 减少信息干扰 干扰信息具体表现解决方法无关内容广告，相关推荐内容拦截，如广告拦截系统不必要的修饰抓人的标题，图片Chrome 阅读模式不喜欢的排版字体大小颜色注入 CSS， JavaScript 突出重点 缺少重点就是根据目标，找数据的最佳呈现方式。比如： 想了解新闻文章对当前的影响，重点是文字内容。 想选购安全可靠的商品，重点是商品的评价，新闻，销量，评价等。 想了解某个概念，重点是概念的定义，解释等。 对于批量看突出重点内容，可以把数据采集下拉，格式化后再展示。 拓展信息 信息不全比如： // table 信息不全具体表现解决方法不熟悉的名词不熟悉领域的名词，如 RAG文字搜索不熟悉的图片对图片上的内容感兴趣图片搜索(Search with Google Len)外语概念的搜索翻译。 沉浸式翻译 工具 油猴，暴力猴，篡改猴这种： 确定的 JS。 https://linux.</description>
-    <pubDate>Fri, 03 Jan 2025 13:11:30 GMT</pubDate>
+    <pubDate>Sat, 04 Jan 2025 09:30:15 GMT</pubDate>
   </item><item>
     <title>一加</title>
     <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</link>
     <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</guid>
     <description>核心功能 信息检索。 信息浏览。 信息操作。 具体场景 信息检索： 用 Google 搜索。 用 ChatGPT 搜索。 在已知 APP 力检索。 信息浏览： 打开新闻网站，看一篇新闻。 查看邮件。 信息操作： 应用捷径的实现(IOS 的捷径功能)。 自动化 AutoX.js 自动化的需求 自动打开微信收藏的某篇笔记。 打开某些应用前，先挂梯子。 .</description>
-    <pubDate>Fri, 03 Jan 2025 13:11:30 GMT</pubDate>
+    <pubDate>Sat, 04 Jan 2025 09:30:01 GMT</pubDate>
   </item><item>
     <title>从不同角度看问题</title>
     <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</link>
     <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</guid>
     <description>六顶思考帽 六顶思考帽（Six Thinking Hats）是由爱德华·德·博诺（Edward de Bono）提出的一种思考方法,旨在从不同角度审视问题。这六顶帽子分别代表: 白色思考帽:客观事实与数据。着重于收集与问题相关的客观事实和数据,不掺杂个人观点。 红色思考帽:情感和直觉。表达对问题的直观感受,不需要任何理由或依据。 黑色思考帽:谨慎和批判。对问题持怀疑和谨慎态度,找出方案中存在的危险和缺陷。 黄色思考帽:乐观和积极。从积极的角度看问题,寻找方案的优点和价值。 绿色思考帽:创意和变通。打破常规思维方式,提出创新的想法和解决方案。 蓝色思考帽:控制和管理。协调其他五种思考模式,把控讨论的方向和节奏。.</description>
-    <pubDate>Fri, 03 Jan 2025 13:11:30 GMT</pubDate>
+    <pubDate>Sat, 04 Jan 2025 09:30:01 GMT</pubDate>
   </item><item>
     <title>我的工具包</title>
     <link>https://iamjoel.github.io/dialogue/personal/toolbox/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/toolbox/readme</guid>
     <description>工具包理想状态 遇到问题时，快速的找到工具。 工具之上的工具。类似工具之上的插件。比如 Chrome 的插件。更进一步的是，针对页面级别的工具。 最小化依赖的工具 Mac，一加手机 Chrome VSCode 微信 微信读书 飞书 筛选标准 生活中，可靠的最小的依赖。 最小化。 可靠。不容易蹦。 生态。配置性强，可隐藏信息。支持自动化。可拓展。减少干扰，突出重点。 信息的检索，筛选。 Chrome。 自动化。 .</description>
-    <pubDate>Fri, 03 Jan 2025 13:11:30 GMT</pubDate>
+    <pubDate>Sat, 04 Jan 2025 09:30:01 GMT</pubDate>
+  </item><item>
+    <title>从本质看前端</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/dive-into-frontend</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/dive-into-frontend</guid>
+    <description>前端的本质是数据。 复杂度 程序的功能边界是人的欲望边界。欲望的增长得很快。程序员理解力增长有限。因此，程序最后往往是难以维护的。 功能都可以分解为：数据，数据的呈现，数据的操作。 用户期望的是，快速的达成目标。这目标总是和数据相关的，一般是 查看数据 或 操作数据。 操作数据相对比较容易，就是改数据值。对应的无非是一个表单，或者鼠标键盘之类输入设备的输入(玩游戏场景)。 查看数据做的体验好，往往很复杂。体验好指的是：用户能不费力的看到期望的数据。复杂原因: 获取数据的复杂度。期望的数据可能来自不同实体，会调用若干次接口。 展示方式的复杂度。为了突出数据的某些方面，要设计合适的展示方式。 减少响应时间(性能)的复杂度。需要做接口缓存，预渲染，渲染的缓存，滚动加载，虚拟列表等。 降低复杂度 减少程序的功能。 数据层面的复杂度: 数据数量多，对象属性多，对象的层次深。 逻辑的复杂度: 涉及的数据多，圈复杂度高，调用链长。 修改的复杂度：被多处复用，改动时， 不同目标之间的平衡： 代码的可维护性， 性能。 深度深。 更有深度的思考前端。数据视角看。 呈现列表数据: 表格，看板， 筛选 分组，聚类 高亮/突出展示内容 维度：时间维度，从属关系，并列关系 一些高频的，有深度的内容(会遇到什么问题，目前是怎么解决的): 底层 高频的数据操作方法。边界及难的地方。 应用层 框架 API 。 React 的 hooks 。 状态管理 接口调用 SSR .</description>
+    <pubDate>Sat, 04 Jan 2025 09:30:01 GMT</pubDate>
+  </item><item>
+    <title>通过 AI 来自动化提升代码质量</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/impove-code-quality-by-ai</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/impove-code-quality-by-ai</guid>
+    <description>AI 的优势： 思路广。能找到一些有创意的解决问题的新方案。很像人的无意思。 运算速度快。 缺点: 生成的内容的质量不稳定。 实现思路 在 AI 的辅助下：罗列高代码质量的原则和原则的高优先级。 基于上面的原则，生成: Prompt。 =&gt; 提升生成质量。 示例。 将示例 Embedding 。 =&gt; 提升生成质量。 应用在需要重构的代码上。 .</description>
+    <pubDate>Sat, 04 Jan 2025 09:30:01 GMT</pubDate>
+  </item><item>
+    <title>生命的本质</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/readme</guid>
+    <description>生命能长期存在的本质是 生存和繁殖。 生存 生存是前提。不生存，也没有机会去繁殖。 生存的本质就是保持一种秩序。这种秩序也就是熵。生命的熵高于周围的环境，因此，根据第二热力学定律，要维持生命，需要从外界吸收能量，比如依靠饮食，晒太阳。通过亿万年的演化，生命发展出一系列机制生存。 生存的过程中，会做一个个决策，决策的本质都是趋利避害。 生存能力 生存能力，本质是适应环境变化的能力。 繁殖 没有繁殖就没有后代。再强的生命总有消亡的一天。.</description>
+    <pubDate>Sat, 04 Jan 2025 09:30:01 GMT</pubDate>
+  </item><item>
+    <title>趋利避害 - 生存最本质的策略</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/survival-strategy-seeking-benefits-and-avoiding-harm</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/the-essence-of-life/survival-strategy-seeking-benefits-and-avoiding-harm</guid>
+    <description>Draft 版。 生存最本质的策略就是趋利避害。要生存的好，就是多做利的，少做害的。有的利，其实是害。有的害，其实是利。 利 利就是自认为的好处。有利于生存的就是利。利是： 拉回生命平衡的秩序。例如：恢复体力，健康 推向对环境适应性更强的秩序。身体，例如：心灵变得健壮这种。 具体的比如： 肚子饿时吃东西。 平常吃太多时控制饮食。 害 害就是利的反面。也就是迫害生命平衡秩序的。 如何判断利和害 人是从过去的经验来判断利害的。 博弈。 大棒是害。机会是利，风险是害。 衡量：利 投入产出比。 贪是趋利，痴是弊害。人生的苦也是趋利避害。 多巴胺的分泌是趋利，保持专注。催产素的分泌也是趋利。痛是弊害。 趋利避害是一种生存策略。 趋利避害的例子 好逸恶劳。奖励和惩罚。胡萝卜加大棒。 我认为利和害 人生意义的基础，人的寿命是有限的 人的目标.</description>
+    <pubDate>Sat, 04 Jan 2025 09:30:01 GMT</pubDate>
+  </item><item>
+    <title>世界观</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/world-view</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/world-view</guid>
+    <description> 经验是知识的唯一来源。 - 经验主义 相对的，有的哲学学派认为有的知识是先验的。 实证主义 [逻辑实证主义](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E5%AE%9E%E8%AF%81%E 4%B8%BB%E4%B9%89) 维也纳学派 形而上学 对世界的理解 世界是由一些定律支配的。 定律是人类的定义。定律是一些因果。有些定律人类能掌握，有些不能掌握。 对人类的理解 对自己的理解 没有压力就没有成长。 食物不需要咬，导致对颌骨的刺激不够，导致空间小：阻生（横长的智齿），牙齿不齐。 骨质疏松，年轻时运动少，对骨头的刺激不够，骨头不够粗壮，同时年龄的增长。 智力也是如此。老年痴呆啥的。 易过敏：环境太过干净。探讨过度清洁为什么以及如何导致了牛奶或花粉这些原本无害的物质触发潜在的致命过度反应，让我们先简单回顾一下你的免疫系统是如何保护你的。由于与微生物接触太少导致了失衡，从而矛盾性地导致对原本无害的外来物质产生过度反应。 -《人体的故事 - 进化，健康和疾病》 SB 定律 SB定律1，从没觉得自己傻逼过的，一定是不可救药的大傻逼。扪心自问，谁还没有傻逼的时候呢，再过些年看现在，会不会继续这样的感慨呢 SB定律2，觉得身边所有人都是傻逼的，往往自己才是最傻逼的那个。心理没点逼数，也是一种人生常态。 SB定律3，收割傻逼的终将被傻逼们封神，试图唤醒傻逼的是傻逼眼中的傻逼。尊重他人命运，放弃助人情节。 SB定律4，试图证明傻逼是傻逼的，自己也是傻逼。 在傻逼身上浪费任何时间都是傻逼的行为。 SB定律5，永远不要指望事实会教育傻逼，因为傻逼对事实有不一样的解读。 SB定律6，傻逼们会以为，他们所熟悉的规则是这个世界上唯一的规则。 CaoZ .</description>
+    <pubDate>Sat, 04 Jan 2025 09:30:01 GMT</pubDate>
+  </item><item>
+    <title>观点</title>
+    <link>https://iamjoel.github.io/dialogue/personal/viewpoint/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/readme</guid>
+    <description> 生命的本质 世界观 .</description>
+    <pubDate>Sat, 04 Jan 2025 09:30:01 GMT</pubDate>
   </item>
     </channel>
   </rss>
