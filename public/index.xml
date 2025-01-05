@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Sun, 05 Jan 2025 14:34:13 GMT</pubDate>
+    <pubDate>Sun, 05 Jan 2025 14:43:31 GMT</pubDate>
   </item><item>
-    <title>PDCA</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/common/pdca</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/common/pdca</guid>
-    <description>PDCA 是 Plan, Do, Check, Act/Adjust 的简称。 这是一种迭代设计和管理方法，用于业务过程和产品的控制和持续改进。 Plan: 计划。建立交付预期结果所需的目标和流程。 Do: 执行。完成上一步的目标。 Check: 检查。检查上一一步完成的情况。 Act/Adjust: 调整。根据检查的结果，调整计划。 PDCA循环的另一个版本是 OPDCA。 “O”代表观察。.</description>
-    <pubDate>Sun, 05 Jan 2025 14:33:58 GMT</pubDate>
+    <title>个人工作任务管理</title>
+    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task-management</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task-management</guid>
+    <description>用飞书的多维表格来做个人的每周的任务管理。 表格视图 名称状态优先级链接备注截止日期xxx未开始高xxx进行中中xxx测试中低xxx已完成高xxx其他高 其中: 状态中的其他表示不需要完成的条目，比如：周会，公司迭代看板链接，创新日等。 对应中大型任务，链接一般指向任务文档。 看板视图 用状态做来分组。.</description>
+    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
   </item><item>
-    <title>保持健康的日常计划 0.0.1</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily-plan/0.0.1</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily-plan/0.0.1</guid>
-    <description>实施时间: 24/08 ～ 饮食 控制热量摄入。 控制主食的量。不超过一小碗米饭。目前就不多。 不吃早饭。没有特殊情况(和家人一起住的酒店带早餐)不吃。 不吃夜宵。和朋友约夜宵最多一周一次。 少吃甜点类深加工的食品。一周最多一次蛋糕。 少喝奶茶。一周最多一次。 避免血糖的大起大落。 先吃大部分蔬菜，蛋白质，脂肪。最后吃主食。 运动 每天椭圆机跑步 20 分钟。强度：卡路里 160Cal +。 每周 2 次以上囚徒健身里的运动。 腹式呼吸练习。 去公司的路上快步走。 睡眠 少熬夜。一周最多一次 11:30 后睡。 情绪 一周 1 次及以上的 15 分钟冥想。 一周 1 次及以上让自己开心的事。 .</description>
-    <pubDate>Sun, 05 Jan 2025 14:33:58 GMT</pubDate>
+    <title>任务</title>
+    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task</guid>
+    <description> 单个任务的管理。 资源 放这个任务相关的资源的链接。这个可以用飞书的多列来减少占用的垂直空间。类似： 需求设计后端前端其他需求文档设计稿接口文档分支任务分解原型图接口协助 背景 放该任务的背景信息。如存在 xx 问题。达成 xx 目标。 TODO 放一些测试过程中，零碎的要做的。 todo1 todo2 功能 名称模块状态内容模块1未开始模块2进行中模块3阻塞中模块3已完成 测试用例 测试用例模板 接口问题协助.</description>
+    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
   </item><item>
-    <title>保持健康的日常计划 0.0.2</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily-plan/0.0.2</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily-plan/0.0.2</guid>
-    <description>实施时间: 24/08 ～ 饮食 控制热量摄入。 控制主食的量。不超过一小碗米饭。 不吃早饭。一周最多吃一次。没有特殊情况(和家人一起住的酒店带早餐)不吃。 少吃夜宵。一周最多吃一次。 少吃甜点类深加工的食品。 1. 面包，蛋糕。一周最多一次。可以在周五-周日吃。 2. 奶茶。一周最多一次。 减少血糖的大起大落。 先吃大部分蔬菜，蛋白质，脂肪。最后吃主食。 运动 有氧运动。 每天椭圆机跑步 20 分钟。 快步走。去公司的路上快步走。 中强度运动。 一周一次 30 分钟中强度运动。周四晚上跑 5 公里。 上身肌肉训练。每周 2 次以上囚徒健身里的手臂，背部的运动。 腹式呼吸。每天练习 5 分钟。 避免久坐。每个整点动一动。 睡眠 少熬夜。一周最多一次 11:30 后睡。 情绪 冥想。一周 1 次及以上的 15 分钟冥想。 做让自己开心的事。一周 1 次及以上。 .</description>
-    <pubDate>Sun, 05 Jan 2025 14:33:58 GMT</pubDate>
+    <title>测试用例</title>
+    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/test-case</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/test-case</guid>
+    <description>用飞书的多维表格来维护测试用例。 表格视图 名称功能模块状态步骤预期结果链接备注未开始等原型等设计等前端等后端已完成 其中: 链接放对应 APP 的地址。 备注可以放阻塞点之类的信息。 未通过视图 用一个新的表格视图，筛选未通过的用例。 看板视图 用功能模块来分组。.</description>
+    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
   </item><item>
-    <title>保持健康的日常计划 0.0.3</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily-plan/0.0.3</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily-plan/0.0.3</guid>
-    <description>开始时间: 24/09。 饮食 控制热量摄入。 控制主食的量。不超过一小碗米饭。 不吃早饭。一周最多吃一次。没有特殊情况(和家人一起住的酒店带早餐)不吃。 少吃夜宵。一周最多吃一次。 少吃甜点类深加工的食品。 1. 面包，蛋糕。一周最多一次。可以在周五-周日吃。 2. 奶茶。一周最多一次。 减少血糖的大起大落。 先吃大部分蔬菜，蛋白质，脂肪。最后吃主食。 运动 有氧运动。 每天椭圆机跑步 25 分钟。 快步走。去公司的路上快步走。 中强度运动。 一周一次 30 分钟中强度运动。周一晚上跑 5 公里。 力量训练。间隔一天锻炼上身和下身。间或锻炼核心。 柔韧性锻炼。每天早晚拉升韧带。 腹式呼吸。每天练习 5 分钟。 避免久坐。每个整点动一动。 睡眠 保证 8 小时的睡眠。11 点前睡， 7 点起。一周最多一次 11:30 后睡。 情绪 冥想。一周 3 次及以上的 15 分钟冥想。 每天自省。 做的好的地方。 做的不好的地方。 做让自己开心的事。一周 1 次及以上。 正念。专注在当下。具体来说： 走路时，专注在脚上。感受脚接触地面的感觉。 吃饭时，专注在食物上。感受食物的味道。 上洗手间时，吃饭时，不看手机。 精简信息。 数字排毒。非常驻的用完就关。当前在处理的任务常驻。即使很高频的，也不需要常驻。比如： Google 翻译 和 Claude。具体来说： 微信读书的在读书数量不超过 3 本。 当前打开的应用不超过 8 个。常驻的 7 个：飞书，微信，Chrome，VSCode，Cursor，Fork，Finder。 Chrome 的常驻的标签不超过 6 个。常驻的 5 个：当前任务文档，原型图，设计稿，接口文档，开发环境。 VSCode 当前打开的项目不超过 3 个（还不习惯）。 Tab 不超过 3个。 Cursor 的窗口不超过 3 个。 Fork 的窗口不超过 3 个。 Finder 的窗口不超过 3 个。 运动装备 运动手表(高驰，佳明)。测量心率和血氧饱和度。 绑手机的带子。 体脂秤。测量体重和体脂比例。比如 佳明 的。 冥想头带 Muse。设备通过脑部传感技术可监测用户的大脑活动，是处于平静还是活跃、专注还是游离状态。当你的大脑处于平静状态时，你将听到柔和宁静的自然之音，当你的专注力开始游离，飘忽不定，你将听到如暴风雨般的强烈气候声音，帮助你再次集中注意力，回归平静状态。 .</description>
-    <pubDate>Sun, 05 Jan 2025 14:33:58 GMT</pubDate>
+    <title>SOP</title>
+    <link>https://iamjoel.github.io/dialogue/personal/sop/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/sop/readme</guid>
+    <description>我解决一些问题和做一些任务的最佳路径。 通用 精进: PDCA 生活 保持健康和好状态 每月生活记录模板 保持健康的日常计划 0.0.3 推荐 &amp; 避免 提升社交的效率 人模板 信息管理 主题概览 科学信息模版 拆书 选择产品 工作 提升工作效率 每周任务管理 任务模板 .</description>
+    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
   </item><item>
-    <title>保持健康的日常计划 0.1.0</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily-plan/0.1.0</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily-plan/0.1.0</guid>
-    <description> 锻炼 运动: 0 冥想: 0 不无意识的刷信息: 0 饮食 不吃早饭: 0 不吃夜宵: 0 不吃深加工食物: 0 休息 不熬夜: 0 说明 用正向数字记录。能更好的激励自己。 运动指最少 30 分钟的运动。 .</description>
-    <pubDate>Sun, 05 Jan 2025 14:33:58 GMT</pubDate>
+    <title>科普推荐</title>
+    <link>https://iamjoel.github.io/dialogue/personal/suggestion/popular-science</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/suggestion/popular-science</guid>
+    <description>一些尝试做科普的内容的选题 行星介绍。 某种动物/植物。 Super suggest 星球研究所: 中国地理。《这里是中国》系列，《少年中国地理》系列。 科学声音 汪诘搞的。一些科普作家的矩阵。 《寻秘自然》(球形闪电等)， 未来科技体验馆 果壳网 范科普。 [NASA Science] 科学 哲学 《哲学家们干做了些什么》 有趣的哲学史。 生命科学 历史类 《人体的故事 - 进化，健康和疾病》 生命博弈 《植物的战斗》 植物为了生存的各种做的花活。博弈。汪诘。 《它们的性》 繁殖的博弈。 《生命：非常的世界》 生命运行 《进击的病毒》 《细胞简史》 《凯的解剖学》 《贪婪的多巴胺》 《疯狂的尿酸》 宇宙 地理 地图: Google Earth Pro。 《这里是中国》 到 2024 年，有 3 部。星球研究所 出品。 专注于探索极致宇宙。 《这里是中国 2 》 中国的一些大工程。 铁路，桥梁，隧道，高速，电力，南水北调，西气东输。 BBC科普三部曲 《地球：行星的力量》: 探索地球如何运转，生命如何孕育，逐一介绍塑造地球的四种力量：火山、大气层、海洋与冰川。 《海洋：深水探秘》 《生命：非常的世界》:探索世界每个大陆上的动物和植物为了生存而使用的各种策略，展现了自然界缤纷物种的多样性，以及它们为适应环境而进化出的各种神奇生存本领。 《航拍中国》系列 中央电视台 。视频，书。 《侣行》 系列。 科普优秀作者 汪诘 史钧 《哲学家们干做了些什么》 那作者 《疯狂的多巴胺》，《躁动的无意识》 那作者 《人类简史》那作者 待筛选 《万物简史》现代科学发展史。从宇宙爆炸到人类文明发展。 《科学的历程》 《生命是什么》 薛定谔的。 《生命进化的跃升》 地球最重要的时间事 《摸着自己学人体》 《寄生虫星球》 微信读书科普榜 【获奖名单】第七届“中国科普作家协会优秀科普作品奖”获奖作品名单公布 未来时空的科技前沿 《无用且恶心的人体趣味冷知识》弗朗西斯 古德。写的都是很搞笑的。《鼻屎为什么不能吃》，《狗为什么改不了吃💩》 《奇怪的生物图鉴》里面的图画的很用心。 .</description>
+    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
   </item><item>
-    <title>change-log</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily-plan/change-log</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily-plan/change-log</guid>
-    <description>ChangeLog 0.0.2 Feature: 中强度运动 避免久坐 腹式呼吸 Improvement: 每个行为的类名描述的优化成：行为。说明(标准，频率等)。 0.0.3 Feature: 正念。专注在当下。 自省。 精简信息。数字排毒。 Improvement: 每天椭圆机跑步时间增加 5 分钟。 冥想频率增加到一周 3 次。 0.</description>
-    <pubDate>Sun, 05 Jan 2025 14:33:58 GMT</pubDate>
+    <title>Chrome</title>
+    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/chrome</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/chrome</guid>
+    <description>核心功能 从网上找问题的答案。 信息搜索。 信息浏览。 信息操作。 信息采集。 Chrome 内的信息管理。 具体场景 信息搜索： 搜 Google。 站中搜索。也可以用 Google(site:)。 信息浏览： 打开新闻网站，浏览新闻。 查看邮件。 逛购物网站。 看视频。 玩游戏。 信息操作： 任务管理。查看，添加，删除任务等。 飞书文档。 信息采集： 把有价值的信息采集到自己的知识库。 Chrome 内的信息管理。比如： 暂时不读的加到阅读清单。 常用的加到书签。 当前的一堆标签页做分组管理。 信息浏览 减少信息干扰 干扰信息具体表现解决方法无关内容广告，相关推荐内容拦截，如广告拦截系统不必要的修饰抓人的标题，图片Chrome 阅读模式不喜欢的排版字体大小颜色注入 CSS， JavaScript 突出重点 缺少重点就是根据目标，找数据的最佳呈现方式。比如： 想了解新闻文章对当前的影响，重点是文字内容。 想选购安全可靠的商品，重点是商品的评价，新闻，销量，评价等。 想了解某个概念，重点是概念的定义，解释等。 对于批量看突出重点内容，可以把数据采集下拉，格式化后再展示。 拓展信息 信息不全比如： // table 信息不全具体表现解决方法不熟悉的名词不熟悉领域的名词，如 RAG文字搜索不熟悉的图片对图片上的内容感兴趣图片搜索(Search with Google Len)外语概念的搜索翻译。 沉浸式翻译 工具 油猴，暴力猴，篡改猴这种： 确定的 JS。 https://linux.</description>
+    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
   </item><item>
-    <title>每月生活记录模板</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/life/daily</guid>
-    <description>TODO 概览明细 日期体力锻炼(G*2)冥想(G*2)吃早饭(B*1)吃夜宵(B*2)熬夜(B*3)0111000 概览 体力锻炼 跑步。椭圆机 30 分钟 或 跑 6 公里。完成情况: 0/5-。 每周跑一次 10 公里。完成总数: 0/2-。 正念 冥想 15 分钟。完成情况: 0/15+。 蹲坑不玩手机。剩余次数: 0/5-。 学习 多邻国: 5+ 个单元。完成情况: 0/5-。 饮食: 不吃早饭。完成情况: 0/5-。 不吃夜宵。完成情况: 0/5-。 休息: 不熬夜。11点30(尽量 11:15)之前睡觉。完成情况: 0/5-。 看电 s视(感官刺激)。 完成情况: 0/5-。 信息 其他 注: 越多越好的目标的记录方式: 达成情况: 当前达成/目标+。。 要求的完成次数不是很多的不需要未完成日期。 越少越好的目标的记录方式: 达成情况: 当前未达成/目标-。。 Template 运动 跑步: 30 分钟 上斜俯卧撑 30×3; 折刀深蹲 20×3; 坐姿屈膝 15×3 正念 冥想 15 分钟。 学习 多邻国: 7 个单元。 信息 休息 x 睡觉 01 运动 跑步: 25 分钟 上斜俯卧撑 30×4 正念 冥想 15 分钟。 学习 多邻国: 7 个单元。 休息: 11:30 睡觉 .</description>
-    <pubDate>Sun, 05 Jan 2025 14:33:58 GMT</pubDate>
+    <title>一加</title>
+    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</guid>
+    <description>核心功能 信息检索。 信息浏览。 信息操作。 具体场景 信息检索： 用 Google 搜索。 用 ChatGPT 搜索。 在已知 APP 力检索。 信息浏览： 打开新闻网站，看一篇新闻。 查看邮件。 信息操作： 应用捷径的实现(IOS 的捷径功能)。 自动化 AutoX.js 自动化的需求 自动打开微信收藏的某篇笔记。 打开某些应用前，先挂梯子。 .</description>
+    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
   </item><item>
-    <title>避免</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/life/good-bad/bad</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/life/good-bad/bad</guid>
-    <description> 名称说明蛋糕，面包深加工食物薯条深加工食物面条高 GI，高盐奶茶高糖果汁高糖白酒一类致癌物油炸食品高热量，高脂肪，致癌物咸菜高盐，亚硝酸盐 说明 深加工食物 高热量(碳水，糖)，反式脂肪酸，防腐剂等。 TODO 调研： 韭菜，黄瓜，豆角的生产过程有问题？.</description>
-    <pubDate>Sun, 05 Jan 2025 14:33:58 GMT</pubDate>
+    <title>从不同角度看问题</title>
+    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</guid>
+    <description>六顶思考帽 六顶思考帽（Six Thinking Hats）是由爱德华·德·博诺（Edward de Bono）提出的一种思考方法,旨在从不同角度审视问题。这六顶帽子分别代表: 白色思考帽:客观事实与数据。着重于收集与问题相关的客观事实和数据,不掺杂个人观点。 红色思考帽:情感和直觉。表达对问题的直观感受,不需要任何理由或依据。 黑色思考帽:谨慎和批判。对问题持怀疑和谨慎态度,找出方案中存在的危险和缺陷。 黄色思考帽:乐观和积极。从积极的角度看问题,寻找方案的优点和价值。 绿色思考帽:创意和变通。打破常规思维方式,提出创新的想法和解决方案。 蓝色思考帽:控制和管理。协调其他五种思考模式,把控讨论的方向和节奏。.</description>
+    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
   </item><item>
-    <title>推荐</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/life/good-bad/good</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/life/good-bad/good</guid>
-    <description>食物 名称说明虾高蛋白鸡蛋高蛋白牛奶高蛋白玉米粗粮西兰花十字花科黑巧克力深色绿叶菜纤维蓝莓抗氧化牛油果维生素多 其他 名称说明有氧运动力量运动感恩将消极模式转为积极模式 说明 粗粮： 低 GI。 十字花科：富含维生素，以及抗癌物质:SNCF。 类似的 花菜。 .</description>
-    <pubDate>Sun, 05 Jan 2025 14:33:58 GMT</pubDate>
+    <title>我的工具包</title>
+    <link>https://iamjoel.github.io/dialogue/personal/toolbox/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/readme</guid>
+    <description>工具包理想状态 遇到问题时，快速的找到工具。 工具之上的工具。类似工具之上的插件。比如 Chrome 的插件。更进一步的是，针对页面级别的工具。 最小化依赖的工具 Mac，一加手机 Chrome VSCode 微信 微信读书 飞书 筛选标准 生活中，可靠的最小的依赖。 最小化。 可靠。不容易蹦。 生态。配置性强，可隐藏信息。支持自动化。可拓展。减少干扰，突出重点。 信息的检索，筛选。 Chrome。 自动化。 .</description>
+    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
