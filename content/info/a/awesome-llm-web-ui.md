@@ -1,6 +1,8 @@
 ---
 title: Awesome LLM WebUIs
+tags: AI
 ---
+
 [官网](https://github.com/JShollaj/awesome-llm-web-ui)
 > Curating the best LLM Web User Interfaces.
 

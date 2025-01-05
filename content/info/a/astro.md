@@ -1,5 +1,7 @@
 ---
 title: Astro
+description: Astro is the web framework for building content-driven websites like blogs, marketing, and e-commerce.
+tags: frontend, CMS
 ---
 [官网](https://astro.build/)
 > Astro is the web framework for building content-driven websites like blogs, marketing, and e-commerce.
@@ -14,7 +16,7 @@ JavaScript 仅在需要时才被下载。通过这种方式，网站的大部分
 简单扩展，学习曲线相当平缓。
 
 ## 亮点
-* [性能比 [Next.js](./next.md), Gatsby 等框架 好。][1]
+* [性能比 [Next.js](../n/next.md), Gatsby 等框架 好。][1]
 
 ## 技术
 ### 特性
