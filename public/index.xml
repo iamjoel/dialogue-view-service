@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Mon, 06 Jan 2025 14:17:31 GMT</pubDate>
+    <pubDate>Mon, 06 Jan 2025 14:35:52 GMT</pubDate>
   </item><item>
-    <title>未整理</title>
-    <link>https://iamjoel.github.io/dialogue/text/u/unsort</link>
-    <guid>https://iamjoel.github.io/dialogue/text/u/unsort</guid>
-    <description>关系 亲子关系 构建，愉悦，亲密的亲子关系。 让孩子成为一个独立，快乐的人。 正面管教 娱乐 通用的解决问题的方法 数据分析：AWESOME DATA SCIENCE 宗教是一种信仰的文化，科学是一种怀疑的文化。 ——理查德·费曼(Richard Feynman) .</description>
-    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
+    <title>信息管理工具选择</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/tools</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/tools</guid>
+    <description>双链笔记 的选择： Obsidian 之类专门的笔记 App(Logseq，Roam) VSCode 配合插件(Foam, favorites 等)。 以后可以尝试 Heptabase，用画布连接卡片的方式来管理信息。 特性 搜索能力 特性工具说明GraphViewObsidian筛选能力做的比较完善全文搜索ALL都做的不错文件切换ALL都做的不错书签(快速导航)都做的不错支持书签分组，还支持对文件夹存书签。VSCode 用 favorites 也可以支持类似的概念链接预览VSCodeObsidian 只支持对 Wikilink 进行预览 编辑体验 特性工具说明语法高亮ALL都做的不错插入链接Relative Path能快速插入链接的相对当前文档的路径插入画布，任务管理，流程图等VSCode插件更多。比如 tldraw 发布到网上 特性工具说明发布ALLObsidian 通过插件发布 。VSCode 通过 quartz 发布.</description>
+    <pubDate>Mon, 06 Jan 2025 14:35:38 GMT</pubDate>
   </item><item>
-    <title>\@use-gesture</title>
-    <link>https://iamjoel.github.io/dialogue/text/u/use-gesture</link>
-    <guid>https://iamjoel.github.io/dialogue/text/u/use-gesture</guid>
-    <description> move it, zoom it, drag it, scroll it, pinch it 官网。GitHub。 支持 react 和 不用框架的。 能和 React Spring 配合着用。 该项目的作者和 React Spring 是一个作者。 该项目的组织(Poimandres)做了好多牛逼的库: React Spring， zustand，jotai， react-three-fiber 等。.</description>
-    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
+    <title>信息管理的顶级分类</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/top-classify</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/top-classify</guid>
+    <description>信息管理分类分为： 现实，技术，产品，个人。 现实(reality)是我们生活中观察到的客观数据。事实包含了我们遇到的问题。新闻咨询也属于这个分类。还有历史和人文地理。 技术(tech)是我们为了解决问题创造出的一些方法论。各类学科都是属于技术这个分类。 产品（product） 是具体的解决方案。各种人造的东西都属于这个分类。包括日常用品，电影，音乐等。 个人（personal日常，想法，计划记录。 之前的分类(与自己的关系，与社会的关系，与自然的关系)没有新分类找内容快。层级会深一层。.</description>
+    <pubDate>Mon, 06 Jan 2025 14:35:38 GMT</pubDate>
   </item><item>
-    <title>用户画像</title>
-    <link>https://iamjoel.github.io/dialogue/text/u/user-portrait</link>
-    <guid>https://iamjoel.github.io/dialogue/text/u/user-portrait</guid>
-    <description>工具 GummySearch .</description>
-    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
+    <title>《走向共和》</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/toward-a-republic</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/toward-a-republic</guid>
+    <description>最后一段孙中山的演讲很震撼。本质讲的就是平等。那时的现状是：统治阶级和普通不平等。统治阶级的权利不受约束。最终导致的是，整个社会的生产力下降。原因：民众的劳动成功被统治阶级剥削，民众的生产热情降低。 内容如下： 我知道，你们很着急。张勋复辟了，国会又开不成了，我知道。我啊，我急的不是这个，这些日子我想得很多，我们本来是共和国，可怎么一次又一次地出现了封建主义专制主义的东西，这个问题不解决，专制复辟就是必然的，共和国就永远是一个泡影。 共和的观念，是平等、自由、博爱嘛。可民国六年来，我们看到的是什么？各级行政官员都视法律为粪土，民众仍被奴役着。 民国应该是自由之国，自由是民众天赋的权利！可民国六年来，我们看到的是什么？是只有当权者的自由，权力大的有权力大的自由，权力小的有权力小的自由。民众，没有权力，没有自由。 民国应该是博爱之国！人人为我，我为人人！可民国六年来，我们又看到的是什么？是只有民众对当权者恐惧的爱，而当权者对民众，只有囗头上虚伪的爱。那种真诚真挚的博爱，我们看不到啊。 民国更应该是法治之国！可民国六年来，我们看到的是行政权力一次又一次地肆无忌惮地干涉立法∶你不听话，我就收买你；你不服从，我就逮捕你，甚至暗杀你。立法者成了行政官员随意蹂躏的妓女！ 那行政是什么呢？行政应该说是大总统及其一整套文官制度。应该是服务于国民，行共和之政。可民国六年来，我们看到的是什么？是一个打着共和旗帜的家天下，在这个家天下的行政中，我们根本看不到透明的行政程序，更看不到监督之制。那些行政官员，是如何花掉民众的血汗钱，民众不知道，那些行政官员把多少钱揣进了自己的腰包，你们不知道吧，我也不知道。 你们都知道司法是裁判吧，这个裁判的原则是什么？是一部主权在民的共和国宪法。可民国六年来，我们根本没有看到这么一部宪法嘛！就那部不成熟的《临时约法》，也一次又一次地被强奸。 有人说，不不不，不是一个人，是有一些人说，共和他只是一个称号而已，你孙大炮说的这些大虚幻、太遥远，不符合国情，它就像一个气球，啊，看着很美丽，可一飞上天啊，“卟”，破灭了。我想请问你，难道我们不要共和了吗？难道共和真错了吗？如果不要共和，我们有的就永远是专制；如果我们不要共和，那我们有的就永远是被奴役。 如果共和是错的，那自由就是错的；如果共和是错的，那平等就是错的；如果共和是错的，那博爱就是错的吗？我们追求的共和没有错，当然它还不完善，所以我们要一点一滴地去完善它，哪怕为此要付出代价呢！ 哦！对了，我今天穿的这身衣服有点古怪是吧，连裁缝都说是很奇怪的。但是我要说这是，这是为了完善共和，你们还觉得奇怪是吗？我要说，这就是共和，这就是共和的衣服。这边，我设计了三颗扣子，共和的理念，就是平等、自由、博爱。这边也有三颗扣子∶民族、民权、民生。那宪法呢？呵呵呵，我说的不是三权宪法。我发明了个新词，叫五权宪法。这里装的是立法权，这儿装的是行政权，这儿装的是司法权，这三权你们都很熟悉，叫间接民权。我情有独钟的是直接民权。要让普通的民众都有直接参政议政的权力！ 一个是考试权，我们中国古代就有考试的传统，后来把科举废除了，当然这对后来大兴新学有好处，可当官就不再考试了，这不好，这就像倒脏水把孩子也倒出去一样啊。民国六年来，在行政上用的是什么人啊，都是袁世凯他北洋的人，至今还如此。所以我们要把考试权还给民众。今后，凡行政用人，一定要经过考试，不管是谁！ 还有一个是弹劾权。没地儿装了，不急，不急，装在这儿，弹劾权！为什么要把弹劾权藏在里面呢？因为它是民众的杀手锏，它说不定什么时候就突然杀出来，弹劾你。 所以你要战战兢兢地当官，老老实实地为民做事。我想这回有人，更要说我孙文是个疯子，吃饭穿衣都说共和，你孙大炮还会什么？他说得对。我只知道共和这两个字，我这一辈子就认这两个字：共和。 我们有许多志士同仁，为了共和连生命都献出了，我孙文此生啊，没有别的希望，就一个希望，那就是：让共和不仅是一个名词，一句空话，或一个形式，要让它成为我们实实在在的生活方式，让它成为我们牢不可破的信念。 共和是普天之下民众的选择，是世界的潮流，世界潮流浩浩荡荡，顺之者昌，逆之者亡。 我孙文相信，我们这个中华民族啊，它一定会实现共和的，我坚信这一点！ .</description>
+    <pubDate>Mon, 06 Jan 2025 14:35:38 GMT</pubDate>
   </item><item>
-    <title>用户</title>
-    <link>https://iamjoel.github.io/dialogue/text/u/user</link>
-    <guid>https://iamjoel.github.io/dialogue/text/u/user</guid>
-    <description> 用户画像 .</description>
-    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
+    <title>TPF(技术/产品契合度)</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/tpf</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/tpf</guid>
+    <description>TPF(Technoledge -Market Fit 的简称) 技术/产品契合度。找不成熟的技术对应的使用场景。比如现在(2023年)不完美的大语言模型，适合用来做什么产品。 技术成熟后，要做的事 PMF([pmf]) 的产品。 来源 王小川创业 8 个月：大模型还没到谈 PMF 的时候.</description>
+    <pubDate>Mon, 06 Jan 2025 14:35:38 GMT</pubDate>
   </item><item>
-    <title>V0</title>
-    <link>https://iamjoel.github.io/dialogue/text/v/v0</link>
-    <guid>https://iamjoel.github.io/dialogue/text/v/v0</guid>
-    <description>根据自然语言生成代码.</description>
-    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
+    <title>越野跑</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/trail-running</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/trail-running</guid>
+    <description> 马拉松的终点是越野跑。 越野跑比马拉松距离长，强度大。 赛事 UTMB 环博朗峰。国际等级赛事。 港百 香港一百公里。 城市与野外。 高黎贡越野跑 高黎贡山属于云南腾冲。高海拔赛事。 交通: 腾冲机场。 张家界越野跑 XTERRY 办过。还拍了记录采苍耳的记录片。 苏州环太湖越野跑 XTERRY 办过。 北京 三峰，香山 其他 云南抚仙湖，滇池。.</description>
+    <pubDate>Mon, 06 Jan 2025 14:35:38 GMT</pubDate>
   </item><item>
-    <title>向量数据库</title>
-    <link>https://iamjoel.github.io/dialogue/text/v/vector-db</link>
-    <guid>https://iamjoel.github.io/dialogue/text/v/vector-db</guid>
-    <description> Pinecone .</description>
-    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
+    <title>transform</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/transform</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/transform</guid>
+    <description></description>
+    <pubDate>Mon, 06 Jan 2025 14:35:38 GMT</pubDate>
   </item><item>
-    <title>Vision Pro</title>
-    <link>https://iamjoel.github.io/dialogue/text/v/vision-pro</link>
-    <guid>https://iamjoel.github.io/dialogue/text/v/vision-pro</guid>
-    <description>苹果出的 MR 设备。.</description>
-    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
+    <title>翻译</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/translate</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/translate</guid>
+    <description></description>
+    <pubDate>Mon, 06 Jan 2025 14:35:38 GMT</pubDate>
   </item><item>
-    <title>视觉</title>
-    <link>https://iamjoel.github.io/dialogue/text/v/vision</link>
-    <guid>https://iamjoel.github.io/dialogue/text/v/vision</guid>
-    <description>五彩斑斓 冬天是树叶。 水。 泰国的斯米兰的果冻海。 纯净 天空之镜 形状 印尼巴厘岛的恶魔之泪。被外媒评价为全球最美十大景点之一，整个悬崖从天空俯瞰酷似恶魔的头颅，坑里的海水在阳光照射下，宛如恶魔眼窝中渗出的眼泪。 .</description>
-    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
+    <title>旅行者</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/traveller</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/traveller</guid>
+    <description> 毕业四年没上过一天班，我真的不焦虑吗？ 阿棉 .</description>
+    <pubDate>Mon, 06 Jan 2025 14:35:38 GMT</pubDate>
   </item><item>
-    <title>可视化</title>
-    <link>https://iamjoel.github.io/dialogue/text/v/visualization</link>
-    <guid>https://iamjoel.github.io/dialogue/text/v/visualization</guid>
-    <description> 编程逻辑可视化 .</description>
-    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
+    <title>治疗</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/treatment</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/treatment</guid>
+    <description>心血管指标 心脏CT扫描。冠状动脉是否存在钙化，冠状动脉钙化是晚期动脉粥样硬化的标志。 apoB检测。apoB比简单的LDL-C（标准的“坏胆固醇”指标）更能预测心血管疾病。 LDL-C(低密度胆固醇)。低密度脂蛋含量高，提升风险。 .</description>
+    <pubDate>Mon, 06 Jan 2025 14:35:38 GMT</pubDate>
   </item>
     </channel>
   </rss>
