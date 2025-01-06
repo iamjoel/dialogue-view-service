@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Sun, 05 Jan 2025 14:43:31 GMT</pubDate>
+    <pubDate>Mon, 06 Jan 2025 14:17:31 GMT</pubDate>
   </item><item>
-    <title>个人工作任务管理</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task-management</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task-management</guid>
-    <description>用飞书的多维表格来做个人的每周的任务管理。 表格视图 名称状态优先级链接备注截止日期xxx未开始高xxx进行中中xxx测试中低xxx已完成高xxx其他高 其中: 状态中的其他表示不需要完成的条目，比如：周会，公司迭代看板链接，创新日等。 对应中大型任务，链接一般指向任务文档。 看板视图 用状态做来分组。.</description>
-    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
+    <title>未整理</title>
+    <link>https://iamjoel.github.io/dialogue/text/u/unsort</link>
+    <guid>https://iamjoel.github.io/dialogue/text/u/unsort</guid>
+    <description>关系 亲子关系 构建，愉悦，亲密的亲子关系。 让孩子成为一个独立，快乐的人。 正面管教 娱乐 通用的解决问题的方法 数据分析：AWESOME DATA SCIENCE 宗教是一种信仰的文化，科学是一种怀疑的文化。 ——理查德·费曼(Richard Feynman) .</description>
+    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
   </item><item>
-    <title>任务</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/task</guid>
-    <description> 单个任务的管理。 资源 放这个任务相关的资源的链接。这个可以用飞书的多列来减少占用的垂直空间。类似： 需求设计后端前端其他需求文档设计稿接口文档分支任务分解原型图接口协助 背景 放该任务的背景信息。如存在 xx 问题。达成 xx 目标。 TODO 放一些测试过程中，零碎的要做的。 todo1 todo2 功能 名称模块状态内容模块1未开始模块2进行中模块3阻塞中模块3已完成 测试用例 测试用例模板 接口问题协助.</description>
-    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
+    <title>\@use-gesture</title>
+    <link>https://iamjoel.github.io/dialogue/text/u/use-gesture</link>
+    <guid>https://iamjoel.github.io/dialogue/text/u/use-gesture</guid>
+    <description> move it, zoom it, drag it, scroll it, pinch it 官网。GitHub。 支持 react 和 不用框架的。 能和 React Spring 配合着用。 该项目的作者和 React Spring 是一个作者。 该项目的组织(Poimandres)做了好多牛逼的库: React Spring， zustand，jotai， react-three-fiber 等。.</description>
+    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
   </item><item>
-    <title>测试用例</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/test-case</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/content/work/task/test-case</guid>
-    <description>用飞书的多维表格来维护测试用例。 表格视图 名称功能模块状态步骤预期结果链接备注未开始等原型等设计等前端等后端已完成 其中: 链接放对应 APP 的地址。 备注可以放阻塞点之类的信息。 未通过视图 用一个新的表格视图，筛选未通过的用例。 看板视图 用功能模块来分组。.</description>
-    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
+    <title>用户画像</title>
+    <link>https://iamjoel.github.io/dialogue/text/u/user-portrait</link>
+    <guid>https://iamjoel.github.io/dialogue/text/u/user-portrait</guid>
+    <description>工具 GummySearch .</description>
+    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
   </item><item>
-    <title>SOP</title>
-    <link>https://iamjoel.github.io/dialogue/personal/sop/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/sop/readme</guid>
-    <description>我解决一些问题和做一些任务的最佳路径。 通用 精进: PDCA 生活 保持健康和好状态 每月生活记录模板 保持健康的日常计划 0.0.3 推荐 &amp; 避免 提升社交的效率 人模板 信息管理 主题概览 科学信息模版 拆书 选择产品 工作 提升工作效率 每周任务管理 任务模板 .</description>
-    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
+    <title>用户</title>
+    <link>https://iamjoel.github.io/dialogue/text/u/user</link>
+    <guid>https://iamjoel.github.io/dialogue/text/u/user</guid>
+    <description> 用户画像 .</description>
+    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
   </item><item>
-    <title>科普推荐</title>
-    <link>https://iamjoel.github.io/dialogue/personal/suggestion/popular-science</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/suggestion/popular-science</guid>
-    <description>一些尝试做科普的内容的选题 行星介绍。 某种动物/植物。 Super suggest 星球研究所: 中国地理。《这里是中国》系列，《少年中国地理》系列。 科学声音 汪诘搞的。一些科普作家的矩阵。 《寻秘自然》(球形闪电等)， 未来科技体验馆 果壳网 范科普。 [NASA Science] 科学 哲学 《哲学家们干做了些什么》 有趣的哲学史。 生命科学 历史类 《人体的故事 - 进化，健康和疾病》 生命博弈 《植物的战斗》 植物为了生存的各种做的花活。博弈。汪诘。 《它们的性》 繁殖的博弈。 《生命：非常的世界》 生命运行 《进击的病毒》 《细胞简史》 《凯的解剖学》 《贪婪的多巴胺》 《疯狂的尿酸》 宇宙 地理 地图: Google Earth Pro。 《这里是中国》 到 2024 年，有 3 部。星球研究所 出品。 专注于探索极致宇宙。 《这里是中国 2 》 中国的一些大工程。 铁路，桥梁，隧道，高速，电力，南水北调，西气东输。 BBC科普三部曲 《地球：行星的力量》: 探索地球如何运转，生命如何孕育，逐一介绍塑造地球的四种力量：火山、大气层、海洋与冰川。 《海洋：深水探秘》 《生命：非常的世界》:探索世界每个大陆上的动物和植物为了生存而使用的各种策略，展现了自然界缤纷物种的多样性，以及它们为适应环境而进化出的各种神奇生存本领。 《航拍中国》系列 中央电视台 。视频，书。 《侣行》 系列。 科普优秀作者 汪诘 史钧 《哲学家们干做了些什么》 那作者 《疯狂的多巴胺》，《躁动的无意识》 那作者 《人类简史》那作者 待筛选 《万物简史》现代科学发展史。从宇宙爆炸到人类文明发展。 《科学的历程》 《生命是什么》 薛定谔的。 《生命进化的跃升》 地球最重要的时间事 《摸着自己学人体》 《寄生虫星球》 微信读书科普榜 【获奖名单】第七届“中国科普作家协会优秀科普作品奖”获奖作品名单公布 未来时空的科技前沿 《无用且恶心的人体趣味冷知识》弗朗西斯 古德。写的都是很搞笑的。《鼻屎为什么不能吃》，《狗为什么改不了吃💩》 《奇怪的生物图鉴》里面的图画的很用心。 .</description>
-    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
+    <title>V0</title>
+    <link>https://iamjoel.github.io/dialogue/text/v/v0</link>
+    <guid>https://iamjoel.github.io/dialogue/text/v/v0</guid>
+    <description>根据自然语言生成代码.</description>
+    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
   </item><item>
-    <title>Chrome</title>
-    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/chrome</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/chrome</guid>
-    <description>核心功能 从网上找问题的答案。 信息搜索。 信息浏览。 信息操作。 信息采集。 Chrome 内的信息管理。 具体场景 信息搜索： 搜 Google。 站中搜索。也可以用 Google(site:)。 信息浏览： 打开新闻网站，浏览新闻。 查看邮件。 逛购物网站。 看视频。 玩游戏。 信息操作： 任务管理。查看，添加，删除任务等。 飞书文档。 信息采集： 把有价值的信息采集到自己的知识库。 Chrome 内的信息管理。比如： 暂时不读的加到阅读清单。 常用的加到书签。 当前的一堆标签页做分组管理。 信息浏览 减少信息干扰 干扰信息具体表现解决方法无关内容广告，相关推荐内容拦截，如广告拦截系统不必要的修饰抓人的标题，图片Chrome 阅读模式不喜欢的排版字体大小颜色注入 CSS， JavaScript 突出重点 缺少重点就是根据目标，找数据的最佳呈现方式。比如： 想了解新闻文章对当前的影响，重点是文字内容。 想选购安全可靠的商品，重点是商品的评价，新闻，销量，评价等。 想了解某个概念，重点是概念的定义，解释等。 对于批量看突出重点内容，可以把数据采集下拉，格式化后再展示。 拓展信息 信息不全比如： // table 信息不全具体表现解决方法不熟悉的名词不熟悉领域的名词，如 RAG文字搜索不熟悉的图片对图片上的内容感兴趣图片搜索(Search with Google Len)外语概念的搜索翻译。 沉浸式翻译 工具 油猴，暴力猴，篡改猴这种： 确定的 JS。 https://linux.</description>
-    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
+    <title>向量数据库</title>
+    <link>https://iamjoel.github.io/dialogue/text/v/vector-db</link>
+    <guid>https://iamjoel.github.io/dialogue/text/v/vector-db</guid>
+    <description> Pinecone .</description>
+    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
   </item><item>
-    <title>一加</title>
-    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/one-plus</guid>
-    <description>核心功能 信息检索。 信息浏览。 信息操作。 具体场景 信息检索： 用 Google 搜索。 用 ChatGPT 搜索。 在已知 APP 力检索。 信息浏览： 打开新闻网站，看一篇新闻。 查看邮件。 信息操作： 应用捷径的实现(IOS 的捷径功能)。 自动化 AutoX.js 自动化的需求 自动打开微信收藏的某篇笔记。 打开某些应用前，先挂梯子。 .</description>
-    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
+    <title>Vision Pro</title>
+    <link>https://iamjoel.github.io/dialogue/text/v/vision-pro</link>
+    <guid>https://iamjoel.github.io/dialogue/text/v/vision-pro</guid>
+    <description>苹果出的 MR 设备。.</description>
+    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
   </item><item>
-    <title>从不同角度看问题</title>
-    <link>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/content/think-in-different-angles</guid>
-    <description>六顶思考帽 六顶思考帽（Six Thinking Hats）是由爱德华·德·博诺（Edward de Bono）提出的一种思考方法,旨在从不同角度审视问题。这六顶帽子分别代表: 白色思考帽:客观事实与数据。着重于收集与问题相关的客观事实和数据,不掺杂个人观点。 红色思考帽:情感和直觉。表达对问题的直观感受,不需要任何理由或依据。 黑色思考帽:谨慎和批判。对问题持怀疑和谨慎态度,找出方案中存在的危险和缺陷。 黄色思考帽:乐观和积极。从积极的角度看问题,寻找方案的优点和价值。 绿色思考帽:创意和变通。打破常规思维方式,提出创新的想法和解决方案。 蓝色思考帽:控制和管理。协调其他五种思考模式,把控讨论的方向和节奏。.</description>
-    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
+    <title>视觉</title>
+    <link>https://iamjoel.github.io/dialogue/text/v/vision</link>
+    <guid>https://iamjoel.github.io/dialogue/text/v/vision</guid>
+    <description>五彩斑斓 冬天是树叶。 水。 泰国的斯米兰的果冻海。 纯净 天空之镜 形状 印尼巴厘岛的恶魔之泪。被外媒评价为全球最美十大景点之一，整个悬崖从天空俯瞰酷似恶魔的头颅，坑里的海水在阳光照射下，宛如恶魔眼窝中渗出的眼泪。 .</description>
+    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
   </item><item>
-    <title>我的工具包</title>
-    <link>https://iamjoel.github.io/dialogue/personal/toolbox/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/toolbox/readme</guid>
-    <description>工具包理想状态 遇到问题时，快速的找到工具。 工具之上的工具。类似工具之上的插件。比如 Chrome 的插件。更进一步的是，针对页面级别的工具。 最小化依赖的工具 Mac，一加手机 Chrome VSCode 微信 微信读书 飞书 筛选标准 生活中，可靠的最小的依赖。 最小化。 可靠。不容易蹦。 生态。配置性强，可隐藏信息。支持自动化。可拓展。减少干扰，突出重点。 信息的检索，筛选。 Chrome。 自动化。 .</description>
-    <pubDate>Sun, 05 Jan 2025 14:43:17 GMT</pubDate>
+    <title>可视化</title>
+    <link>https://iamjoel.github.io/dialogue/text/v/visualization</link>
+    <guid>https://iamjoel.github.io/dialogue/text/v/visualization</guid>
+    <description> 编程逻辑可视化 .</description>
+    <pubDate>Mon, 06 Jan 2025 14:17:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
