@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Mon, 06 Jan 2025 14:45:18 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 02:37:05 GMT</pubDate>
   </item><item>
     <title>《疯狂动物城》</title>
     <link>https://iamjoel.github.io/dialogue/text/z/zootopia</link>
     <guid>https://iamjoel.github.io/dialogue/text/z/zootopia</guid>
     <description> Where anyone can be anything. 在动物城，每个动物都有无限可能。 兔子朱迪，通过努力，成为了第一只兔子警官。 可以在上海的迪士尼体验。.</description>
-    <pubDate>Mon, 06 Jan 2025 14:45:05 GMT</pubDate>
-  </item><item>
-    <title>经济情况</title>
-    <link>https://iamjoel.github.io/dialogue/text/s/situation</link>
-    <guid>https://iamjoel.github.io/dialogue/text/s/situation</guid>
-    <description>生产端：PMI, 其他信心指数，股市，GDP，用电量。 消费端：CPI.</description>
-    <pubDate>Mon, 06 Jan 2025 14:45:05 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
   </item><item>
     <title>小品</title>
     <link>https://iamjoel.github.io/dialogue/text/s/sketch</link>
     <guid>https://iamjoel.github.io/dialogue/text/s/sketch</guid>
     <description>某某某 的 《饭局往事》很赞。 讲的是三兄弟分家产的故事。遇到了很多分歧。分歧不在于分家产，而在于追的偶像的不同。 三兄弟都是养子，一个台湾腔，一个香港腔，一个东北腔。方言演绎的很真。 中间的配舞很带感。 .</description>
-    <pubDate>Mon, 06 Jan 2025 14:45:05 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
   </item><item>
     <title>能力</title>
     <link>https://iamjoel.github.io/dialogue/text/s/skill</link>
     <guid>https://iamjoel.github.io/dialogue/text/s/skill</guid>
     <description>AI(指 LLM) 的主要的能力是 NLP 和 推理能力.</description>
-    <pubDate>Mon, 06 Jan 2025 14:45:05 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
   </item><item>
     <title>慢充</title>
     <link>https://iamjoel.github.io/dialogue/text/s/slow-rechange</link>
     <guid>https://iamjoel.github.io/dialogue/text/s/slow-rechange</guid>
     <description>冲话费(点卡，会员)之类支持在线支付的快销虚拟(不需要填)产品的慢充，本质一种洗钱。 用户慢充（比如原价50，只需40。拼多多上有92折的慢充），慢充平台挂出需求（如30元出售用户的需求，赚 10 元），黑产平台买入，黑产用户充值是充话费。 =&gt; 从外面看黑产在做的是充话费的业务：入 30，充了 50 的话费。 使用慢充有风险：有可能会涉及洗黑线。.</description>
-    <pubDate>Mon, 06 Jan 2025 14:45:05 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
   </item><item>
     <title>代码片段</title>
     <link>https://iamjoel.github.io/dialogue/text/s/snippents</link>
     <guid>https://iamjoel.github.io/dialogue/text/s/snippents</guid>
     <description> UI 组件 .</description>
-    <pubDate>Mon, 06 Jan 2025 14:45:05 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
   </item><item>
     <title>软件工程</title>
     <link>https://iamjoel.github.io/dialogue/text/s/soft-engineering</link>
     <guid>https://iamjoel.github.io/dialogue/text/s/soft-engineering</guid>
     <description> 代码复杂度 解耦 单一职责 命令式和声明式 组合 和 继承 .</description>
-    <pubDate>Mon, 06 Jan 2025 14:45:05 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
   </item><item>
     <title>服务</title>
     <link>https://iamjoel.github.io/dialogue/text/s/solution</link>
     <guid>https://iamjoel.github.io/dialogue/text/s/solution</guid>
     <description>服务包括: RAG 选择工具 .</description>
-    <pubDate>Mon, 06 Jan 2025 14:45:05 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
   </item><item>
     <title>解决问题</title>
     <link>https://iamjoel.github.io/dialogue/text/s/solve-problem</link>
     <guid>https://iamjoel.github.io/dialogue/text/s/solve-problem</guid>
     <description>做的任何的事，本质都是在解决问题？.</description>
-    <pubDate>Mon, 06 Jan 2025 14:45:05 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
+  </item><item>
+    <title>歌</title>
+    <link>https://iamjoel.github.io/dialogue/text/s/song</link>
+    <guid>https://iamjoel.github.io/dialogue/text/s/song</guid>
+    <description>感伤 风筝 一生所爱 我们都是好孩子 .</description>
+    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
   </item>
     </channel>
   </rss>
