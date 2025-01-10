@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Thu, 09 Jan 2025 02:37:05 GMT</pubDate>
+    <pubDate>Fri, 10 Jan 2025 10:14:23 GMT</pubDate>
   </item><item>
-    <title>《疯狂动物城》</title>
-    <link>https://iamjoel.github.io/dialogue/text/z/zootopia</link>
-    <guid>https://iamjoel.github.io/dialogue/text/z/zootopia</guid>
-    <description> Where anyone can be anything. 在动物城，每个动物都有无限可能。 兔子朱迪，通过努力，成为了第一只兔子警官。 可以在上海的迪士尼体验。.</description>
-    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
+    <title>三脑模型</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/triune-brain</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/triune-brain</guid>
+    <description>三重脑假说(Triune brain)是一个由美国医生、神经科学家保罗·D·麦克莱恩所提出，用以描述脊椎动物前脑与行为的演化过程的模型。 本能脑(爬虫脑复合区) 本能脑负责物种的典型本能行为。例如，调节心跳、呼吸、血压、血液循环、消化以及战斗或逃跑反应。 现代爬行动物和鸟类也具有这部分脑。人类的这部分脑位于脑干中。 它对我们的生存至关重要，不需要我们思考或感知就能运作。 情绪脑(古哺乳动物脑) 情绪脑产生觅食、生殖与育幼行为的动机与情绪。能产生饥饿、疼痛、困倦、愤怒、恐惧与快乐等。情绪脑的反应也是自动的，而且经常是本能反应。 情绪脑由中膈、杏仁核、下丘脑与海马回组成。这部分也被称为边缘系统。 杏仁核是威胁—响应和威胁—解释系统的控制中心。当动物的杏仁核被故意破坏时，这些动物就丧失了攻击行为，同时也丧失了对恐惧做出正常反应的能力，它们变得无所畏惧。杏仁核功能异常可能与抑郁症、创伤后应激障碍、恐惧症、焦虑症和冲动行为等有关。 海马体是主要的记忆中枢：这些大脑结构在情绪事件发生后被激活，并在记忆巩固的过程中相互“交谈”​。由海马体决定短期记忆会被变成长期记忆(存在大脑中)。 情绪脑与多巴胺和内啡肽的释放有关。它影响着习惯的养成和成瘾。 新皮质(新哺乳动物脑) 新皮质的这部分赋予了我们高度的推理能力——进行分析性和逻辑性思考、解决问题、规划未来以及抽象思考的能力。这是大脑中进化程度最高的部分，它调节并努力控制更古老、更原始大脑的冲动。 新皮质组成，这种结构只在高等哺乳类动物，特别是人类身上出现。 前额叶皮质是新皮质的关键组成部分，其复杂性是人类所独有的。它约占大脑总体积的10%，而且正如我们前面提到的，它约占据整个新皮质的1/3。就像首席执行官指挥着众多员工进行业务操作一样，在他的监督下，前额叶皮质努力为传入的信息寻找最佳的可能反应。它使我们能够深思熟虑，而不是立即对情况做出反应，与易做出反应的杏仁核的功能正好相反。 杏仁核和前额叶皮质一直处于交流之中​。这两个区域之间的连接影响着我们的行为以及我们调节冲动和情绪的能力。当交流活动过于失衡，杏仁核的原始反应不受控制地占据主导地位时，麻烦就会出现。例如，科学家们发现焦虑跟杏仁核和前额叶皮质之间的连接微弱有关。没有前额叶皮质的监督，就像房间里没有大人，情绪不成熟的孩子会恣意妄为，无视规则、纪律和边界。.</description>
+    <pubDate>Fri, 10 Jan 2025 10:14:08 GMT</pubDate>
   </item><item>
-    <title>小品</title>
-    <link>https://iamjoel.github.io/dialogue/text/s/sketch</link>
-    <guid>https://iamjoel.github.io/dialogue/text/s/sketch</guid>
-    <description>某某某 的 《饭局往事》很赞。 讲的是三兄弟分家产的故事。遇到了很多分歧。分歧不在于分家产，而在于追的偶像的不同。 三兄弟都是养子，一个台湾腔，一个香港腔，一个东北腔。方言演绎的很真。 中间的配舞很带感。 .</description>
-    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
+    <title>《创：战纪》</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/tron-legacy</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/tron-legacy</guid>
+    <description>人进入电子世界。电子世界很用科技感，视觉冲击很强。.</description>
+    <pubDate>Fri, 10 Jan 2025 10:14:08 GMT</pubDate>
   </item><item>
-    <title>能力</title>
-    <link>https://iamjoel.github.io/dialogue/text/s/skill</link>
-    <guid>https://iamjoel.github.io/dialogue/text/s/skill</guid>
-    <description>AI(指 LLM) 的主要的能力是 NLP 和 推理能力.</description>
-    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
+    <title>信任</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/trust</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/trust</guid>
+    <description>因为熟悉 + 和自己利益一致，所以信任。.</description>
+    <pubDate>Fri, 10 Jan 2025 10:14:08 GMT</pubDate>
   </item><item>
-    <title>慢充</title>
-    <link>https://iamjoel.github.io/dialogue/text/s/slow-rechange</link>
-    <guid>https://iamjoel.github.io/dialogue/text/s/slow-rechange</guid>
-    <description>冲话费(点卡，会员)之类支持在线支付的快销虚拟(不需要填)产品的慢充，本质一种洗钱。 用户慢充（比如原价50，只需40。拼多多上有92折的慢充），慢充平台挂出需求（如30元出售用户的需求，赚 10 元），黑产平台买入，黑产用户充值是充话费。 =&gt; 从外面看黑产在做的是充话费的业务：入 30，充了 50 的话费。 使用慢充有风险：有可能会涉及洗黑线。.</description>
-    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
+    <title>Text to Speech</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/tts</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/tts</guid>
+    <description>开源 GPT-SoVITS-WebUI .</description>
+    <pubDate>Fri, 10 Jan 2025 10:14:08 GMT</pubDate>
   </item><item>
-    <title>代码片段</title>
-    <link>https://iamjoel.github.io/dialogue/text/s/snippents</link>
-    <guid>https://iamjoel.github.io/dialogue/text/s/snippents</guid>
-    <description> UI 组件 .</description>
-    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
+    <title>TutorAI</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/tutorai</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/tutorai</guid>
+    <description>官网 Learn anything。 输入任何内容，都会生成课程大纲以及对应的每个内容。每个课程有：文字，例子，测试和提问。.</description>
+    <pubDate>Fri, 10 Jan 2025 10:14:08 GMT</pubDate>
   </item><item>
-    <title>软件工程</title>
-    <link>https://iamjoel.github.io/dialogue/text/s/soft-engineering</link>
-    <guid>https://iamjoel.github.io/dialogue/text/s/soft-engineering</guid>
-    <description> 代码复杂度 解耦 单一职责 命令式和声明式 组合 和 继承 .</description>
-    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
+    <title>twenty</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/twenty</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/twenty</guid>
+    <description> Tailored to your unique business needs 基础信息 GitHub The #1 Open-Source CRM .</description>
+    <pubDate>Fri, 10 Jan 2025 10:14:08 GMT</pubDate>
   </item><item>
-    <title>服务</title>
-    <link>https://iamjoel.github.io/dialogue/text/s/solution</link>
-    <guid>https://iamjoel.github.io/dialogue/text/s/solution</guid>
-    <description>服务包括: RAG 选择工具 .</description>
-    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
+    <title>两行写在泥土上的字</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/two-sentences-on-the-soil</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/two-sentences-on-the-soil</guid>
+    <description>作者：季羡林 内容 描写雷阵雨之后的情景 夜里有雷阵雨，转瞬即停。“薄云疏雨不成泥“，门外荷塘岸边，绿草坪畔，没有积水，也没有成泥，土地只是湿漉漉的。一切同平常一样，没有什么特异之处。 .</description>
+    <pubDate>Fri, 10 Jan 2025 10:14:08 GMT</pubDate>
   </item><item>
-    <title>解决问题</title>
-    <link>https://iamjoel.github.io/dialogue/text/s/solve-problem</link>
-    <guid>https://iamjoel.github.io/dialogue/text/s/solve-problem</guid>
-    <description>做的任何的事，本质都是在解决问题？.</description>
-    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
+    <title>Typebot</title>
+    <link>https://iamjoel.github.io/dialogue/text/t/typebot</link>
+    <guid>https://iamjoel.github.io/dialogue/text/t/typebot</guid>
+    <description>官网 Github 按客服的需求做客服。比如， 收集在聊天中的用户输入的表单信息(用户可能需要填功能)。 和常见的软件数据的打通，如 Zapier， Google Sheet。甚至还包括 GA(Google Analysis)。 该 APP 也支持 LLM 的节点(OPENAI，Dify 等)。 LLM 的客服往往没有这些功能。LLM 的客服功能只是输入，输出和支持聊天记录(Memory)s。.</description>
+    <pubDate>Fri, 10 Jan 2025 10:14:08 GMT</pubDate>
   </item><item>
-    <title>歌</title>
-    <link>https://iamjoel.github.io/dialogue/text/s/song</link>
-    <guid>https://iamjoel.github.io/dialogue/text/s/song</guid>
-    <description>感伤 风筝 一生所爱 我们都是好孩子 .</description>
-    <pubDate>Thu, 09 Jan 2025 02:36:50 GMT</pubDate>
+    <title>UI 组件</title>
+    <link>https://iamjoel.github.io/dialogue/text/u/ui</link>
+    <guid>https://iamjoel.github.io/dialogue/text/u/ui</guid>
+    <description> UIVerse ui .</description>
+    <pubDate>Fri, 10 Jan 2025 10:14:08 GMT</pubDate>
   </item>
     </channel>
   </rss>
