@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Sat, 11 Jan 2025 17:34:10 GMT</pubDate>
+    <pubDate>Tue, 14 Jan 2025 08:45:16 GMT</pubDate>
   </item><item>
     <title>Zapier</title>
     <link>https://iamjoel.github.io/dialogue/text/z/zapier</link>
     <guid>https://iamjoel.github.io/dialogue/text/z/zapier</guid>
     <description>官网.</description>
-    <pubDate>Sat, 11 Jan 2025 17:33:54 GMT</pubDate>
+    <pubDate>Tue, 14 Jan 2025 08:45:02 GMT</pubDate>
   </item><item>
     <title>禅修</title>
     <link>https://iamjoel.github.io/dialogue/text/z/zen-meditation</link>
     <guid>https://iamjoel.github.io/dialogue/text/z/zen-meditation</guid>
     <description> 庐山 - 诺那塔院 .</description>
-    <pubDate>Sat, 11 Jan 2025 17:33:54 GMT</pubDate>
+    <pubDate>Tue, 14 Jan 2025 08:45:02 GMT</pubDate>
   </item><item>
     <title>卢曼卡片盒笔记法</title>
     <link>https://iamjoel.github.io/dialogue/text/z/zettelkasten-method</link>
     <guid>https://iamjoel.github.io/dialogue/text/z/zettelkasten-method</guid>
     <description>英文名：Zettelkasten Method 卡片盒笔记系统就是由想法组成的想法之网(web of thought) 把单个想法作为基本单位。为了连接想法，要给每个想法分配一个地址以供引用。 包含内容 原子化 笔记组成 记录什么 .</description>
-    <pubDate>Sat, 11 Jan 2025 17:33:54 GMT</pubDate>
+    <pubDate>Tue, 14 Jan 2025 08:45:02 GMT</pubDate>
   </item><item>
     <title>《疯狂动物城》</title>
     <link>https://iamjoel.github.io/dialogue/text/z/zootopia</link>
     <guid>https://iamjoel.github.io/dialogue/text/z/zootopia</guid>
     <description> Where anyone can be anything. 在动物城，每个动物都有无限可能。 兔子朱迪，通过努力，成为了第一只兔子警官。 可以在上海的迪士尼体验。.</description>
-    <pubDate>Sat, 11 Jan 2025 17:33:54 GMT</pubDate>
+    <pubDate>Tue, 14 Jan 2025 08:45:02 GMT</pubDate>
+  </item><item>
+    <title>向量数据库</title>
+    <link>https://iamjoel.github.io/dialogue/text/v/vector-db</link>
+    <guid>https://iamjoel.github.io/dialogue/text/v/vector-db</guid>
+    <description> Pinecone .</description>
+    <pubDate>Tue, 14 Jan 2025 08:45:02 GMT</pubDate>
   </item><item>
     <title>Vision Pro</title>
     <link>https://iamjoel.github.io/dialogue/text/v/vision-pro</link>
     <guid>https://iamjoel.github.io/dialogue/text/v/vision-pro</guid>
     <description>苹果出的 MR 设备。.</description>
-    <pubDate>Sat, 11 Jan 2025 17:33:54 GMT</pubDate>
+    <pubDate>Tue, 14 Jan 2025 08:45:02 GMT</pubDate>
   </item><item>
     <title>视觉</title>
     <link>https://iamjoel.github.io/dialogue/text/v/vision</link>
     <guid>https://iamjoel.github.io/dialogue/text/v/vision</guid>
     <description>五彩斑斓 冬天是树叶。 水。 泰国的斯米兰的果冻海。 纯净 天空之镜 形状 印尼巴厘岛的恶魔之泪。被外媒评价为全球最美十大景点之一，整个悬崖从天空俯瞰酷似恶魔的头颅，坑里的海水在阳光照射下，宛如恶魔眼窝中渗出的眼泪。 .</description>
-    <pubDate>Sat, 11 Jan 2025 17:33:54 GMT</pubDate>
+    <pubDate>Tue, 14 Jan 2025 08:45:02 GMT</pubDate>
   </item><item>
     <title>可视化</title>
     <link>https://iamjoel.github.io/dialogue/text/v/visualization</link>
     <guid>https://iamjoel.github.io/dialogue/text/v/visualization</guid>
     <description> 编程逻辑可视化 .</description>
-    <pubDate>Sat, 11 Jan 2025 17:33:54 GMT</pubDate>
+    <pubDate>Tue, 14 Jan 2025 08:45:02 GMT</pubDate>
   </item><item>
     <title>VR 相关的</title>
     <link>https://iamjoel.github.io/dialogue/text/v/vr-related</link>
     <guid>https://iamjoel.github.io/dialogue/text/v/vr-related</guid>
     <description>VR 设备 Pico Vision Pro 其他 万向跑步机: 解决在 VR 中，空间有限，但人需要移动的问题。 HoloTile .</description>
-    <pubDate>Sat, 11 Jan 2025 17:33:54 GMT</pubDate>
-  </item><item>
-    <title>VS Code 插件</title>
-    <link>https://iamjoel.github.io/dialogue/text/v/vs-code-plugins</link>
-    <guid>https://iamjoel.github.io/dialogue/text/v/vs-code-plugins</guid>
-    <description> 类型插件名称功能快速导航favorites，Bookmarks给文件和文件夹加书签。Row 2 Col 1Row 2 Col 2Row 2 Col 3Row 3 Col 1Row 3 Col 2Row 3 Col 3 明细 favorites 和 Bookmarks 的比较 名称特性是否支持.</description>
-    <pubDate>Sat, 11 Jan 2025 17:33:54 GMT</pubDate>
+    <pubDate>Tue, 14 Jan 2025 08:45:02 GMT</pubDate>
   </item>
     </channel>
   </rss>
