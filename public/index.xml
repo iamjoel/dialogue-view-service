@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Tue, 04 Feb 2025 04:52:50 GMT</pubDate>
+    <pubDate>Wed, 05 Feb 2025 05:02:50 GMT</pubDate>
   </item><item>
-    <title>解决问题的方法</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/what's-the-way-to-solve-problem</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/what's-the-way-to-solve-problem</guid>
-    <description> 科学方法 .</description>
-    <pubDate>Tue, 04 Feb 2025 04:52:36 GMT</pubDate>
+    <title>俞军产品方法论</title>
+    <link>https://iamjoel.github.io/dialogue/text/y/yujun</link>
+    <guid>https://iamjoel.github.io/dialogue/text/y/yujun</guid>
+    <description>关于决策 理性决策 理性决策是通过科学方法做出的相对高确定性的决策，而非基于感觉的决策。 基于数据决策 使用范围 问题在于： 数据可能不够 如何解读 .</description>
+    <pubDate>Wed, 05 Feb 2025 05:02:37 GMT</pubDate>
   </item><item>
-    <title>《哲学家们都干了些什么？》</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/what-did-philosophers-do</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/what-did-philosophers-do</guid>
-    <description> 人为什么活着？人生的意义是什么？宇宙的本质是什么？ 我们这本书，就要把“追问人生意义”当作最大的目标。 基础信息 作者：林欣浩 出版社：北京日报 出版社出版时间：2022-02-01 ISBN：9787547742181 品牌方：读客文化股份有限公司 上篇： 理性的崛起 苏格拉底好讨厌 苏格拉底的人生： 他喜欢问别人问题，然后被判了死刑。 问别人问题： 苏格拉底一辈子做得最多的事就是问问题。当然，他不是像一般人那样提问。他专挑别人的漏洞，每次都能把对方问得头昏脑胀。 苏格拉底这个当时全雅典最智慧的人，却认为自己最无知，他觉得真理的答案不能光靠自己想，必须到处找人问。 苏格拉底的母亲是助产士，他自称为思想的“助产士”。 处死刑： 苏格拉底是被雅典的陪审团判处死刑的。陪审团的成员除了性别必须是男性以外，其余条件和美国今天的陪审团一样，是由普通老百姓抽签组成的，不论职业，不论学历，不论官阶，只要是成年的雅典公民就行。 该陪审团有 500 人。判苏格拉底死刑，360票比140票。 雅典人以哲学为荣。 雅典人认为哲学长面子。贵而无用就叫奢侈。而哲学这玩意儿超级无用。所以那个时代的人们一听说你是学哲学的，都狂羡慕。人家想：这人家里得多富裕才敢往哲学身上糟践钱啊。 柏拉图：拯救哲学的少年国王 哲学的发展常处于消亡的境地。.</description>
-    <pubDate>Tue, 04 Feb 2025 04:52:36 GMT</pubDate>
+    <title>Zapier</title>
+    <link>https://iamjoel.github.io/dialogue/text/z/zapier</link>
+    <guid>https://iamjoel.github.io/dialogue/text/z/zapier</guid>
+    <description>官网.</description>
+    <pubDate>Wed, 05 Feb 2025 05:02:37 GMT</pubDate>
   </item><item>
-    <title>什么是好文章</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/what-is-good-article</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/what-is-good-article</guid>
-    <description>好文章是目标读者觉得好的文章 读者有不同的知识背景，不同的价值观和偏好。因此，不存在一篇文章让所有读者的都觉得好。 我觉得的好文章 1 有信息量 通过读，能获得新的信息。信息要有细节。一些前因后果要说清楚。不是那种假大空的内容。例子： 没有细节: 我在饭田桥的“小丸子”吃了碗拉面，很好吃。 有细节: 我在饭田桥的“小丸子”吃到了极品豚骨汤面。汤底是炖了3天的猪骨浓汤，配菜是汆烫得恰到好处的豆芽菜，吃起来脆嫩爽口。桌子上放有店家推荐的柚子胡椒，只需撒上一点点，柚子那清新的酸味便会让你眼前一亮。 《九宫格写作法 如何写出一篇好文章》 2 内容是可信的 描述的内容要么符合事实，要么是在事实基础上通过逻辑判断而来。 3 读着是舒服的。 文章的结构让人动力读下去。通过好奇心也好，其他技巧也好。 主次分明。有重点。 语句的通顺。 .</description>
-    <pubDate>Tue, 04 Feb 2025 04:52:36 GMT</pubDate>
+    <title>禅修</title>
+    <link>https://iamjoel.github.io/dialogue/text/z/zen-meditation</link>
+    <guid>https://iamjoel.github.io/dialogue/text/z/zen-meditation</guid>
+    <description> 庐山 - 诺那塔院 .</description>
+    <pubDate>Wed, 05 Feb 2025 05:02:37 GMT</pubDate>
   </item><item>
-    <title>《你想活出怎样的人生》</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/what-life-do-you-like</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/what-life-do-you-like</guid>
-    <description>2023年7月14日在日本上映。中国内地于2024年4月3日上映。可能是最后一部宫崎骏的电影了。宫崎骏 83 岁了。 内容 讲述了少年牧真人的母亲葬身火海后，他随父亲与继母组成新家庭。深陷悲伤的真人阴郁孤僻，难以融入新环境。一次意外，他跟随一只会说话的苍鹭闯入废弃的神秘塔楼，却不料进入了奇幻的“亡灵世界”（异世界），开始了一场不可思议的冒险故事。 有很多隐喻。 继母是母亲的亲妹妹。 母亲在异世界是火美。在异世界不怕火，现实中却死于火灾。 太舅公创造出了异世界。和巨石签订协议，明治维新。希望真人成为继承人。 异世界中的岛隐喻日本。 鹈鹕隐喻士兵？ 吃 哇啦哇啦 也是因为海里鱼不够，是不得已。部分士兵也是被裹挟在战争里。军国主义：膨胀的欲望，以及恐惧？ 吉野源三郎发表《你想活出怎样的人生》的1930年代，日本军国主义势力正在抬头，吉野源三郎或许已经感知到社会的异常与疯狂，预感到战争即将爆发。他无法阻挡战争趋势，但选择写下这本书，试图把“人”之所以为“人”的价值传递给年轻一代。第二次世界大战也正是电影《你想活出怎样的人生》的故事背景 苍鹭的原型是铃木敏夫，“塔楼主人”舅公象征着在宫崎骏动画生涯中的“人生导师”高畑勋，飒爽的雾子象征着与宫崎骏合作多年的色彩设计师保田道世。 .</description>
-    <pubDate>Tue, 04 Feb 2025 04:52:36 GMT</pubDate>
+    <title>卢曼卡片盒笔记法</title>
+    <link>https://iamjoel.github.io/dialogue/text/z/zettelkasten-method</link>
+    <guid>https://iamjoel.github.io/dialogue/text/z/zettelkasten-method</guid>
+    <description>英文名：Zettelkasten Method 卡片盒笔记系统就是由想法组成的想法之网(web of thought) 把单个想法作为基本单位。为了连接想法，要给每个想法分配一个地址以供引用。 包含内容 原子化 笔记组成 记录什么 .</description>
+    <pubDate>Wed, 05 Feb 2025 05:02:37 GMT</pubDate>
   </item><item>
-    <title>记录什么</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/what-to-record</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/what-to-record</guid>
-    <description> 我建议输入知识而非信息(Knowledge instead of information)。 思考一下，我们要用写下的东西来做什么？当然，开始时我们做的笔记大部分都是垃圾。但是，我们所受的教育期望我们从所做的事情中得到一些有用的东西，如果没有任何有用的结果，我们很快就会失去信心。我们应该反思，是否对笔记进行了管理，以及如何有效的管理这些笔记，以便未来可以查阅。 知识是对信息进行处理并从中有所收获。.</description>
-    <pubDate>Tue, 04 Feb 2025 04:52:36 GMT</pubDate>
+    <title>《疯狂动物城》</title>
+    <link>https://iamjoel.github.io/dialogue/text/z/zootopia</link>
+    <guid>https://iamjoel.github.io/dialogue/text/z/zootopia</guid>
+    <description> Where anyone can be anything. 在动物城，每个动物都有无限可能。 兔子朱迪，通过努力，成为了第一只兔子警官。 可以在上海的迪士尼体验。.</description>
+    <pubDate>Wed, 05 Feb 2025 05:02:37 GMT</pubDate>
   </item><item>
-    <title>《鱼不存在》</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/why-fish-don't-exixt</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/why-fish-don't-exixt</guid>
-    <description> “放弃鱼类之后， 我看到了世界的本质，一个拥有无限可能的地方。” 混乱才是世界的主宰。 每当能量转移或转化时，熵或系统中无序的数量就会增加。- 热力学第二定律 我们是一颗微粒上的一颗微粒上的一颗微粒。 - 天文学家尼尔·德格拉斯·泰森 “由此观之，生命何等壮丽恢宏” - 达尔文 《鱼不存在》 是传记、回忆录和科学冒险的奇妙结合，也是一则温暖人心的寓言，讲述了如何在一个混乱永远盛行的世界里坚持下去。 乐观之盾 正面 如果撒谎能够战胜恐惧，并且不会导致后续的不良行为，我不觉得这么做有什么问题。 许多研究结果显示，极端的否认和妄想是不良行为。而那些无伤大雅的谎言，没有恶意的谎言，宛如玫瑰花蕾般的谎言呢？它们能带来很多好处。面对一个正在痛苦挣扎的人，如果我们能引导她用更乐观的方式描述自己，让她相信真实的自己更为强壮、更为善良，而分手可能不完全是她自己的错，那么她的生活将会发生深刻的变化。 什么样的认知偏差能让你获得坚毅的特质呢？积极错觉。其他研究显示，如果你拥有积极错觉，那么你在遭遇挫折后就不太容易感到沮丧。 负面 一个过分自信、自吹自擂的人最终只会被他人疏远。这些过分自信的人可能没有意识到，他们失去了在社区里树立良好口碑所能获得的便利。可能没几个人愿意借给他们自家的耙地工具，没什么人愿意邀请他们带菜到自己家来聚会，也很少有人愿意为他们介绍工作。 总之 控制好度。 感想 跳出规则 人总是去试图定义强弱，好坏。特别是强者，他们在制定规则，规定等级。追随者们在等级的阶梯上攀登。 有些人不擅长那些规则，比如上好的学校，找赚钱的工作。然后他们会抑郁，不自信。 有些人擅长那些规则。但是攀登到山顶之后呢？而且攀登往往没有止境。 谁制定的规则，最终总是对了规则制定者有利的。 跳出规则。在保证能生存的情况下，选择性很多。 接受混乱/变化 混乱/变化是常态，接受它，而不是总是试图改变它。.</description>
-    <pubDate>Tue, 04 Feb 2025 04:52:36 GMT</pubDate>
+    <title>Vue</title>
+    <link>https://iamjoel.github.io/dialogue/text/v/vue</link>
+    <guid>https://iamjoel.github.io/dialogue/text/v/vue</guid>
+    <description>#TODO.</description>
+    <pubDate>Wed, 05 Feb 2025 05:02:37 GMT</pubDate>
   </item><item>
-    <title>人为什么容易有消极情绪？</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/why-tend-to-have-nagative-mood</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/why-tend-to-have-nagative-mood</guid>
-    <description>人容易有消极情绪，感到痛苦。比如： 对负面信息的敏感度，容易感到威胁。 更容易记住消极的事，痛苦的经历。 容易处于紧张状态，感受压力。 原因是过去的人生存的环境往往很危险。这些消极的情绪是有利于生存的。 但现在，生存环境安全了很多。时常处于消极情绪中容易让身体处于炎症中，久而久之，会带来一堆健康问题。常常保持消极的成本大于其收益。 那如何可以减少消极情绪呢？需要靠大脑的主动控制。告诉大脑，现在是安全的，减少对当前环境的过度反应(消极解读)。提升大脑的控制力可以靠正念，冥想。.</description>
-    <pubDate>Tue, 04 Feb 2025 04:52:36 GMT</pubDate>
+    <title>王慧文清华产品课</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/wanghuiwen</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/wanghuiwen</guid>
+    <description></description>
+    <pubDate>Wed, 05 Feb 2025 05:02:37 GMT</pubDate>
   </item><item>
-    <title>Wikilinks</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/wikilinks</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/wikilinks</guid>
-    <description>Wikilinks(维基链接)是由早期的互联网维基率先推出的，它使跨页面编写链接变得更加容易，而无需每次都编写 Markdown 或 HTML 链接。 语法 链接指向 [[Path to file]] ：生成指向 Path to file.md （或 Path-to-file.md ）的链接，其中包含文本 Path to file [[Path to file | Here&#039;s the title override]] ：生成一个带有文本 Here’s the title override 的链接 Path to file.</description>
-    <pubDate>Tue, 04 Feb 2025 04:52:36 GMT</pubDate>
+    <title>想要知道的列表</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/want-to-know-list</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/want-to-know-list</guid>
+    <description>为什么一定要知道。 纯粹的好奇心 想知道的这些，哪些是因为焦虑呢？ 焦虑的原因： 别人/圈子里的人知道，我不知道 .</description>
+    <pubDate>Wed, 05 Feb 2025 05:02:37 GMT</pubDate>
   </item><item>
-    <title>冬天</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/winter</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/winter</guid>
-    <description> 哈尔滨，冰雪大世界。 大兴安岭。 温泉，三温暖。 .</description>
-    <pubDate>Tue, 04 Feb 2025 04:52:36 GMT</pubDate>
+    <title>《我们都是好孩子》</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/we-are-all-good-children</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/we-are-all-good-children</guid>
+    <description>描述了孩童时代的无忧无虑, 很真.</description>
+    <pubDate>Wed, 05 Feb 2025 05:02:37 GMT</pubDate>
   </item>
     </channel>
   </rss>
