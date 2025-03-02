@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Thu, 27 Feb 2025 15:32:38 GMT</pubDate>
+    <pubDate>Sun, 02 Mar 2025 08:58:56 GMT</pubDate>
   </item><item>
-    <title>Zapier</title>
-    <link>https://iamjoel.github.io/dialogue/text/z/zapier</link>
-    <guid>https://iamjoel.github.io/dialogue/text/z/zapier</guid>
-    <description>官网.</description>
-    <pubDate>Thu, 27 Feb 2025 15:32:25 GMT</pubDate>
+    <title>WorkOS</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/workos</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/workos</guid>
+    <description>官网 Your app,Enterprise Ready. Start selling to enterprise customers with just a few lines of code. Implement features like single sign-on in minutes instead of months.</description>
+    <pubDate>Sun, 02 Mar 2025 08:58:42 GMT</pubDate>
   </item><item>
-    <title>禅修</title>
-    <link>https://iamjoel.github.io/dialogue/text/z/zen-meditation</link>
-    <guid>https://iamjoel.github.io/dialogue/text/z/zen-meditation</guid>
-    <description> 庐山 - 诺那塔院 .</description>
-    <pubDate>Thu, 27 Feb 2025 15:32:25 GMT</pubDate>
+    <title>Writer</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writer</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writer</guid>
+    <description> Transform work with full-stack generative AI Writer 基于 LLM 的 2B 的企业营销内容创作平台。 2020 年成立。 其收入在过去两年翻了 10 倍，收入规模超过 2,000 万美金，且 NDR 超过 150%。 自研了LLM： Palmyra。在获得商业授权的 1 万亿 tokens 的数据集上进行训练，并针对医疗保健、营销、法律等领域进行了微调，更好地满足专业垂直领域内容写作者的需求。Writer 很注重模型优化，使模型更小、更快速且成本更低。 亮点 准确性，安全性。 准确性 Top-ranked by Stanford HELM for a range of scenarios, PubMedQA for biomedical question answering, and BLEU for translations.</description>
+    <pubDate>Sun, 02 Mar 2025 08:58:42 GMT</pubDate>
   </item><item>
-    <title>卢曼卡片盒笔记法</title>
-    <link>https://iamjoel.github.io/dialogue/text/z/zettelkasten-method</link>
-    <guid>https://iamjoel.github.io/dialogue/text/z/zettelkasten-method</guid>
-    <description>英文名：Zettelkasten Method 卡片盒笔记系统就是由想法组成的想法之网(web of thought) 把单个想法作为基本单位。为了连接想法，要给每个想法分配一个地址以供引用。 包含内容 原子化 笔记组成 记录什么 .</description>
-    <pubDate>Thu, 27 Feb 2025 15:32:25 GMT</pubDate>
+    <title>Writesonic</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writesonic</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writesonic</guid>
+    <description>官网 Generative AI Platform for Content Creation, SEO and AI Chatbots. 写营销文，博客，SEO。.</description>
+    <pubDate>Sun, 02 Mar 2025 08:58:42 GMT</pubDate>
   </item><item>
-    <title>《疯狂动物城》</title>
-    <link>https://iamjoel.github.io/dialogue/text/z/zootopia</link>
-    <guid>https://iamjoel.github.io/dialogue/text/z/zootopia</guid>
-    <description> Where anyone can be anything. 在动物城，每个动物都有无限可能。 兔子朱迪，通过努力，成为了第一只兔子警官。 可以在上海的迪士尼体验。.</description>
-    <pubDate>Thu, 27 Feb 2025 15:32:25 GMT</pubDate>
+    <title>用 Dessix 生成小学生优秀作文范例</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writing-for-primary-school-by-dessix</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writing-for-primary-school-by-dessix</guid>
+    <description>对于低年级的小学生来说，写作文往往是一件令人头疼的事。他们的词汇量有限，逻辑组织能力也还在培养阶段，因此常常不知道从何下笔。需要读一些示例来参考。有没有一种办法，快速生成优秀的作文示例呢？ 我们用 Dessix 可以轻松实现这件事。具体可以看下面的视频： Dessix 可以简单理解为集成 LLM 的知识库管理软件。下面我们来看下具体实现吧。 写作流程 写作可以分成 3 步： 确定内容。 生成大纲。 开始写作。 在 Dessix 中，我们可以用 Action 来自动化每个步骤。可以把 Action 理解成一个文本转化器：让 LLM 根据要求(即 Prompt)，把文本转化成目标文本。比如，第 1 步 确定内容。我们给 LLM 的 要求是这样的： 你是一位专业的写作辅导老师，专注于帮助三年级小学生写出有趣、富有创意的作文。请根据要求生成 3-5 个不同的写作内容方向，并为每个方向提供简单的背景说明。内容要有吸引力并符合三年级小学生的水平，便于用户选择。 输出： 多个写作方向（至少 3 个），包括： 1.</description>
+    <pubDate>Sun, 02 Mar 2025 08:58:42 GMT</pubDate>
   </item><item>
-    <title>视觉</title>
-    <link>https://iamjoel.github.io/dialogue/text/v/vision</link>
-    <guid>https://iamjoel.github.io/dialogue/text/v/vision</guid>
-    <description>五彩斑斓 冬天是树叶。 水。 泰国的斯米兰的果冻海。 纯净 天空之镜 形状 印尼巴厘岛的恶魔之泪。被外媒评价为全球最美十大景点之一，整个悬崖从天空俯瞰酷似恶魔的头颅，坑里的海水在阳光照射下，宛如恶魔眼窝中渗出的眼泪。 .</description>
-    <pubDate>Thu, 27 Feb 2025 15:32:25 GMT</pubDate>
+    <title>非虚构类写作</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writing-non-fiction</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writing-non-fiction</guid>
+    <description> We believe that writing is a tool for thinking. If we can build a tool for helping people write and organize their ideas more effectively, we can help them have better thoughts and solve otherwise intractable problems.</description>
+    <pubDate>Sun, 02 Mar 2025 08:58:42 GMT</pubDate>
   </item><item>
-    <title>可视化</title>
-    <link>https://iamjoel.github.io/dialogue/text/v/visualization</link>
-    <guid>https://iamjoel.github.io/dialogue/text/v/visualization</guid>
-    <description> 编程逻辑可视化 .</description>
-    <pubDate>Thu, 27 Feb 2025 15:32:25 GMT</pubDate>
+    <title>古典主义 写作风格</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writing-style-classic</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writing-style-classic</guid>
+    <description> 古典风格是简洁的，但并不简单，它总会带读者看到那些不一样的真相。“早起的鸟儿有虫吃”，这是朴素风格；“早起的鸟儿有虫吃，但第二只老鼠有奶酪吃”（因为第一只老鼠被捕鼠器逮着了），这才是古典风格。 古典主义风格的特点：简洁、清晰和真实。 清晰 无论写作的主题多么复杂或者作者的才华多么出众，如果读者无法理解所写内容，那么写作就是失败的。 遵循语法规则与逻辑结构 语法是构建清晰表达的基础。正确的语法使用有助于准确地传达信息。同时，逻辑结构如同建筑的框架，合理的逻辑顺序（如因果关系、递进关系、对比关系等）能使文章层次分明，让读者轻松理解作者的意图。 词汇的选择与搭配 合适的词汇能够精准地表达思想。避免使用模糊、歧义或者过于生僻的词汇，同时也要注意词汇之间的搭配是否符合语言习惯。例如，一些动词和名词的搭配在特定语境下有固定的用法，正确使用这些搭配可以增强表达的准确性和流畅性。 资源 《风格感觉：21 世纪写作指南》 .</description>
+    <pubDate>Sun, 02 Mar 2025 08:58:42 GMT</pubDate>
   </item><item>
-    <title>VR 相关的</title>
-    <link>https://iamjoel.github.io/dialogue/text/v/vr-related</link>
-    <guid>https://iamjoel.github.io/dialogue/text/v/vr-related</guid>
-    <description>VR 设备 Pico Vision Pro 其他 万向跑步机: 解决在 VR 中，空间有限，但人需要移动的问题。 HoloTile .</description>
-    <pubDate>Thu, 27 Feb 2025 15:32:25 GMT</pubDate>
+    <title>技术类文章写作的SOP</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writing-tech-sop</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writing-tech-sop</guid>
+    <description> 确定技术类文章的范围等。 把技术类文章按功能来分类。 每个分类找一些优秀文章。 解构优秀文章，给每个分类做 SOP。 分类越小，SOP 越好做。 0 背景 写技术文章两个目标： 帮助自己提升对技术的理解。 提升自己(公众号)的影响力。能找到志同道合的人。顺便也赚点广告费。 因此，技术文章希望： 有深度。 有热度。在热点中匹配自己想兴趣的。 专门来做个新的公众号，来做偏流量获取的文章。 0.</description>
+    <pubDate>Sun, 02 Mar 2025 08:58:42 GMT</pubDate>
   </item><item>
-    <title>VS Code 插件</title>
-    <link>https://iamjoel.github.io/dialogue/text/v/vs-code-plugins</link>
-    <guid>https://iamjoel.github.io/dialogue/text/v/vs-code-plugins</guid>
-    <description> 类型插件名称功能快速导航favorites，Bookmarks给文件和文件夹加书签。Row 2 Col 1Row 2 Col 2Row 2 Col 3Row 3 Col 1Row 3 Col 2Row 3 Col 3 明细 favorites 和 Bookmarks 的比较 名称特性是否支持.</description>
-    <pubDate>Thu, 27 Feb 2025 15:32:25 GMT</pubDate>
+    <title>用 Dessix 根据自己的素材来写作</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writing-use-context-by-dessix</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writing-use-context-by-dessix</guid>
+    <description>在上篇文章中，我们用 Dessix 写了作文。但问题是，这样写出的作文情节是 LLM 编的。我们期望的是，根据自己的素材来写作文。 Dessix 可以很容易做到这功能。下面我们来看具体该怎么做。 假设，我们要写一篇作文叫 《我的爸爸》。我们在人物的文件夹下已经有了一些笔记：关于爸爸，妈妈和妹妹的。如下图所示： 执行下面的操作: 点击 人物 文件夹。 点击底部按钮 “Ask a Question” 来提问。 输入问题: 从上下文中找出和爸爸相关的内容，写一篇作文《我的爸爸》。 超级容易吧～ 我解释下这背后的技术细节。当我们选中文件夹，点击文件夹提问时，Dessix 会执行 RAG 和生成的过程：根据问题的语意，从上下文中 (默认是当前文件夹中的所有笔记) 匹配出满足条件的笔记，然后把这些笔记给 LLM，最后 LLM 再根据要求生成满足条件的内容。 在 Dessix 中，提问时当前所有的上下文(笔记)都会横向打开。可以手动地把笔记从上下文中移除。 也可以将笔记加入上下文。 拓展一下，如果你是一个文字工作者，有很多的素材，用类似的做法，就可以快速地写出一篇文章。你学会了吗～.</description>
+    <pubDate>Sun, 02 Mar 2025 08:58:42 GMT</pubDate>
   </item><item>
-    <title>Vue</title>
-    <link>https://iamjoel.github.io/dialogue/text/v/vue</link>
-    <guid>https://iamjoel.github.io/dialogue/text/v/vue</guid>
-    <description>#TODO.</description>
-    <pubDate>Thu, 27 Feb 2025 15:32:25 GMT</pubDate>
+    <title>写作工具箱</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writting-tools</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writting-tools</guid>
+    <description>让 AI 根据要求来生成，优化内容 转化 让语句变得通顺 让语句简洁 改成白描.</description>
+    <pubDate>Sun, 02 Mar 2025 08:58:42 GMT</pubDate>
   </item>
     </channel>
   </rss>
