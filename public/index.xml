@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Sat, 29 Mar 2025 03:28:00 GMT</pubDate>
+    <pubDate>Wed, 02 Apr 2025 04:59:36 GMT</pubDate>
   </item><item>
-    <title>结构化约束模型输出</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/writing-struct-to-improve-output</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/writing-struct-to-improve-output</guid>
-    <description>AI 写作技巧.</description>
-    <pubDate>Sat, 29 Mar 2025 03:27:43 GMT</pubDate>
+    <title>禅修</title>
+    <link>https://iamjoel.github.io/dialogue/text/z/zen-meditation</link>
+    <guid>https://iamjoel.github.io/dialogue/text/z/zen-meditation</guid>
+    <description> 庐山 - 诺那塔院 .</description>
+    <pubDate>Wed, 02 Apr 2025 04:59:21 GMT</pubDate>
   </item><item>
-    <title>古典主义 写作风格</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/writing-style-classic</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/writing-style-classic</guid>
-    <description> 古典风格是简洁的，但并不简单，它总会带读者看到那些不一样的真相。“早起的鸟儿有虫吃”，这是朴素风格；“早起的鸟儿有虫吃，但第二只老鼠有奶酪吃”（因为第一只老鼠被捕鼠器逮着了），这才是古典风格。 古典主义风格的特点：简洁、清晰和真实。 清晰 无论写作的主题多么复杂或者作者的才华多么出众，如果读者无法理解所写内容，那么写作就是失败的。 遵循语法规则与逻辑结构 语法是构建清晰表达的基础。正确的语法使用有助于准确地传达信息。同时，逻辑结构如同建筑的框架，合理的逻辑顺序（如因果关系、递进关系、对比关系等）能使文章层次分明，让读者轻松理解作者的意图。 词汇的选择与搭配 合适的词汇能够精准地表达思想。避免使用模糊、歧义或者过于生僻的词汇，同时也要注意词汇之间的搭配是否符合语言习惯。例如，一些动词和名词的搭配在特定语境下有固定的用法，正确使用这些搭配可以增强表达的准确性和流畅性。 资源 《风格感觉：21 世纪写作指南》 .</description>
-    <pubDate>Sat, 29 Mar 2025 03:27:43 GMT</pubDate>
+    <title>卢曼卡片盒笔记法</title>
+    <link>https://iamjoel.github.io/dialogue/text/z/zettelkasten-method</link>
+    <guid>https://iamjoel.github.io/dialogue/text/z/zettelkasten-method</guid>
+    <description>英文名：Zettelkasten Method 卡片盒笔记系统就是由想法组成的想法之网(web of thought) 把单个想法作为基本单位。为了连接想法，要给每个想法分配一个地址以供引用。 包含内容 原子化 笔记组成 记录什么 .</description>
+    <pubDate>Wed, 02 Apr 2025 04:59:21 GMT</pubDate>
   </item><item>
-    <title>技术类文章写作的SOP</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/writing-tech-sop</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/writing-tech-sop</guid>
-    <description> 确定技术类文章的范围等。 把技术类文章按功能来分类。 每个分类找一些优秀文章。 解构优秀文章，给每个分类做 SOP。 分类越小，SOP 越好做。 0 背景 写技术文章两个目标： 帮助自己提升对技术的理解。 提升自己(公众号)的影响力。能找到志同道合的人。顺便也赚点广告费。 因此，技术文章希望： 有深度。 有热度。在热点中匹配自己想兴趣的。 专门来做个新的公众号，来做偏流量获取的文章。 0.</description>
-    <pubDate>Sat, 29 Mar 2025 03:27:43 GMT</pubDate>
+    <title>《疯狂动物城》</title>
+    <link>https://iamjoel.github.io/dialogue/text/z/zootopia</link>
+    <guid>https://iamjoel.github.io/dialogue/text/z/zootopia</guid>
+    <description> Where anyone can be anything. 在动物城，每个动物都有无限可能。 兔子朱迪，通过努力，成为了第一只兔子警官。 可以在上海的迪士尼体验。.</description>
+    <pubDate>Wed, 02 Apr 2025 04:59:21 GMT</pubDate>
   </item><item>
-    <title>用 Dessix 根据自己的素材来写作</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/writing-use-context-by-dessix</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/writing-use-context-by-dessix</guid>
-    <description>在上篇文章中，我们用 Dessix 写了作文。但问题是，这样写出的作文情节是 LLM 编的。我们期望的是，根据自己的素材来写作文。 Dessix 可以很容易做到这功能。下面我们来看具体该怎么做。 假设，我们要写一篇作文叫 《我的爸爸》。我们在人物的文件夹下已经有了一些笔记：关于爸爸，妈妈和妹妹的。如下图所示： 执行下面的操作: 点击 人物 文件夹。 点击底部按钮 “Ask a Question” 来提问。 输入问题: 从上下文中找出和爸爸相关的内容，写一篇作文《我的爸爸》。 超级容易吧～ 我解释下这背后的技术细节。当我们选中文件夹，点击文件夹提问时，Dessix 会执行 RAG 和生成的过程：根据问题的语意，从上下文中 (默认是当前文件夹中的所有笔记) 匹配出满足条件的笔记，然后把这些笔记给 LLM，最后 LLM 再根据要求生成满足条件的内容。 在 Dessix 中，提问时当前所有的上下文(笔记)都会横向打开。可以手动地把笔记从上下文中移除。 也可以将笔记加入上下文。 拓展一下，如果你是一个文字工作者，有很多的素材，用类似的做法，就可以快速地写出一篇文章。你学会了吗～.</description>
-    <pubDate>Sat, 29 Mar 2025 03:27:43 GMT</pubDate>
+    <title>《我们都是好孩子》</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/we-are-all-good-children</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/we-are-all-good-children</guid>
+    <description>描述了孩童时代的无忧无虑, 很真.</description>
+    <pubDate>Wed, 02 Apr 2025 04:59:21 GMT</pubDate>
   </item><item>
-    <title>写作工具箱</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/writting-tools</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/writting-tools</guid>
-    <description>让 AI 根据要求来生成，优化内容 转化 让语句变得通顺 让语句简洁 改成白描.</description>
-    <pubDate>Sat, 29 Mar 2025 03:27:43 GMT</pubDate>
+    <title>如何获取财富？</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/wealth</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/wealth</guid>
+    <description>什么是财富 财富包含：钱，钱的等价物，关系（商誉，社会关系）。赚钱的机制。 满足别人的需求。卖时间个一个人，一群人。 用已有的财富做投资。 跑通，然后自动化，加杠杆。 如何获取 做对的事，把事做对。探索方向，提升效率(杠杆，缓存，算法/策略(路径规划等))，降低风险(风险边界，备份/冗杂)。 创造财富，要么靠生产，要么靠销售。在这之前，需要掌握一些 技能 和 工具。 快速创造财富。靠杠杆。杠杆有： 财务杠杆。 人力杠杆。 技术杠杆。 .</description>
+    <pubDate>Wed, 02 Apr 2025 04:59:21 GMT</pubDate>
   </item><item>
-    <title>与 AI 协同写作</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/writting-with-ai</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/writting-with-ai</guid>
-    <description>用 Trae 来协作。 帮我写文章: 主题是{主题描述}，背景介绍: {用户画像文件},文章结构参照{输出结构文件}，写作风格参考{写作风格文件}，写好的内容放在{目标文件夹下}。 用户画像: TODO 文章结构目前有: 介绍解决方案的结构 推广类结构 写作风格: TODO。 古典主义 写作风格.</description>
-    <pubDate>Sat, 29 Mar 2025 03:27:43 GMT</pubDate>
+    <title>《哲学家们都干了些什么？》</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/what-did-philosophers-do</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/what-did-philosophers-do</guid>
+    <description> 人为什么活着？人生的意义是什么？宇宙的本质是什么？ 我们这本书，就要把“追问人生意义”当作最大的目标。 基础信息 作者：林欣浩 出版社：北京日报 出版社出版时间：2022-02-01 ISBN：9787547742181 品牌方：读客文化股份有限公司 上篇： 理性的崛起 苏格拉底好讨厌 苏格拉底的人生： 他喜欢问别人问题，然后被判了死刑。 问别人问题： 苏格拉底一辈子做得最多的事就是问问题。当然，他不是像一般人那样提问。他专挑别人的漏洞，每次都能把对方问得头昏脑胀。 苏格拉底这个当时全雅典最智慧的人，却认为自己最无知，他觉得真理的答案不能光靠自己想，必须到处找人问。 苏格拉底的母亲是助产士，他自称为思想的“助产士”。 处死刑： 苏格拉底是被雅典的陪审团判处死刑的。陪审团的成员除了性别必须是男性以外，其余条件和美国今天的陪审团一样，是由普通老百姓抽签组成的，不论职业，不论学历，不论官阶，只要是成年的雅典公民就行。 该陪审团有 500 人。判苏格拉底死刑，360票比140票。 雅典人以哲学为荣。 雅典人认为哲学长面子。贵而无用就叫奢侈。而哲学这玩意儿超级无用。所以那个时代的人们一听说你是学哲学的，都狂羡慕。人家想：这人家里得多富裕才敢往哲学身上糟践钱啊。 柏拉图：拯救哲学的少年国王 哲学的发展常处于消亡的境地。.</description>
+    <pubDate>Wed, 02 Apr 2025 04:59:21 GMT</pubDate>
   </item><item>
-    <title>小鹏</title>
-    <link>https://iamjoel.github.io/dialogue/text/x/xiaopeng</link>
-    <guid>https://iamjoel.github.io/dialogue/text/x/xiaopeng</guid>
-    <description>官网 未来出行探索者 主导驾乘体验：扶摇架构。看起来很屌～.</description>
-    <pubDate>Sat, 29 Mar 2025 03:27:43 GMT</pubDate>
+    <title>什么是好文章</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/what-is-good-article</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/what-is-good-article</guid>
+    <description>好文章是目标读者觉得好的文章 读者有不同的知识背景，不同的价值观和偏好。因此，不存在一篇文章让所有读者的都觉得好。 我觉得的好文章 1 有信息量 通过读，能获得新的信息。信息要有细节。一些前因后果要说清楚。不是那种假大空的内容。例子： 没有细节: 我在饭田桥的“小丸子”吃了碗拉面，很好吃。 有细节: 我在饭田桥的“小丸子”吃到了极品豚骨汤面。汤底是炖了3天的猪骨浓汤，配菜是汆烫得恰到好处的豆芽菜，吃起来脆嫩爽口。桌子上放有店家推荐的柚子胡椒，只需撒上一点点，柚子那清新的酸味便会让你眼前一亮。 《九宫格写作法 如何写出一篇好文章》 2 内容是可信的 描述的内容要么符合事实，要么是在事实基础上通过逻辑判断而来。 3 读着是舒服的。 文章的结构让人动力读下去。通过好奇心也好，其他技巧也好。 主次分明。有重点。 语句的通顺。 .</description>
+    <pubDate>Wed, 02 Apr 2025 04:59:21 GMT</pubDate>
   </item><item>
-    <title>星云大师</title>
-    <link>https://iamjoel.github.io/dialogue/text/x/xingyue</link>
-    <guid>https://iamjoel.github.io/dialogue/text/x/xingyue</guid>
-    <description></description>
-    <pubDate>Sat, 29 Mar 2025 03:27:43 GMT</pubDate>
+    <title>《你想活出怎样的人生》</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/what-life-do-you-like</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/what-life-do-you-like</guid>
+    <description>2023年7月14日在日本上映。中国内地于2024年4月3日上映。可能是最后一部宫崎骏的电影了。宫崎骏 83 岁了。 内容 讲述了少年牧真人的母亲葬身火海后，他随父亲与继母组成新家庭。深陷悲伤的真人阴郁孤僻，难以融入新环境。一次意外，他跟随一只会说话的苍鹭闯入废弃的神秘塔楼，却不料进入了奇幻的“亡灵世界”（异世界），开始了一场不可思议的冒险故事。 有很多隐喻。 继母是母亲的亲妹妹。 母亲在异世界是火美。在异世界不怕火，现实中却死于火灾。 太舅公创造出了异世界。和巨石签订协议，明治维新。希望真人成为继承人。 异世界中的岛隐喻日本。 鹈鹕隐喻士兵？ 吃 哇啦哇啦 也是因为海里鱼不够，是不得已。部分士兵也是被裹挟在战争里。军国主义：膨胀的欲望，以及恐惧？ 吉野源三郎发表《你想活出怎样的人生》的1930年代，日本军国主义势力正在抬头，吉野源三郎或许已经感知到社会的异常与疯狂，预感到战争即将爆发。他无法阻挡战争趋势，但选择写下这本书，试图把“人”之所以为“人”的价值传递给年轻一代。第二次世界大战也正是电影《你想活出怎样的人生》的故事背景 苍鹭的原型是铃木敏夫，“塔楼主人”舅公象征着在宫崎骏动画生涯中的“人生导师”高畑勋，飒爽的雾子象征着与宫崎骏合作多年的色彩设计师保田道世。 .</description>
+    <pubDate>Wed, 02 Apr 2025 04:59:21 GMT</pubDate>
   </item><item>
-    <title>《你是你吃出来的2》</title>
-    <link>https://iamjoel.github.io/dialogue/text/y/you-are-what-you-eat-2</link>
-    <guid>https://iamjoel.github.io/dialogue/text/y/you-are-what-you-eat-2</guid>
-    <description>基本信息 作者：夏萌。 曾就职于北京天坛医院神经内科、北京安贞医院神经内科和营养科，曾任北京安贞医院营养科主任。 有丰富的临床经验。 慢性病康复的饮食密码 主要内容 介绍了一些慢性病的成因，影响，以及如何通过改变饮食和生活方式来治疗。 高血压 血压四怕：盐多、肉少、宅、情绪差。 建议： 适量的盐。少吃面条，少喝汤，别吃咸菜 优质蛋白 戒烟戒酒 多运动 少熬夜 保持心情愉快。 基本概念 收缩压： 心脏收缩时，把血液推入大血管时，会对动脉壁产生侧壁压力叫做收缩压。也叫上压。 舒张压： 心脏舒张时，大血管中的血液回流，会再次对血管壁产生压力叫做舒张压，也叫下压。 脉压：收缩压和舒张压的差值。 什么算高血压 收缩压 和 舒张压 血压类型收缩压舒张压一级高血压140 - 16090 - 100二级高血压160 - 180100 - 110三级高血压&gt; 180&gt; 110 脉压 中国正常人的脉压标准一般是30～40毫米汞柱，欧洲的标准是不超过65毫米汞柱，美国的标准是不超过70毫米汞柱——脉压65～70毫米汞柱是极限。 影响血压值的因素 最常见的影响血压值的有五大因素： 血容量 血管壁弹性 周围血管阻力 神经内分泌调节系统 心脏搏动。 血容量 血容量增加，血压上升。 人吃得过咸，会导致血容量增加。人吃得过咸时，血中的钠含量升高，就会激活人体的饥渴中枢，人感觉口渴就会喝水，目的是让血液中的钠浓度恢复正常。血容量随之增加。血容量不可能无限增加，血容量增加的同时，肾脏也会努力工作——排钠，排水，这样又加重了肾脏的负担。 按照《中国居民膳食指南（2016）》中的规定，成年人每天摄入盐的总量不要超过6克。 血管壁弹性 摄入优质蛋白有利于提升血管壁弹性。此外，维生素C、钙、镁、钾的摄入量对血管壁弹性也有重要影响。 血管弹性越好，侧压力被血管壁吸收得越多，测出来的收缩压就会偏低。血管壁弹性差的体现是脉压大：脉压大于40毫米汞柱。 血管壁的弹性与蛋白质密切相关。血管壁的弹性主要取决于血管壁中层弹性组织。大动脉的中层有40～70层弹性膜。弹性膜呈波浪状，主要成分是弹性蛋白。不仅如此，弹性膜之间还有平滑肌和一些胶原蛋白。 周围血管阻力 周围血管阻力与血管半径、血液黏度和血管长度有关。影响血管半径的因素很多，比如，神经内分泌系统是否稳定，动脉是否有粥样硬化，血液黏稠度问题，周围组织缺氧程度，等等。 有一种情况非常常见——不爱运动。不爱运动会造成组织细胞对氧的需求量减少，毛细血管前小动脉关闭，导致周围血管阻力加大。 周围血管阻力的体现是：高压正常，低压高。 情绪 当情绪紧张时，肾上腺素分泌会增多，交感神经会兴奋，这样会提高心脏的收缩力，并使外周血管收缩，导致血压高。 高血压的危害 严重后，容易引起并发症：冠心病、脑卒中、肾功能衰竭等。 高血压的处理 一级高血压暂时不用吃降压药，开始严格地管理自己，同时监测自己的血压变化。 二级和三级高血压需要马上吃药，让血压降下来，同时在生活方式上努力改变，做到标本兼治。 降压药 降压药有好几类，有扩张周围血管的钙离子阻断剂、有利尿剂、有抑制肾素-血管紧张素系统的，还有抑制心肌收缩及周围血管平滑肌收缩的。现在比较讲究的用药是几类药物各取一点，增强药物的协同性，减少药物的不良反应。.</description>
-    <pubDate>Sat, 29 Mar 2025 03:27:43 GMT</pubDate>
+    <title>记录什么</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/what-to-record</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/what-to-record</guid>
+    <description> 我建议输入知识而非信息(Knowledge instead of information)。 思考一下，我们要用写下的东西来做什么？当然，开始时我们做的笔记大部分都是垃圾。但是，我们所受的教育期望我们从所做的事情中得到一些有用的东西，如果没有任何有用的结果，我们很快就会失去信心。我们应该反思，是否对笔记进行了管理，以及如何有效的管理这些笔记，以便未来可以查阅。 知识是对信息进行处理并从中有所收获。.</description>
+    <pubDate>Wed, 02 Apr 2025 04:59:21 GMT</pubDate>
   </item>
     </channel>
   </rss>
