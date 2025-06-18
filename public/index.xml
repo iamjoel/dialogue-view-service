@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Tue, 17 Jun 2025 02:23:55 GMT</pubDate>
+    <pubDate>Wed, 18 Jun 2025 15:10:46 GMT</pubDate>
   </item><item>
-    <title>Zapier</title>
-    <link>https://iamjoel.github.io/dialogue/text/z/zapier</link>
-    <guid>https://iamjoel.github.io/dialogue/text/z/zapier</guid>
-    <description>官网.</description>
-    <pubDate>Tue, 17 Jun 2025 02:23:37 GMT</pubDate>
+    <title>推广类结构</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writing-struct-marketing</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writing-struct-marketing</guid>
+    <description>宣传标语生成 DeepSeek 提示词库 你是一个宣传标语专家，请根据用户需求设计一个独具创意且引人注目的宣传标语，需结合该产品/活动的核心价值和特点，同时融入新颖的表达方式或视角。请确保标语能够激发潜在客户的兴趣，并能留下深刻印象，可以考虑采用比喻、双关或其他修辞手法来增强语言的表现力。标语应简洁明了，需要朗朗上口，易于理解和记忆，一定要押韵，不要太过书面化。只输出宣传标语，不用解释。 请生成”{产品名称}“的宣传标语 一个月AI写作100+爆款文案,我总结的6个实用提示词模板 商品推荐 角色定位：你是一位专业的文案策划师。请基于以下信息撰写一篇软文: 背景设定: 写作风格:{轻松自然/专业权威/情感共鸣} 目标受众:{具体描述目标用户画像} 文章预期长度:1500-2000字 内容框架: 以{痛点/场景/热点话题}开头 引入3个用户真实困扰 自然过渡到解决方案 介绍{产品/服务}的3-5个核心优势 植入2-3个用户真实反馈 设置行动召唤 特别要求: 文风要自然流畅,避免硬广植入 多用数据和案例增加说服力 情感共鸣要贯穿全文 结尾要设置购买理由 类似的： 角色定位： 你是一位资深电商文案专家。请基于以下框架创作产品推广文案: 基础信息: 产品类型:{具体品类} 目标人群:{用户画像} 价格定位:{价格段} 核心卖点:3-5个 文案结构: 开篇爆点(50字内) 突出最核心竞争力 设置紧迫感/稀缺感 痛点切入(3-4个) 描述场景 引发共鸣 产品亮点(每点100字内) 功能点(Feature) 优势点(Advantage) 利益点(Benefit) 使用场景(2-3个) 具体问题 解决方案 使用效果 社会认同 销量数据 用户好评 权威认证 行动召唤 优惠信息 购买理由 紧迫感营造 要求: 文案风格要{活泼/专业/高级} 多用感叹号和emoji表情 设置2-3个爆点标题 突出cost-performance 故事类: 你是一位专业故事创作者。请按以下框架创作一篇故事化文案: 故事设定: 核心主题:{主题} 情感基调:{励志/温暖/紧张/幽默} 目标受众:{受众画像} 预期长度:800-1500字 故事框架: 开场冲突(hook) 设置悬念或冲突 捕获读者注意力 暗示核心主题 人物设定 主角特征(与目标受众相似) 背景故事 面临的困境 情节发展(3个节点) 第一转折:遇到问题 第二转折:尝试解决 第三转折:取得成果 解决方案 问题解决过程 关键转折点 具体方法/工具 情感升华 收获与感悟 普适性启示 行动建议 要求: 用对话增加真实感 添加细节描写 设置情感共鸣点 体现解决方案的普适性 测评类 你是一位专业的产品测评人。请按照以下框架撰写评测文章: 基础设置: 测评对象:{产品名称/类别} 测评周期:{使用时长} 评测深度:{体验/专业/横评} 目标读者:{用户画像} 字数:2500-3000字 评测框架: 开篇导入(设置评测基调) 购买理由 测评背景 期待值设定 首印象评价 开箱体验 外观设计 细节表现 核心测评(4-5个维度) 客观参数 主观体验 同类对比 场景测试 优缺点分析 亮点特色(3-4个) 不足之处(2-3个) 改进建议 使用建议 适合人群 使用技巧 注意事项 总结评分 维度评分 性价比分析 购买建议 要求: 保持客观中立 数据要量化 多用实测数据和场景 配图说明 知识分享类 你是一位专业的{领域}科普作者。请根据以下框架创作一篇知识分享文章: 内容定位: 领域:{具体领域} 难度:{入门/进阶/专业} 目标读者:{读者画像} 预期长度:2000-2500字 文章框架: 开篇设置(2-3个段落) 引入生活场景或热点话题 建立知识断层 引发学习兴趣 核心知识点(3-5个) 每个知识点先说What 再解释Why 最后说How 配合实例说明 实操指南 步骤拆解 注意事项 常见问题 延伸应用 实战案例 使用场景 进阶方向 要求: 使用比喻和类比 由浅入深,循序渐进 适当使用专业术语,但要解释 多用实例和图表说明 设置小标题和总结框 .</description>
+    <pubDate>Wed, 18 Jun 2025 15:10:31 GMT</pubDate>
   </item><item>
-    <title>禅修</title>
-    <link>https://iamjoel.github.io/dialogue/text/z/zen-meditation</link>
-    <guid>https://iamjoel.github.io/dialogue/text/z/zen-meditation</guid>
-    <description> 庐山 - 诺那塔院 .</description>
-    <pubDate>Tue, 17 Jun 2025 02:23:37 GMT</pubDate>
+    <title>介绍解决方案的结构</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writing-struct-solution</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writing-struct-solution</guid>
+    <description>结构 以《费曼学习法》写一篇文章，按照下面的结构写。{} 中的内容，需要按照实际的情况做替换。结构如下: {引入解决方案的场景。如“你是否经历过这样的困境：.</description>
+    <pubDate>Wed, 18 Jun 2025 15:10:31 GMT</pubDate>
   </item><item>
-    <title>卢曼卡片盒笔记法</title>
-    <link>https://iamjoel.github.io/dialogue/text/z/zettelkasten-method</link>
-    <guid>https://iamjoel.github.io/dialogue/text/z/zettelkasten-method</guid>
-    <description>英文名：Zettelkasten Method 卡片盒笔记系统就是由想法组成的想法之网(web of thought) 把单个想法作为基本单位。为了连接想法，要给每个想法分配一个地址以供引用。 包含内容 原子化 笔记组成 记录什么 .</description>
-    <pubDate>Tue, 17 Jun 2025 02:23:37 GMT</pubDate>
+    <title>结构化约束模型输出</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writing-struct-to-improve-output</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writing-struct-to-improve-output</guid>
+    <description>AI 写作技巧.</description>
+    <pubDate>Wed, 18 Jun 2025 15:10:31 GMT</pubDate>
   </item><item>
-    <title>《疯狂动物城》</title>
-    <link>https://iamjoel.github.io/dialogue/text/z/zootopia</link>
-    <guid>https://iamjoel.github.io/dialogue/text/z/zootopia</guid>
-    <description> Where anyone can be anything. 在动物城，每个动物都有无限可能。 兔子朱迪，通过努力，成为了第一只兔子警官。 可以在上海的迪士尼体验。.</description>
-    <pubDate>Tue, 17 Jun 2025 02:23:37 GMT</pubDate>
+    <title>古典主义 写作风格</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writing-style-classic</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writing-style-classic</guid>
+    <description> 古典风格是简洁的，但并不简单，它总会带读者看到那些不一样的真相。“早起的鸟儿有虫吃”，这是朴素风格；“早起的鸟儿有虫吃，但第二只老鼠有奶酪吃”（因为第一只老鼠被捕鼠器逮着了），这才是古典风格。 古典主义风格的特点：简洁、清晰和真实。 清晰 无论写作的主题多么复杂或者作者的才华多么出众，如果读者无法理解所写内容，那么写作就是失败的。 遵循语法规则与逻辑结构 语法是构建清晰表达的基础。正确的语法使用有助于准确地传达信息。同时，逻辑结构如同建筑的框架，合理的逻辑顺序（如因果关系、递进关系、对比关系等）能使文章层次分明，让读者轻松理解作者的意图。 词汇的选择与搭配 合适的词汇能够精准地表达思想。避免使用模糊、歧义或者过于生僻的词汇，同时也要注意词汇之间的搭配是否符合语言习惯。例如，一些动词和名词的搭配在特定语境下有固定的用法，正确使用这些搭配可以增强表达的准确性和流畅性。 资源 《风格感觉：21 世纪写作指南》 .</description>
+    <pubDate>Wed, 18 Jun 2025 15:10:31 GMT</pubDate>
   </item><item>
-    <title>想要知道的列表</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/want-to-know-list</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/want-to-know-list</guid>
-    <description>为什么一定要知道。 纯粹的好奇心 想知道的这些，哪些是因为焦虑呢？ 焦虑的原因： 别人/圈子里的人知道，我不知道 .</description>
-    <pubDate>Tue, 17 Jun 2025 02:23:37 GMT</pubDate>
+    <title>技术类文章写作的SOP</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writing-tech-sop</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writing-tech-sop</guid>
+    <description> 确定技术类文章的范围等。 把技术类文章按功能来分类。 每个分类找一些优秀文章。 解构优秀文章，给每个分类做 SOP。 分类越小，SOP 越好做。 0 背景 写技术文章两个目标： 帮助自己提升对技术的理解。 提升自己(公众号)的影响力。能找到志同道合的人。顺便也赚点广告费。 因此，技术文章希望： 有深度。 有热度。在热点中匹配自己想兴趣的。 专门来做个新的公众号，来做偏流量获取的文章。 0.</description>
+    <pubDate>Wed, 18 Jun 2025 15:10:31 GMT</pubDate>
   </item><item>
-    <title>《我们都是好孩子》</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/we-are-all-good-children</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/we-are-all-good-children</guid>
-    <description>描述了孩童时代的无忧无虑, 很真.</description>
-    <pubDate>Tue, 17 Jun 2025 02:23:37 GMT</pubDate>
+    <title>用 Dessix 根据自己的素材来写作</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writing-use-context-by-dessix</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writing-use-context-by-dessix</guid>
+    <description>在上篇文章中，我们用 Dessix 写了作文。但问题是，这样写出的作文情节是 LLM 编的。我们期望的是，根据自己的素材来写作文。 Dessix 可以很容易做到这功能。下面我们来看具体该怎么做。 假设，我们要写一篇作文叫 《我的爸爸》。我们在人物的文件夹下已经有了一些笔记：关于爸爸，妈妈和妹妹的。如下图所示： 执行下面的操作: 点击 人物 文件夹。 点击底部按钮 “Ask a Question” 来提问。 输入问题: 从上下文中找出和爸爸相关的内容，写一篇作文《我的爸爸》。 超级容易吧～ 我解释下这背后的技术细节。当我们选中文件夹，点击文件夹提问时，Dessix 会执行 RAG 和生成的过程：根据问题的语意，从上下文中 (默认是当前文件夹中的所有笔记) 匹配出满足条件的笔记，然后把这些笔记给 LLM，最后 LLM 再根据要求生成满足条件的内容。 在 Dessix 中，提问时当前所有的上下文(笔记)都会横向打开。可以手动地把笔记从上下文中移除。 也可以将笔记加入上下文。 拓展一下，如果你是一个文字工作者，有很多的素材，用类似的做法，就可以快速地写出一篇文章。你学会了吗～.</description>
+    <pubDate>Wed, 18 Jun 2025 15:10:31 GMT</pubDate>
   </item><item>
-    <title>如何获取财富？</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/wealth</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/wealth</guid>
-    <description>什么是财富 财富包含：钱，钱的等价物，关系（商誉，社会关系）。赚钱的机制。 满足别人的需求。卖时间个一个人，一群人。 用已有的财富做投资。 跑通，然后自动化，加杠杆。 如何获取 做对的事，把事做对。探索方向，提升效率(杠杆，缓存，算法/策略(路径规划等))，降低风险(风险边界，备份/冗杂)。 创造财富，要么靠生产，要么靠销售。在这之前，需要掌握一些 技能 和 工具。 快速创造财富。靠杠杆。杠杆有： 财务杠杆。 人力杠杆。 技术杠杆。 .</description>
-    <pubDate>Tue, 17 Jun 2025 02:23:37 GMT</pubDate>
+    <title>写作工具箱</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writting-tools</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writting-tools</guid>
+    <description>让 AI 根据要求来生成，优化内容 转化 让语句变得通顺 让语句简洁 改成白描.</description>
+    <pubDate>Wed, 18 Jun 2025 15:10:31 GMT</pubDate>
   </item><item>
-    <title>《哲学家们都干了些什么？》</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/what-did-philosophers-do</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/what-did-philosophers-do</guid>
-    <description> 人为什么活着？人生的意义是什么？宇宙的本质是什么？ 我们这本书，就要把“追问人生意义”当作最大的目标。 基础信息 作者：林欣浩 出版社：北京日报 出版社出版时间：2022-02-01 ISBN：9787547742181 品牌方：读客文化股份有限公司 上篇： 理性的崛起 苏格拉底好讨厌 苏格拉底的人生： 他喜欢问别人问题，然后被判了死刑。 问别人问题： 苏格拉底一辈子做得最多的事就是问问题。当然，他不是像一般人那样提问。他专挑别人的漏洞，每次都能把对方问得头昏脑胀。 苏格拉底这个当时全雅典最智慧的人，却认为自己最无知，他觉得真理的答案不能光靠自己想，必须到处找人问。 苏格拉底的母亲是助产士，他自称为思想的“助产士”。 处死刑： 苏格拉底是被雅典的陪审团判处死刑的。陪审团的成员除了性别必须是男性以外，其余条件和美国今天的陪审团一样，是由普通老百姓抽签组成的，不论职业，不论学历，不论官阶，只要是成年的雅典公民就行。 该陪审团有 500 人。判苏格拉底死刑，360票比140票。 雅典人以哲学为荣。 雅典人认为哲学长面子。贵而无用就叫奢侈。而哲学这玩意儿超级无用。所以那个时代的人们一听说你是学哲学的，都狂羡慕。人家想：这人家里得多富裕才敢往哲学身上糟践钱啊。 柏拉图：拯救哲学的少年国王 哲学的发展常处于消亡的境地。.</description>
-    <pubDate>Tue, 17 Jun 2025 02:23:37 GMT</pubDate>
+    <title>与 AI 协同写作</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/writting-with-ai</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/writting-with-ai</guid>
+    <description>用 Trae 来协作。 帮我写文章: 主题是{主题描述}，背景介绍: {用户画像文件},文章结构参照{输出结构文件}，写作风格参考{写作风格文件}，写好的内容放在{目标文件夹下}。 用户画像: TODO 文章结构目前有: 介绍解决方案的结构 推广类结构 写作风格: TODO。 古典主义 写作风格.</description>
+    <pubDate>Wed, 18 Jun 2025 15:10:31 GMT</pubDate>
   </item><item>
-    <title>什么是好文章</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/what-is-good-article</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/what-is-good-article</guid>
-    <description>好文章是目标读者觉得好的文章 读者有不同的知识背景，不同的价值观和偏好。因此，不存在一篇文章让所有读者的都觉得好。 我觉得的好文章 1 有信息量 通过读，能获得新的信息。信息要有细节。一些前因后果要说清楚。不是那种假大空的内容。例子： 没有细节: 我在饭田桥的“小丸子”吃了碗拉面，很好吃。 有细节: 我在饭田桥的“小丸子”吃到了极品豚骨汤面。汤底是炖了3天的猪骨浓汤，配菜是汆烫得恰到好处的豆芽菜，吃起来脆嫩爽口。桌子上放有店家推荐的柚子胡椒，只需撒上一点点，柚子那清新的酸味便会让你眼前一亮。 《九宫格写作法 如何写出一篇好文章》 2 内容是可信的 描述的内容要么符合事实，要么是在事实基础上通过逻辑判断而来。 3 读着是舒服的。 文章的结构让人动力读下去。通过好奇心也好，其他技巧也好。 主次分明。有重点。 语句的通顺。 .</description>
-    <pubDate>Tue, 17 Jun 2025 02:23:37 GMT</pubDate>
+    <title>小鹏</title>
+    <link>https://iamjoel.github.io/dialogue/text/x/xiaopeng</link>
+    <guid>https://iamjoel.github.io/dialogue/text/x/xiaopeng</guid>
+    <description>官网 未来出行探索者 主导驾乘体验：扶摇架构。看起来很屌～.</description>
+    <pubDate>Wed, 18 Jun 2025 15:10:31 GMT</pubDate>
   </item>
     </channel>
   </rss>
