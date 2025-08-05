@@ -10,61 +10,61 @@
     <link>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/viewpoint/content/tech/client-side-component-in-nextjs/readme</guid>
     <description>Next.js 的组件分为服务端组件(server-components)和客户端组件(client-components)。服务端组件只在服务端运行，运行完的结果直接输出到客户端。那么，客户端组件是只在客户端运行吗？ 我们来看下面这个客户端组件： &#039;use client&#039; import type { FC } from &#039;react&#039; import React, { useEffect } from &#039;react&#039; const Test: FC = () =&gt; { const [num, setNum] = React.</description>
-    <pubDate>Thu, 17 Jul 2025 02:23:00 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 16:33:02 GMT</pubDate>
+  </item><item>
+    <title>冬天</title>
+    <link>https://iamjoel.github.io/dialogue/text/w/winter</link>
+    <guid>https://iamjoel.github.io/dialogue/text/w/winter</guid>
+    <description> 哈尔滨，冰雪大世界。 大兴安岭。 温泉，三温暖。 .</description>
+    <pubDate>Tue, 05 Aug 2025 16:32:43 GMT</pubDate>
   </item><item>
     <title>智慧</title>
     <link>https://iamjoel.github.io/dialogue/text/w/wisdom</link>
     <guid>https://iamjoel.github.io/dialogue/text/w/wisdom</guid>
     <description>戒定慧 戒：持戒。减少心烦意乱的障碍。 定: 心定。 慧：能全心全意(更大的带宽)对待当下。 安忍不动如大地，静虑深密如秘藏 《地藏十轮经》中对地藏菩萨德行的描述 接受无常 接受无常，有助于心定下来。 无为 为学日益，为道日损。损之又损，以至于无为。 《道德经》 资源 《生命之书》 .</description>
-    <pubDate>Thu, 17 Jul 2025 02:22:44 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 16:32:43 GMT</pubDate>
   </item><item>
     <title>WorkOS</title>
     <link>https://iamjoel.github.io/dialogue/text/w/workos</link>
     <guid>https://iamjoel.github.io/dialogue/text/w/workos</guid>
     <description>官网 Your app,Enterprise Ready. Start selling to enterprise customers with just a few lines of code. Implement features like single sign-on in minutes instead of months.</description>
-    <pubDate>Thu, 17 Jul 2025 02:22:44 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 16:32:43 GMT</pubDate>
   </item><item>
     <title>Writer</title>
     <link>https://iamjoel.github.io/dialogue/text/w/writer</link>
     <guid>https://iamjoel.github.io/dialogue/text/w/writer</guid>
     <description> Transform work with full-stack generative AI Writer 基于 LLM 的 2B 的企业营销内容创作平台。 2020 年成立。 其收入在过去两年翻了 10 倍，收入规模超过 2,000 万美金，且 NDR 超过 150%。 自研了LLM： Palmyra。在获得商业授权的 1 万亿 tokens 的数据集上进行训练，并针对医疗保健、营销、法律等领域进行了微调，更好地满足专业垂直领域内容写作者的需求。Writer 很注重模型优化，使模型更小、更快速且成本更低。 亮点 准确性，安全性。 准确性 Top-ranked by Stanford HELM for a range of scenarios, PubMedQA for biomedical question answering, and BLEU for translations.</description>
-    <pubDate>Thu, 17 Jul 2025 02:22:44 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 16:32:43 GMT</pubDate>
   </item><item>
     <title>Writesonic</title>
     <link>https://iamjoel.github.io/dialogue/text/w/writesonic</link>
     <guid>https://iamjoel.github.io/dialogue/text/w/writesonic</guid>
     <description>官网 Generative AI Platform for Content Creation, SEO and AI Chatbots. 写营销文，博客，SEO。.</description>
-    <pubDate>Thu, 17 Jul 2025 02:22:44 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 16:32:43 GMT</pubDate>
   </item><item>
     <title>用 Dessix 生成小学生优秀作文范例</title>
     <link>https://iamjoel.github.io/dialogue/text/w/writing-for-primary-school-by-dessix</link>
     <guid>https://iamjoel.github.io/dialogue/text/w/writing-for-primary-school-by-dessix</guid>
     <description>对于低年级的小学生来说，写作文往往是一件令人头疼的事。他们的词汇量有限，逻辑组织能力也还在培养阶段，因此常常不知道从何下笔。需要读一些示例来参考。有没有一种办法，快速生成优秀的作文示例呢？ 我们用 Dessix 可以轻松实现这件事。具体可以看下面的视频： Dessix 可以简单理解为集成 LLM 的知识库管理软件。下面我们来看下具体实现吧。 写作流程 写作可以分成 3 步： 确定内容。 生成大纲。 开始写作。 在 Dessix 中，我们可以用 Action 来自动化每个步骤。可以把 Action 理解成一个文本转化器：让 LLM 根据要求(即 Prompt)，把文本转化成目标文本。比如，第 1 步 确定内容。我们给 LLM 的 要求是这样的： 你是一位专业的写作辅导老师，专注于帮助三年级小学生写出有趣、富有创意的作文。请根据要求生成 3-5 个不同的写作内容方向，并为每个方向提供简单的背景说明。内容要有吸引力并符合三年级小学生的水平，便于用户选择。 输出： 多个写作方向（至少 3 个），包括： 1.</description>
-    <pubDate>Thu, 17 Jul 2025 02:22:44 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 16:32:43 GMT</pubDate>
   </item><item>
     <title>非虚构类写作</title>
     <link>https://iamjoel.github.io/dialogue/text/w/writing-non-fiction</link>
     <guid>https://iamjoel.github.io/dialogue/text/w/writing-non-fiction</guid>
     <description> We believe that writing is a tool for thinking. If we can build a tool for helping people write and organize their ideas more effectively, we can help them have better thoughts and solve otherwise intractable problems.</description>
-    <pubDate>Thu, 17 Jul 2025 02:22:44 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 16:32:43 GMT</pubDate>
   </item><item>
     <title>推广类结构</title>
     <link>https://iamjoel.github.io/dialogue/text/w/writing-struct-marketing</link>
     <guid>https://iamjoel.github.io/dialogue/text/w/writing-struct-marketing</guid>
     <description>宣传标语生成 DeepSeek 提示词库 你是一个宣传标语专家，请根据用户需求设计一个独具创意且引人注目的宣传标语，需结合该产品/活动的核心价值和特点，同时融入新颖的表达方式或视角。请确保标语能够激发潜在客户的兴趣，并能留下深刻印象，可以考虑采用比喻、双关或其他修辞手法来增强语言的表现力。标语应简洁明了，需要朗朗上口，易于理解和记忆，一定要押韵，不要太过书面化。只输出宣传标语，不用解释。 请生成”{产品名称}“的宣传标语 一个月AI写作100+爆款文案,我总结的6个实用提示词模板 商品推荐 角色定位：你是一位专业的文案策划师。请基于以下信息撰写一篇软文: 背景设定: 写作风格:{轻松自然/专业权威/情感共鸣} 目标受众:{具体描述目标用户画像} 文章预期长度:1500-2000字 内容框架: 以{痛点/场景/热点话题}开头 引入3个用户真实困扰 自然过渡到解决方案 介绍{产品/服务}的3-5个核心优势 植入2-3个用户真实反馈 设置行动召唤 特别要求: 文风要自然流畅,避免硬广植入 多用数据和案例增加说服力 情感共鸣要贯穿全文 结尾要设置购买理由 类似的： 角色定位： 你是一位资深电商文案专家。请基于以下框架创作产品推广文案: 基础信息: 产品类型:{具体品类} 目标人群:{用户画像} 价格定位:{价格段} 核心卖点:3-5个 文案结构: 开篇爆点(50字内) 突出最核心竞争力 设置紧迫感/稀缺感 痛点切入(3-4个) 描述场景 引发共鸣 产品亮点(每点100字内) 功能点(Feature) 优势点(Advantage) 利益点(Benefit) 使用场景(2-3个) 具体问题 解决方案 使用效果 社会认同 销量数据 用户好评 权威认证 行动召唤 优惠信息 购买理由 紧迫感营造 要求: 文案风格要{活泼/专业/高级} 多用感叹号和emoji表情 设置2-3个爆点标题 突出cost-performance 故事类: 你是一位专业故事创作者。请按以下框架创作一篇故事化文案: 故事设定: 核心主题:{主题} 情感基调:{励志/温暖/紧张/幽默} 目标受众:{受众画像} 预期长度:800-1500字 故事框架: 开场冲突(hook) 设置悬念或冲突 捕获读者注意力 暗示核心主题 人物设定 主角特征(与目标受众相似) 背景故事 面临的困境 情节发展(3个节点) 第一转折:遇到问题 第二转折:尝试解决 第三转折:取得成果 解决方案 问题解决过程 关键转折点 具体方法/工具 情感升华 收获与感悟 普适性启示 行动建议 要求: 用对话增加真实感 添加细节描写 设置情感共鸣点 体现解决方案的普适性 测评类 你是一位专业的产品测评人。请按照以下框架撰写评测文章: 基础设置: 测评对象:{产品名称/类别} 测评周期:{使用时长} 评测深度:{体验/专业/横评} 目标读者:{用户画像} 字数:2500-3000字 评测框架: 开篇导入(设置评测基调) 购买理由 测评背景 期待值设定 首印象评价 开箱体验 外观设计 细节表现 核心测评(4-5个维度) 客观参数 主观体验 同类对比 场景测试 优缺点分析 亮点特色(3-4个) 不足之处(2-3个) 改进建议 使用建议 适合人群 使用技巧 注意事项 总结评分 维度评分 性价比分析 购买建议 要求: 保持客观中立 数据要量化 多用实测数据和场景 配图说明 知识分享类 你是一位专业的{领域}科普作者。请根据以下框架创作一篇知识分享文章: 内容定位: 领域:{具体领域} 难度:{入门/进阶/专业} 目标读者:{读者画像} 预期长度:2000-2500字 文章框架: 开篇设置(2-3个段落) 引入生活场景或热点话题 建立知识断层 引发学习兴趣 核心知识点(3-5个) 每个知识点先说What 再解释Why 最后说How 配合实例说明 实操指南 步骤拆解 注意事项 常见问题 延伸应用 实战案例 使用场景 进阶方向 要求: 使用比喻和类比 由浅入深,循序渐进 适当使用专业术语,但要解释 多用实例和图表说明 设置小标题和总结框 .</description>
-    <pubDate>Thu, 17 Jul 2025 02:22:44 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 16:32:43 GMT</pubDate>
   </item><item>
     <title>介绍解决方案的结构</title>
     <link>https://iamjoel.github.io/dialogue/text/w/writing-struct-solution</link>
     <guid>https://iamjoel.github.io/dialogue/text/w/writing-struct-solution</guid>
     <description>结构 以《费曼学习法》写一篇文章，按照下面的结构写。{} 中的内容，需要按照实际的情况做替换。结构如下: {引入解决方案的场景。如“你是否经历过这样的困境：.</description>
-    <pubDate>Thu, 17 Jul 2025 02:22:44 GMT</pubDate>
-  </item><item>
-    <title>结构化约束模型输出</title>
-    <link>https://iamjoel.github.io/dialogue/text/w/writing-struct-to-improve-output</link>
-    <guid>https://iamjoel.github.io/dialogue/text/w/writing-struct-to-improve-output</guid>
-    <description>AI 写作技巧.</description>
-    <pubDate>Thu, 17 Jul 2025 02:22:44 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 16:32:43 GMT</pubDate>
   </item>
     </channel>
   </rss>
